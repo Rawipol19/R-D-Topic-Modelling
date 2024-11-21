@@ -5,21 +5,26 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from gensim.corpora import Dictionary
 from gensim.models import LdaModel, TfidfModel
+from nltk.stem import WordNetLemmatizer
 
 # Download stopwords and tokenize data (if not already downloaded)
 nltk.download('stopwords')
 nltk.download('punkt_tab')
+nltk.download('wordnet')
 
 # Define the folder containing the text files
 folder_path = 'doc'
 
 # Set up stop words and preprocessing function
 stop_words = set(stopwords.words('english'))
-downweight_words = {"assessment", "graded", "credit", "requires"}  # Words to down-weight
+downweight_words = {"assessment", "graded", "credit", "require", "cmkl", "complex", "level", "detail", "competency", "identity", "description", "instructor"}  # Words to down-weight
+#initialize stemmer
+stemmer = WordNetLemmatizer()
+
 
 def preprocess(text):
     tokens = word_tokenize(text.lower())  # Convert to lowercase and tokenize
-    tokens = [word for word in tokens if word.isalpha() and word not in stop_words]
+    tokens = [stemmer.lemmatize(word) for word in tokens if word.isalpha() and word not in stop_words]
     return tokens
 
 # Read and preprocess each file in the folder
@@ -42,6 +47,9 @@ print(documents[0])
 # Create a dictionary from the processed documents
 dictionary = Dictionary(documents)
 
+#remove low value token
+dictionary.filter_extremes(no_below=5, no_above=0.5)  # Remove words in <5 docs or >50% of docs
+
 # Adjust the frequency of specific words in the dictionary
 for word in downweight_words:
     if word in dictionary.token2id:
@@ -59,7 +67,7 @@ corpus_tfidf = tfidf_model[corpus_bow]
 
 # Train the LDA model using the TF-IDF corpus
 num_topics = 50  # Number of topics
-lda_model = LdaModel(corpus=corpus_tfidf, id2word=dictionary, num_topics=num_topics, passes=500)
+lda_model = LdaModel(corpus=corpus_tfidf, id2word=dictionary, num_topics=num_topics, passes=300)
 
 # Print topics with keywords
 for idx, topic in lda_model.print_topics(-1):
@@ -75,6 +83,11 @@ for i, doc in enumerate(corpus_tfidf):
     # Sort topics by probability in descending order and select the top 5 topics
     top_5_topics = sorted(topic_probabilities, key=lambda x: x[1], reverse=True)[:5]
 
+    # Print the top 5 topics for the document
+    print(f"Document {i + 1} (Original: {competency_labels[i]}):")
+    for topic_id, prob in top_5_topics:
+        print(f"  Topic {topic_id}: {prob:.4f}")
+      
     # Create a sorted tuple of the top 5 topic IDs to use as a unique key
     top_5_topic_ids = tuple(sorted([topic_id for topic_id, prob in top_5_topics]))
 
@@ -82,6 +95,7 @@ for i, doc in enumerate(corpus_tfidf):
     if top_5_topic_ids not in document_groups:
         document_groups[top_5_topic_ids] = []
     document_groups[top_5_topic_ids].append(f"Document {i + 1} (Original: {competency_labels[i]})")
+
 
 # Print each group of documents
 for topic_ids, docs in document_groups.items():
@@ -96,4 +110,4 @@ dictionary.save("dictionary.dict")
 # Example: Find top topics for the first document
 document_topics = lda_model.get_document_topics(corpus_tfidf[0])
 top_5_topics = sorted(document_topics, key=lambda x: x[1], reverse=True)[:5]
-print("\nTop 5 topics for the first document:", top_5_topics)
+
