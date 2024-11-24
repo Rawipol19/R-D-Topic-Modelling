@@ -1,0 +1,30 @@
+Details for Competency URD-321 (Industrial Internship (1))
+
+IDENTITY CODE: INTERNSHIP_1_9
+REQUIRED? false
+CREDITS: 9 (Graded)
+OPTION GROUP: Third Year R\&D Semester 1
+
+DESCRIPTION
+This competency is intended to give students practical experience working on-site in a company or research institution as part of an existing team. Students will fill a specific role determined by their supervisor at the host institution and will participate in the day-to-day activities of the institution, working on assigned tasks and contribution to their team of colleagues. Internships usually last for three months (one semester) but may be extended.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- R&D
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: URD-321:00010   
+	KNOWLEDGE TOPIC: Industrial Internship                                       
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Contribute to the work of an industrial partner
+	ASSESSMENT DESCRIPTION: Perform assigned duties and contribute to the working team on the site of the industrial sponsor
+	COMPLEXITY LEVEL:Evaluate                
+
+
+
+

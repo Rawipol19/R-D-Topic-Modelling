@@ -1,0 +1,35 @@
+Details for Competency MAT-205 (Probability Distributions)
+
+IDENTITY CODE: PROB_DIST_3
+REQUIRED? true
+CREDITS: 3 (Graded)
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+   -- MAT-204 - Introduction to Probability
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: MAT-205:00010   
+	KNOWLEDGE TOPIC: Discrete Random Variables                                   
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Determine the appropriate random variable
+	ASSESSMENT DESCRIPTION: Given a random phenomenon, determine an appropriate random variable to model it, and use it to calculate the probability of some events of interest.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: MAT-205:00020   
+	KNOWLEDGE TOPIC: Continuous Random Variables                                 
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Use of the De Moivre - Laplace limit theorem
+	ASSESSMENT DESCRIPTION: Compute the exact probability of events of interest using a Binomial distribution and approximate them with an appropriate Normal distribution.
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

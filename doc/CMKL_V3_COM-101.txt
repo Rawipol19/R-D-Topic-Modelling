@@ -1,0 +1,76 @@
+Details for Competency COM-101 (Research and Technical Writing)
+
+IDENTITY CODE: RESEARCH_WRITING_8
+REQUIRED? false
+CREDITS: 8 (Graded)
+DESCRIPTION
+Research and Technical Writing explores advanced research methodologies and effective communication techniques. Students will develop skills in critical analysis, data interpretation and presentation, and professional documentation. The course emphasizes clarity, precision, and coherence in writing technical reports, proposals, and research papers, preparing students for academic and professional success.
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: COM-101:00010   
+	KNOWLEDGE TOPIC: Units of written language: clauses, sentences and paragraphs
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Demonstrate the ability to create clear, grammatical sentences and paragraphs
+	ASSESSMENT DESCRIPTION: Given a topic, write clear sentences and paragraphs that expand on this topic.  
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: COM-101:00020   
+	KNOWLEDGE TOPIC: Exposition patterns (logical structure for arguments)       
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Apply exposition patterns presenting a written argument
+	ASSESSMENT DESCRIPTION: Given a topic, choose and apply an appropriate exposition pattern in writing about the topic. Identify the exposition pattern selected and explain why you chose it.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: COM-101:00030   
+	KNOWLEDGE TOPIC: Problem statements                                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create a clear and compelling statement of a problem
+	ASSESSMENT DESCRIPTION: Create an introduction to a written document that clearly and compelling states the problem the document is intended to address.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: COM-101:00040   
+	KNOWLEDGE TOPIC: Organization of a technical or research document            
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Apply knowledge about the typical organization of technical and research documents 
+	ASSESSMENT DESCRIPTION: Create a detailed outline for a technical document with an assigned category and theme. 
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: COM-101:00050   
+	KNOWLEDGE TOPIC: Technical writing style conventions                         
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Understand and apply document style conventions for technical and research documents.
+	ASSESSMENT DESCRIPTION: Write a research document on a provided topic, following formal style conventions.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: COM-101:00060   
+	KNOWLEDGE TOPIC: Literature reviews including citations and references       
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Write a literature review           
+	ASSESSMENT DESCRIPTION: Given a topic, read and summarize relevant sources about this topic. Then write an effective literature review, including in-document citations and a list of references.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: COM-101:00070   
+	KNOWLEDGE TOPIC: Effective presentation of data (graphs, tables)             
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Design and use data presentations effectively
+	ASSESSMENT DESCRIPTION: Given a set of raw data, create graphs or tables that clearly communicate the insights or conclusions one can draw from the data. Then write text that would accompany the data presentation, guiding the reader through the presentation and highlighting the main points.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

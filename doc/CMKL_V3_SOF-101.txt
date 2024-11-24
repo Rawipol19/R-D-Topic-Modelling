@@ -1,0 +1,28 @@
+Details for Competency SOF-101 (Adaptability - Semester 1)
+
+IDENTITY CODE: ADAPTABiLITY_1_0
+REQUIRED? true
+CREDITS: 0 (Graded)
+DESCRIPTION
+Adaptability is the ability and willingness to adjust one's goals, actions and attitudes when necessary in the face of obstacles or evidence for better outcomes. It includes creative flexibility, adjusting or modifying ideas, designs, processes, decisions and other aspects of products or deliverables, and working flexibility, adjusting or modifying one’s behavior to fit better into the team processes or to achieve better results. 
+RESPONSIBLE INSTRUCTOR: Apirujee Rujirek
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SOF-101:00010   
+	KNOWLEDGE TOPIC: Adaptability                                                
+	ASSESSMENT TYPE: Observational assessment
+	ASSESSMENT TITLE: Assessment: Adaptability            
+	ASSESSMENT DESCRIPTION: Behavioral evaluation by faculty and self-assessment                            
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

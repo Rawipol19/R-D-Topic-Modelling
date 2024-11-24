@@ -1,0 +1,38 @@
+Details for Competency HCD-503 (User Research: Methodologies, Data, and Design Thinking)
+
+IDENTITY CODE: USER_RESEARCH_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Digital product and services are predicated on filling needs and solving problems for modern customers, and this problem-solving begins with understanding the users themselves. User research methodologies are leveraged to collect targeted data on customer touchpoints (and pain points), and that data is translated into optimized design thinking in the form of products, services, and solutions to customer problems. This course provides tools and process to conduct effective user research, and to apply this process within real-life scenarios.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+   -- MAT-205 - Probability Distributions
+   -- MAT-206 - Statistical Inference
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HCD-503:00010   
+	KNOWLEDGE TOPIC: Fundamental Understanding of the Experiential Design Process
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Fundamental Understanding of the Experiential Design Process
+	ASSESSMENT DESCRIPTION: Apply research outcomes to a design document for a digital product/service.     
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: HCD-503:00020   
+	KNOWLEDGE TOPIC: Fundamental Understanding of the Experiential Design Process
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Fundamental Understanding of the Experiential Design Process
+	ASSESSMENT DESCRIPTION: Understand the different data-oriented research methods, and in what circumstances to use them.
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

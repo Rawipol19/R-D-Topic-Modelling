@@ -1,0 +1,79 @@
+Details for Competency AIC-301 (Symbolic AI)
+
+IDENTITY CODE: SYMBOLIC_AI_6
+REQUIRED? false
+CREDITS: 6 (Graded)
+DESCRIPTION
+This competency provides you with an understanding of the basic principles and techniques
+used in Symbolic AI, such as knowledge representation, logical reasoning, search and planning. You will learn how to develop intelligent systems that can search, reason, plan, and solve problems, using symbolic representations and logical reasoning.
+RESPONSIBLE INSTRUCTOR: Hossein Miri
+PREREQUISITES
+   -- SEN-107 - Fundamental Data Structures and Algorithms
+   -- AIC-101 - Introduction to Artificial Intelligence
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: AIC-301:00010   
+	KNOWLEDGE TOPIC: Knowledge Representation                                    
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Applying knowledge representation techniques to store and manipulate information
+	ASSESSMENT DESCRIPTION: Recall various methods of knowledge representation and choose a suitable one to model an agent’s
+knowledge effectively
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: AIC-301:00020   
+	KNOWLEDGE TOPIC: Reasoning & Inference using Symbolic Logic                  
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Applying reasoning and inference to problem-solving using symbolic logic
+	ASSESSMENT DESCRIPTION: Recall key principles and rules of symbolic logic for reasoning and inference, and apply them to solve problems, e.g., a scheduling problem
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: AIC-301:00030   
+	KNOWLEDGE TOPIC: Expert Systems                                              
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Understanding how rule-based expert systems work
+	ASSESSMENT DESCRIPTION: Demonstrate comprehension of the principles underlying rule-based expert systems (e.g., forward & backward chaining) and use them to solve problems
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: AIC-301:00040   
+	KNOWLEDGE TOPIC: Search & Problem Solving                                    
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Understanding various search algorithms and being able to select a suitable one for a specific problem
+	ASSESSMENT DESCRIPTION: Demonstrate comprehension of the most fundamental search methods (complete/incomplete & heuristic/blind) to solve problems, e.g., by implementing breadth-first and depth-first using symbolic logic
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: AIC-301:00050   
+	KNOWLEDGE TOPIC: Constraint Satisfaction                                     
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Analyzing constraint satisfaction to solve problems
+	ASSESSMENT DESCRIPTION: Analyze and identify constraints in problems, e.g., by developing a solution for a Sudoku puzzle using a variation of the depth-first search
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: AIC-301:00060   
+	KNOWLEDGE TOPIC: Planning                                                    
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Understanding various planning techniques and being able to select a suitable one for a specific problem
+	ASSESSMENT DESCRIPTION: Demonstrate comprehension of the most fundamental planning techniques (classical/non-classical) to solve problems, e.g., by designing a simple STRIPS planner for a robot in a warehouse to optimize its efficiency
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: AIC-301:00070   
+	KNOWLEDGE TOPIC: Uncertainty                                                 
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Understanding uncertainty and how to deal with it in symbolic AI systems
+	ASSESSMENT DESCRIPTION: Demonstrate comprehension of the most fundamental rules of the probability framework for dealing with uncertainty, e.g., by developing a simple medical diagnosis system that deals with uncertainty
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

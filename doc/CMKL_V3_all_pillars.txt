@@ -1,0 +1,311 @@
+AiCE Curriculum: All Pillars
+
+
+
+Pillar: Artificial Intelligence Core
+Artificial Intelligence (AI) AIC-101    Introduction to Artificial Intelligence 2  Yes    CMKL            
+                         AIC-301    Symbolic AI                      6  No     CMKL            
+                         AIC-302    Probability-based Models         4  No     CMKL            
+                         AIC-303    Planning and Search Strategies   4  Yes    CMKL            
+                         AIC-304    Neural Networks and Deep Learning 4  Yes    CMKL            
+                         AIC-305    Bio-inspired AI                  4  No     CMKL            
+                         AIC-504    Simulation                       4  No     CMKL            
+Machine Learning (ML)    AIC-201    Supervised Learning and Unsupervised Learning 4  Yes    CMKL            
+                         AIC-502    Reinforcement Learning           4  No     CMKL            
+                         AIC-503    Transformer Networks             4  No     CMKL            
+Data Mining (DM)         AIC-401    Information Retrieval, Extraction, Search and Indexing 4  No     CMKL            
+                         AIC-402    Proximity Measurement and Cluster Analysis 4  No     CMKL            
+                         AIC-403    Classification and Regression    4  No     CMKL            
+AI Applications          AIC-601    Recommender System               4  No *   CMKL            
+                         AIC-602    Natural Language Processing (NLP) 4  No *   CMKL            
+                         AIC-603    Autonomous Agents                4  No *   CMKL            
+                         AIC-604    Computer Vision                  4  No *   CMKL            
+                         AIC-605    Geographic Computing             4  No *   CMKL            
+
+* AI Applications: At least 1 of these competencies must be completed
+Total Credits for Pillar AIC
+All competencies: 72
+Required competencies: 14
+Required from option groups: 4
+
+
+Pillar: Communications and Presentation
+Communication and Presentation COM-101    Research and Technical Writing   8  No     CMKL            
+                         COM-102    Creative Writing                 8  No     CMKL            
+                         COM-103    Graphics and Visual Storytelling 8  No     CMKL            
+                         COM-104    Public Speaking                  4  No     CMKL            
+                         COM-105    Presentation and Storytelling    8  No     CMKL            
+                         COM-106    Project Management               10 No     CMKL            
+                         COM-108    Academic Writing & Research      8  No     CMKL            
+                         COM-201    Improvisational Acting           12 No     CMKL            
+                         COM-202    Instructional Design             4  No     CMKL            
+
+Total Credits for Pillar COM
+All competencies: 70
+Required competencies: 0
+Required from option groups: 0
+
+
+Pillar: Entrepreneurship and Innovation
+Entrepreneurship and Innovation ENI-101    Create Innovation-driven Enterprise (Path Selection) 4  Yes    CMKL            
+                         ENI-102    Design Thinking                  4  Yes    CMKL            
+                         ENI-103    Product Development                                  4  No     CMKL            
+                         ENI-104    Intellectual Property            2  No     CMKL            
+                         ENI-105    Startup from Idea to Impact      6  No     CMKL            
+                         ENI-106    Building Effective Teams to drive Innovation 2  No     CMKL            
+                         ENI-107    Entrepreneurial finance          4  No     CMKL            
+                         ENI-108    CAD Lab                          4  No     CMKL            
+Game Business            ENI-408    Game Development & Production    6  No     CMKL            
+                         ENI-409    Game content Monetization and Tokenomics  4  No     CMKL            
+                         ENI-410    E-Sports & Ecosystem Development  4  No     CMKL            
+                         ENI-411    Game Publishing and Marketing    4  No     CMKL            
+Strategy and Innovation  ENI-201    Strategic Innovation Development 4  No     CMKL            
+                         ENI-202    Business Strategy                4  No     CMKL            
+                         ENI-203    Platform Strategy                4  No     CMKL            
+                         ENI-304    AI for Business                  12 No     CMKL            
+Leadership and Communication ENI-301    Inclusive Leadership             2  No     CMKL            
+                         ENI-302    Persuasive and Leadership Communication 4  No     CMKL            
+                         ENI-303    Negotiation                      4  No     CMKL            
+Business Application Domains ENI-401    Retail and Services Applications 4  No *   CMKL            
+                         ENI-402    Logistics                        4  No *   CMKL            
+                         ENI-403    Biomedical, Bioinformatics and Health 4  No *   CMKL            
+                         ENI-404    Agriculture                      4  No *   CMKL            
+                         ENI-405    Fintech                          4  No *   CMKL            
+                         ENI-406    Educational Technology           4  No *   CMKL            
+                         ENI-407    Gaming                           4  No *   CMKL            
+
+* Business Application Domains: At least 1 of these competencies must be completed
+Total Credits for Pillar ENI
+All competencies: 110
+Required competencies: 8
+Required from option groups: 4
+
+
+Pillar: Arts, Humanities and Social Sciences
+People, Places and Cultures HAS-101    Sociology and Cultural Anthropology 9  No     CMKL            
+                         HAS-102    Social Psychology                9  No     CMKL            
+                         HAS-103    Political Studies                9  No     CMKL            
+                         HAS-104    Human Geography                  9  No     CMKL            
+                         HAS-105    Global Histories                 9  No     CMKL            
+                         HAS-109    Ethics and Policy Issues         2  No     CMKL            
+                         HAS-110    Policy & Sustainable Development 6  No     CMKL            
+                         HAS-113    AI and Computer Engineering for Community Impact I 4  No     CMKL            
+                         HAS-123    AI and Computer Engineering for Community Impact II 4  No     CMKL            
+                         HAS-133    AI and Computer Engineering for Community Impact III 4  No     CMKL            
+                         HAS-143    AI and Computer Engineering for Community Impact IIII 4  No     CMKL            
+Economics                HAS-108    Behavioral Economics             8  No     CMKL            
+Arts and Music           HAS-106    History of Visual Arts           8  No     CMKL            
+                         HAS-107    History of music                 8  No     CMKL            
+
+Total Credits for Pillar HAS
+All competencies: 93
+Required competencies: 0
+Required from option groups: 0
+
+
+Pillar: Human-Centered Design
+Designing for Human-Machine Teaming HCD-103    Creating Explainable AI          4  No     CMKL            
+                         HCD-502    Interaction Design & Experience Design 10 No     CMKL            
+                         HCD-503    User Research: Methodologies, Data, and Design Thinking 4  No     CMKL            
+Analysis and Presentation (AP) HCD-101    Visualization                    4  Yes    CMKL            
+                         HCD-104    Immersive Environment (AR/VR/MR/XR) 6  No     CMKL            
+Game Design              HCD-401    Game Development                 6  No     CMKL            
+                         HCD-402    Game Design                      6  No     CMKL            
+                         HCD-403    Narrative Design                 6  No     CMKL            
+                         HCD-404    Application of Game Engine & Project Prototyping 6  No     CMKL            
+                         HCD-405    Sound Design                     4  No     CMKL            
+                         HCD-406    Virtual Production               6  No     CMKL            
+                         HCD-407    Visual Storytelling              6  No     CMKL            
+                         HCD-408    Introduction to Spatial Gaming   4  No     CMKL            
+User Interface (UI) Design HCD-501    Accessibility & Universal Design  2  Yes    CMKL            
+                         HCD-504    Psychology for User Interface Design  4  No     CMKL            
+Engaging in Critical Oversight HCD-201    Ethics in computer engineering   2  Yes    CMKL            
+                         HCD-202    Ethical Principles for AI (Fairness, Accountability, Transparency, Ethics) 4  No     CMKL            
+Game Engineering         HCD-301    Game Engine Fundamentals         8  No     CMKL            
+                         HCD-302    Engineered Arts                  6  No     CMKL            
+                         HCD-303    Engineered Arts: AI for Gaming   6  No     CMKL            
+                         HCD-304    Character Animation and Motion Capture 6  No     CMKL            
+
+Total Credits for Pillar HCD
+All competencies: 110
+Required competencies: 8
+Required from option groups: 0
+
+
+Pillar: Mathematics
+Mathematics for AI       MAT-201    Matrices and Linear Transformations (Linear algebra) 12 Yes    CMKL            
+                         MAT-202    Signal Processing and Data Domains 4  No     CMKL            
+                         MAT-203    Descriptive Statistics           2  Yes    CMKL            
+                         MAT-204    Introduction to Probability      3  Yes    CMKL            
+                         MAT-205    Probability Distributions        3  Yes    CMKL            
+                         MAT-206    Statistical Inference            4  Yes    CMKL            
+                         MAT-207    Discrete Mathematics             12 Yes    CMKL            
+Calculus                 MAT-101    Calculus - Differentiation       3  No     CMKL            
+                         MAT-102    Calculus - Basic derivatives     2  No     CMKL            
+                         MAT-103    Calculus - Integration           4  No     CMKL            
+                         MAT-104    Calculus - Optimization          3  No     CMKL            
+                         MAT-105    Vector Calculus                  6  No     CMKL            
+                         MAT-106    Analytical Geometry              6  No     CMKL            
+                         MAT-107    Differential Equations and Approximation 12 No     CMKL            
+
+Total Credits for Pillar MAT
+All competencies: 76
+Required competencies: 36
+Required from option groups: 0
+
+
+Pillar: Science
+Science                  SCI-101    Fundamentals of Biology          12 No     CMKL            
+                         SCI-102    Fundamentals of Chemistry        12 No     CMKL            
+                         SCI-104    Quantum Physics                  12 No     CMKL            
+                         SCI-105    Kinematics: describe motion (Physis I) 3  No     CMKL            
+                         SCI-106    Dynamics: explain motion (Physics I) 3  No     CMKL            
+                         SCI-107    Energy and Momentum (Physics I)  3  No     CMKL            
+                         SCI-108    Thermodynamics (Physics I)       3  No     CMKL            
+                         SCI-109    Electricity (Physics II)         4  No     CMKL            
+                         SCI-110    Magnetism (Physics II)           4  No     CMKL            
+                         SCI-111    Light and Optics (Physics II)    4  No     CMKL            
+
+Total Credits for Pillar SCI
+All competencies: 60
+Required competencies: 0
+Required from option groups: 0
+
+
+Pillar: Cybersecurity
+Data Acquisition, Management, and Governance SEC-101    Data and Information Fundamentals 2  Yes    CMKL            
+                         SEC-102    Data Reduction and Compression   4  No     CMKL            
+                         SEC-103    Data Governance                  2  No     CMKL            
+Privacy, Security and Integrity SEC-201    Data Privacy, Security and Integrity 4  Yes    CMKL            
+                         SEC-203    Securing System Infrastructure   4  No     CMKL            
+                         SEC-204    Security Policy and Processes    4  No     CMKL            
+                         SEC-205    Distributed ledger and Blockchain 4  No     CMKL            
+                         SEC-303    Vulnerability Assessment for Software Applications 4  No     CMKL            
+                         SEC-401    Privacy Attacks                  2  No     CMKL            
+                         SEC-402    Differential Privacy (DP)        6  No     CMKL            
+AI System Security       SEC-301    Security Challenges in Modern AI Systems 2  Yes    CMKL            
+                         SEC-302    Robustness of AI Components and Systems 4  No     CMKL            
+
+Total Credits for Pillar SEC
+All competencies: 42
+Required competencies: 8
+Required from option groups: 0
+
+
+Pillar: Software Engineering
+Programming Fundamentals SEN-101    Algorithmic Thinking & Problem Solving 2  Yes    CMKL            
+                         SEN-102    Introduction to Programming      6  Yes    CMKL            
+                         SEN-103    Programming Multi-module Applications 4  No     CMKL            
+                         SEN-107    Fundamental Data Structures and Algorithms 6  Yes    CMKL            
+                         SEN-109    Modern Systems Programming       2  No     CMKL            
+                         SEN-208    Advanced Data Structures and Algorithms 6  No     CMKL            
+                         SEN-209    Designing and implementing databases 6  No     CMKL            
+Programming Paradigms    SEN-304    Object Oriented Design and Programming 6  No     CMKL            
+                         SEN-305    Functional Programming           4  No     CMKL            
+                         SEN-306    Dataflow Programming             4  No     CMKL            
+                         SEN-307    Domain-specific programming languages 2  No     CMKL            
+Software Development and Maintenance (SDM) SEN-201    Software Engineering Processes   6  Yes    CMKL            
+                         SEN-202    Software Quality Assurance       4  No     CMKL            
+                         SEN-203    Software Design                  4  No     CMKL            
+                         SEN-205    Requirements Analysis and Problem Definition 2  No     CMKL            
+                         SEN-212    Software Configuration Management 2  No     CMKL            
+                         SEN-213    Software Measurement             2  No     CMKL            
+                         SEN-214    Software Maintenance and Evolution 2  No     CMKL            
+                         SEN-301    Designing and Building Secure Software 4  No     CMKL            
+                         SEN-302    Designing and Building Mission Critical Software 2  No     CMKL            
+Software Engineering Leadership SEN-401    Agile Development Processes (including DevOps) 2  No     CMKL            
+                         SEN-402    Software Project Management      4  No     CMKL            
+                         SEN-403    Software Organization Maturity and Continuous Improvement 2  No     CMKL            
+                         SEN-404    Legacy Software Strategies       2  No     CMKL            
+                         SEN-405    Open Source Software             2  No     CMKL            
+Platform Specific Architectures SEN-311    Web Architectures                4  No     CMKL            
+                         SEN-312    Mobile Application Architectures 4  No     CMKL            
+
+Total Credits for Pillar SEN
+All competencies: 96
+Required competencies: 20
+Required from option groups: 0
+
+
+Pillar: Soft Skills 
+Soft Skills              SOF-101    Adaptability - Semester 1        0  Yes    CMKL            
+                         SOF-102    Adaptability - Semester 2        0  Yes    CMKL            
+                         SOF-103    Adaptability - Semester 3        0  Yes    CMKL            
+                         SOF-104    Adaptability - Semester 4        0  Yes    CMKL            
+                         SOF-201    Empathy - Semester 1             0  Yes    CMKL            
+                         SOF-202    Empathy - Semester 2             0  Yes    CMKL            
+                         SOF-203    Empathy - Semester 3             0  Yes    CMKL            
+                         SOF-204    Empathy - Semester 4             0  Yes    CMKL            
+                         SOF-301    Ethics - Semester 1              0  Yes    CMKL            
+                         SOF-302    Ethics - Semester 2              0  Yes    CMKL            
+                         SOF-303    Ethics - Semester 3              0  Yes    CMKL            
+                         SOF-304    Ethics - Semester 4              0  Yes    CMKL            
+                         SOF-401    Proactiveness - Semester 1       0  Yes    CMKL            
+                         SOF-402    Proactiveness - Semester 2       0  Yes    CMKL            
+                         SOF-403    Proactiveness - Semester 3       0  Yes    CMKL            
+                         SOF-404    Proactiveness - Semester 4       0  Yes    CMKL            
+                         SOF-501    Professionalism - Semester 1     0  Yes    CMKL            
+                         SOF-502    Professionalism - Semester 2     0  Yes    CMKL            
+                         SOF-503    Professionalism - Semester 3     0  Yes    CMKL            
+                         SOF-504    Professionalism - Semester 4     0  Yes    CMKL            
+                         SOF-601    Self-Learning - Semester 1       0  Yes    CMKL            
+                         SOF-602    Self-learning - Semester 2       0  Yes    CMKL            
+                         SOF-603    Self-learning - Semester 3       0  Yes    CMKL            
+                         SOF-604    Self-learning - Semester 4       0  Yes    CMKL            
+                         SOF-701    Teamwork - Semester 1            0  Yes    CMKL            
+                         SOF-702    Teamwork - Semester 2            0  Yes    CMKL            
+                         SOF-703    Teamwork - Semester 3            0  Yes    CMKL            
+                         SOF-704    Teamwork - Semester 4            0  Yes    CMKL            
+
+Total Credits for Pillar SOF
+All competencies: 0
+Required competencies: 0
+Required from option groups: 0
+
+
+Pillar: Scalable Systems
+Computer Organization    SYS-101    Operating Systems                4  Yes    CMKL            
+                         SYS-102    Basic Computer Architecture      4  Yes    CMKL            
+                         SYS-202    Real Time Operating Systems      4  No     CMKL            
+                         SYS-205    Storage and File Systems Fundamentals 2  No     CMKL            
+                         SYS-206    Computer Design  Processor Architectures and Digital Design  4  No     CMKL            
+                         SYS-207    Networks                         4  No     CMKL            
+                         SYS-208    Digital and Analog Circuit Design 4  No     CMKL            
+Distributed Systems      SYS-301    Cyber Physical Systems           4  No     CMKL            
+                         SYS-302    Cloud Computing                  4  No     CMKL            
+                         SYS-303    Scalable Management of Data and Models 4  No     CMKL            
+                         SYS-304    Scalable Algorithms and Infrastructure 4  No     CMKL            
+                         SYS-401    Parallel Computing               4  No     CMKL            
+                         SYS-402    Distributed Data Storage         4  No     CMKL            
+                         SYS-403    Big Data Computing               4  No     CMKL            
+
+Total Credits for Pillar SYS
+All competencies: 54
+Required competencies: 8
+Required from option groups: 0
+
+
+Pillar: URD Undergraduate Research, Development and Practice
+Entrepreneurship and Innovation URD-101    Undergraduate R&D Project (1)                                      9  Yes    CMKL            
+                         URD-102    Undergraduate R&D Project (2)    9  Yes    CMKL            
+Senior Research & Development  URD-401    Honors Undergraduate Research Thesis (1)                                      12 No     CMKL            
+                         URD-402    Honors Undergraduate Research Thesis (2)                                      12 No     CMKL            
+                         URD-411    Undergraduate Capstone Project (1) 12 No     CMKL            
+                         URD-412    Undergraduate Capstone Project (2) 12 No     CMKL            
+AI and Computer Engineering for Society URD-201    Undergraduate R&D project (3)    9  Yes    CMKL            
+                         URD-202    Undergraduate R&D Project (4)    9  Yes    CMKL            
+Experiential Learning (XP) URD-301    Undergraduate R&D Project (5)                                      9  No *   CMKL            
+                         URD-302    Undergraduate R&D Project (6)                                      9  No **  CMKL            
+                         URD-311    Overseas Colleges (1)            9  No *   CMKL            
+                         URD-312    Overseas Colleges (2)            9  No **  CMKL            
+                         URD-321    Industrial Internship (1)        9  No *   CMKL            
+                         URD-322    Industrial Internship (2)        9  No **  CMKL            
+
+* Third Year R&amp;D Semester 1: At least 1 of these competencies must be completed
+** Third Year R&amp;D Semester 2: At least 1 of these competencies must be completed
+Total Credits for Pillar URD
+All competencies: 138
+Required competencies: 36
+Required from option groups: 18
+
+

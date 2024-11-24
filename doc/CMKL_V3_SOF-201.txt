@@ -1,0 +1,28 @@
+Details for Competency SOF-201 (Empathy - Semester 1)
+
+IDENTITY CODE: EMPATHY_1_0
+REQUIRED? true
+CREDITS: 0 (Graded)
+DESCRIPTION
+Empathy is willingness and ability to adopt the perspective of someone else in order to understand that person's goals, attitudes, desires, and fears, as well as their possible cognitive or perceptual limitations. Empathy includes a human-centered focus, that is, an approach to design, development and problem solving that gives priority to users’ or stakeholders’ comfort, well-being and achievement of goals. Empathy also requires respect for diversity, that is, a recognition that individuals differ on a wide variety of dimensions including age, gender, ethnicity, culture, physical and cognitive ability, and so on, and that design, development and problem solving should produce outcomes that accommodate these differences.
+RESPONSIBLE INSTRUCTOR: Apirujee Rujirek
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SOF-201:00010   
+	KNOWLEDGE TOPIC: Empathy                                                     
+	ASSESSMENT TYPE: Observational assessment
+	ASSESSMENT TITLE: Assessment: Empathy                 
+	ASSESSMENT DESCRIPTION: Behavioral evaluation by faculty and self-assessment                            
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

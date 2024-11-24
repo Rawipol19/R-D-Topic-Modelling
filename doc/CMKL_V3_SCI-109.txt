@@ -1,0 +1,92 @@
+Details for Competency SCI-109 (Electricity (Physics II))
+
+IDENTITY CODE: ELECTRICITY_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+This course provides a comprehensive introduction to the principles and applications of electricity. Students will delve into fundamental concepts such as electric charge, electric fields, and electric potential. The course covers Ohm's law and explores series and parallel circuits, emphasizing their practical applications in engineering and everyday devices. Topics include magnetic fields, electromagnetic induction, and the basics of AC and DC circuits.
+RESPONSIBLE INSTRUCTOR: Prathan Buranasiri
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SCI-109:00010   
+	KNOWLEDGE TOPIC: Coulomb's Law                                               
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understand the concept of Coulomb’s Laws
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics
+       
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-109:00020   
+	KNOWLEDGE TOPIC: Properties of Electric Charges                              
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understand the properties of Electric charges
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics
+       
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-109:00030   
+	KNOWLEDGE TOPIC: Properties of Electric Charges                              
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understand the electric charging by induction  and conduction
+	ASSESSMENT DESCRIPTION: Given an assignment of sophisticated problems to solve. 
+                       
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-109:00040   
+	KNOWLEDGE TOPIC: Coulomb's Law                                               
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Applying Coulomb’s Laws  to solve physics problems.
+	ASSESSMENT DESCRIPTION: An assignment to demostrate the ability to solve related sophisticated problems.
+
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SCI-109:00050   
+	KNOWLEDGE TOPIC: Electric Field and Motion                                   
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understand the concept of electric field
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics
+       
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-109:00060   
+	KNOWLEDGE TOPIC: Electric Field and Motion                                   
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understand the concept of motion of charged particles in a uniform electric field lines and its application 
+	ASSESSMENT DESCRIPTION: An assignment to demostrate the ability to solve related sophisticated problems.
+
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-109:00070   
+	KNOWLEDGE TOPIC: Electric Potential                                          
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understand the concept of electric potential
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics
+       
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-109:00080   
+	KNOWLEDGE TOPIC: Electric Potential                                          
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Applying the Electric field and Electric Potential to solve physics problems.
+	ASSESSMENT DESCRIPTION: An assignment to demostrate the ability to solve related sophisticated problems.
+
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

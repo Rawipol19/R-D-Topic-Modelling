@@ -1,0 +1,28 @@
+Details for Competency URD-412 (Undergraduate Capstone Project (2))
+
+IDENTITY CODE: CAPSTONE_2_12
+REQUIRED? false
+CREDITS: 12 (Graded)
+DESCRIPTION
+The Undergraduate Capstone Project integrates skills and knowledge gained through CIE course work in the context of a practical project. In addition, it develops student capabilities in the areas of effective oral and written technical communication and team-work skills. In the initial stages of the project, students must form teams of 2 to 4 students, then research and develop a project topic, identify a supervisor, and prepare a written proposal. As teams elaborate their design, they should consider application of standards and realistic engineering constraints including economic feasibility, manufacturability, environmental sustainability, and social, political, ethical and safety impacts. The team must produce a proof-of-concept or prototype for their design. At the conclusion of the project, each team must write a comprehensive report about their project, including technical theory and background as well as market analysis if relevant. They must also deliver an oral presentation describing their analysis of the problem, their design and implementation process and their outcomes. 
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+   -- URD-411 - Undergraduate Capstone Project (1)
+DISTRIBUTION AREAS
+   -- R&D
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: URD-412:00010   
+	KNOWLEDGE TOPIC: Computer Engineering Capstone Project                       
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Design and develop a project that integrates knowledge from the full undergraduate experience
+	ASSESSMENT DESCRIPTION: Work as a team to design a system that solves some practical problem, implement and test the system, and document it in a written report and oral presentation. 
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

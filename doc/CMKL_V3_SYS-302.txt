@@ -1,0 +1,42 @@
+Details for Competency SYS-302 (Cloud Computing)
+
+IDENTITY CODE: CLOUD_COMP_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+RESPONSIBLE INSTRUCTOR: Akkarit Sangpetch
+PREREQUISITES
+   -- SEN-103 - Programming Multi-module Applications
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SYS-302:00010   
+	KNOWLEDGE TOPIC: Cloud computing overview                                    
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Describe Key Components of Cloud Computing
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Remember                
+
+
+SKILL CODE: SYS-302:00070   
+	KNOWLEDGE TOPIC: Concept of delivery& deployment model                       
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Architect a cloud-based service considering the delivery model, pricing, security, and service level agreement
+	ASSESSMENT DESCRIPTION: Evaluate existing cloud service offerings; determine the delivery models and describe how the services can be utilized to support designated applications
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SYS-302:00090   
+	KNOWLEDGE TOPIC: Application of cloud computing technology                   
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Deploy and maintain a service using cloud computing technologies
+	ASSESSMENT DESCRIPTION: Deploy, monitor and evaluate the performance of a service on the cloud. Practicing DevOps to manage and scale on-demand service.
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

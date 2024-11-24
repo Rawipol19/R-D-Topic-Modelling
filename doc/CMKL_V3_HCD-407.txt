@@ -1,0 +1,36 @@
+Details for Competency HCD-407 (Visual Storytelling)
+
+IDENTITY CODE: VISUAL_STORY_6
+REQUIRED? false
+CREDITS: 6 (Graded)
+DESCRIPTION
+Capturing organic and authentic motion, in both 2D and 3D formats, requires a combination of technical tools and creative vision to bring a virtual scene to life. This course focuses on the key creative competencies alongside the modern technical tools necessary to implement your ideas.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HCD-407:00010   
+	KNOWLEDGE TOPIC: Visual & Motion Design: Foundations                         
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Visual & Motion Design: Foundations
+	ASSESSMENT DESCRIPTION: Demonstrate an understanding of motion design within a real-life context.       
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HCD-407:00020   
+	KNOWLEDGE TOPIC: Visual & Motion Design: Foundations                         
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Use motion design tools             
+	ASSESSMENT DESCRIPTION: Apply motion design tools to a small project which demonstrates realistic motion.
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

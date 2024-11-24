@@ -1,0 +1,52 @@
+Details for Competency HAS-109 (Ethics and Policy Issues)
+
+IDENTITY CODE: ETHICS_POLICY_2
+REQUIRED? false
+CREDITS: 2 (Graded)
+DESCRIPTION
+This competency provides an exploration of the intersection between ethics and public policy, focusing on how ethical theories and frameworks can be applied to analyze and resolve policy issues. Students will engage with foundational ethical theories and methodologies to evaluate contemporary policy debates and their moral implications. 
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HAS-109:00010   
+	KNOWLEDGE TOPIC: Utilitarianism, Deontology, and Virtue Ethics               
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understanding Ethical Theories and Frameworks
+	ASSESSMENT DESCRIPTION: Short-answer exams evaluating knowledge and application of ethical theories and frameworks.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HAS-109:00020   
+	KNOWLEDGE TOPIC: Healthcare Policy and Bioethics                             
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Analysis of Policy Issues and Ethical Implications
+	ASSESSMENT DESCRIPTION: Essays that require students to analyze policy issues and assess their ethical dimensions.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: HAS-109:00030   
+	KNOWLEDGE TOPIC: Environmental Ethics and Sustainability                     
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Critical Evaluation of Public Policies
+	ASSESSMENT DESCRIPTION: Essays evaluating public policies using critical thinking and diverse ethical perspectives.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: HAS-109:00040   
+	KNOWLEDGE TOPIC: Global Justice and Human Rights                             
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understanding Global and Cultural Perspectives on Ethics
+	ASSESSMENT DESCRIPTION: Short-answer exams assessing knowledge of global and cultural ethical perspectives.
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

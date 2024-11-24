@@ -1,0 +1,48 @@
+Details for Competency SYS-402 (Distributed Data Storage)
+
+IDENTITY CODE: DISTRIB_DATA_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Storages are one of the most vital components of computer systems. They often dominate the performance of a system, and failures of other components are frequently addressed by restarting from the data stored on them. However, when data is growing, the data storage needs to be scalable and potentially be distributed.
+
+This competency covers the design, implementation, and use of storage and file systems, from the characteristics and operation of individual storage devices to the operating system, and networking approaches involved in tying them together and making them useful in servers and large-scale distributed systems.
+RESPONSIBLE INSTRUCTOR: Akkarit Sangpetch
+PREREQUISITES
+   -- SYS-101 - Operating Systems
+   -- SYS-205 - Storage and File Systems Fundamentals
+   -- SYS-207 - Networks
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SYS-402:00010   
+	KNOWLEDGE TOPIC: Multiple-disk system                                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create a multiple-disk system       
+	ASSESSMENT DESCRIPTION: Students will be given a task to analyze several workloads and design a multiple disk system to satisfy their requirements. Moreover, students will implement a simple software RAID program to demonstrate their understanding on multiple-disk systems.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: SYS-402:00020   
+	KNOWLEDGE TOPIC: Distributed file system                                     
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create a distributed data storage   
+	ASSESSMENT DESCRIPTION: Students must be able to implement a basic distributed system with a cache coherence protocol (from either Sprite, NFSv3, or AFSv2) along with an atomicity mechanism (e.g., write-ahead logging, shadow paging).
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SYS-402:00030   
+	KNOWLEDGE TOPIC: Large-scale data storage                                    
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create a highly scalable distributed data storage
+	ASSESSMENT DESCRIPTION: Students must be able implement a decentralized data storage with a consensus protocol (e.g., 2-phase commit, Raft).
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

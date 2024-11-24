@@ -41,8 +41,6 @@ for filename in os.listdir(folder_path):
         text = f.read()
         documents.append(preprocess(text))
 
-# Check the first processed document
-print(documents[0])
 
 # Create a dictionary from the processed documents
 dictionary = Dictionary(documents)
@@ -69,25 +67,49 @@ corpus_tfidf = tfidf_model[corpus_bow]
 num_topics = 50  # Number of topics
 lda_model = LdaModel(corpus=corpus_tfidf, id2word=dictionary, num_topics=num_topics, passes=300)
 
-# Print topics with keywords
+# Define a minimum threshold for topic probabilities
+min_topic_probability = 0.1  # Topics with probabilities below this will be filtered out
+
+# Identify topics to keep based on the threshold
+valid_topics = []
 for idx, topic in lda_model.print_topics(-1):
-    print(f"Topic {idx + 1}: {topic}")
+    keywords = topic.split(" + ")
+    weight_sum = sum(float(keyword.split("*")[0]) for keyword in keywords)
+    if weight_sum >= min_topic_probability:
+        valid_topics.append(idx)
+        print(f"Topic {idx}: {topic}")
+
+# Filter out invalid topics
+invalid_topics = set(range(lda_model.num_topics)) - set(valid_topics) 
+print("Small weight topic: ",invalid_topics)
+# Create a new corpus excluding the invalid topics
+filtered_corpus_tfidf = []
+for doc in corpus_tfidf:
+    filtered_doc = [
+        (topic_id, weight)
+        for topic_id, weight in lda_model.get_document_topics(doc)
+        if topic_id not in invalid_topics
+    ]
+    filtered_corpus_tfidf.append(filtered_doc)
 
 # Group documents by top 5 topics
 document_groups = {}  # Dictionary to store groups of documents by top 5 topics
 
 print("\nDocument Grouping by Top 5 Topics:")
-for i, doc in enumerate(corpus_tfidf):
-    # Get topic probabilities for the document
-    topic_probabilities = lda_model.get_document_topics(doc)
+for i, doc in enumerate(filtered_corpus_tfidf):
+    
     # Sort topics by probability in descending order and select the top 5 topics
-    top_5_topics = sorted(topic_probabilities, key=lambda x: x[1], reverse=True)[:5]
-
+    top_5_topics = sorted(
+        [(topic_id, prob) for topic_id, prob in doc if topic_id not in invalid_topics],
+        key=lambda x: x[1],
+        reverse=True
+    )[:5]
+    
     # Print the top 5 topics for the document
     print(f"Document {i + 1} (Original: {competency_labels[i]}):")
     for topic_id, prob in top_5_topics:
         print(f"  Topic {topic_id}: {prob:.4f}")
-      
+
     # Create a sorted tuple of the top 5 topic IDs to use as a unique key
     top_5_topic_ids = tuple(sorted([topic_id for topic_id, prob in top_5_topics]))
 

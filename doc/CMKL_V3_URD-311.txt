@@ -1,0 +1,28 @@
+Details for Competency URD-311 (Overseas Colleges (1))
+
+IDENTITY CODE: OVERSEAS_1_9
+REQUIRED? false
+CREDITS: 9 (Graded)
+OPTION GROUP: Third Year R\&D Semester 1
+
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+   -- URD-201 - Undergraduate R&D project (3)
+DISTRIBUTION AREAS
+   -- R&D
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: URD-311:00010   
+	KNOWLEDGE TOPIC: Overseas Study                                              
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Participate in educational activities at a non-Thai institution
+	ASSESSMENT DESCRIPTION: Exchange study at an overseas university.                                       
+	COMPLEXITY LEVEL:Evaluate                
+
+
+
+

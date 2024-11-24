@@ -1,0 +1,44 @@
+Details for Competency SEC-303 (Vulnerability Assessment for Software Applications)
+
+IDENTITY CODE: VULNERABILTY_ASSMT_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Security vulnerabilities impact various software applications and may be harmful to users' information. Consequently, these vulnerabilities must be properly identified, assessed, and mitigated. In this competency, we will delve into details on techniques to assess security vulnerabilities for software applications, both manually and automatically.
+RESPONSIBLE INSTRUCTOR: Charnon Pattiyanon
+PREREQUISITES
+   -- SEC-201 - Data Privacy, Security and Integrity
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEC-303:00010   
+	KNOWLEDGE TOPIC: Vulnerability Assessment for Software Applications          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Apply security vulnerability assessment techniques to real-world cases.
+	ASSESSMENT DESCRIPTION: Write a report to demonstrate the steps applied to assess security vulnerabilities in a target system.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SEC-303:00020   
+	KNOWLEDGE TOPIC: Vulnerability Assessment for Software Applications          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Apply security vulnerability assessment tools to software applications.
+	ASSESSMENT DESCRIPTION: Write a report to summarize the adopted process of security vulnerability assessment with the tool and explain their understanding of the tool usage.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SEC-303:00030   
+	KNOWLEDGE TOPIC: Vulnerability Assessment for Software Applications          
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understand the process of existing security vulnerability assessment
+	ASSESSMENT DESCRIPTION: Write a report to exercise the analysis of existing security vulnerabilities from public vulnerability repositories.
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

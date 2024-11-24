@@ -1,0 +1,30 @@
+Details for Competency ENI-304 (AI for Business)
+
+IDENTITY CODE: AI_FOR_BUS_12
+REQUIRED? false
+CREDITS: 12 (Graded)
+DESCRIPTION
+AI is a transformative tool for businesses, leveraging data-driven insights and automation to enhance decision-making, optimize operations, and drive sustainable growth.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+   -- AIC-201 - Supervised Learning and Unsupervised Learning
+   -- ENI-201 - Strategic Innovation Development
+   -- ENI-202 - Business Strategy
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: ENI-304:00010   
+	KNOWLEDGE TOPIC: Ai for Business                                             
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Ai for Business         
+	ASSESSMENT DESCRIPTION: Create Ai for Business plan                                                     
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

@@ -1,0 +1,76 @@
+Details for Competency SEN-102 (Introduction to Programming)
+
+IDENTITY CODE: INTRO_PROG_6
+REQUIRED? true
+CREDITS: 6 (Graded)
+DESCRIPTION
+This competency introduces students to core concepts in computer programming including conditionals, iteration, functional decomposition and so on, and illustrates how to use these constructs to create working programs. It also compares and contrasts the expression and use of the concepts in different programming languages.
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEN-101 - Algorithmic Thinking & Problem Solving
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-102:00010   
+	KNOWLEDGE TOPIC: Controlling program flow                                    
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Creating conditional structures
+	ASSESSMENT DESCRIPTION: Write a non-trivial program based on a written specification that uses conditional logic to control processing
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-102:00020   
+	KNOWLEDGE TOPIC: Controlling program flow                                    
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Creating iteration structures
+	ASSESSMENT DESCRIPTION: Write a non-trivial program based on a written specification that uses loop constructions
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-102:00030   
+	KNOWLEDGE TOPIC: Functions and modules                                       
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Creating reusable code units
+	ASSESSMENT DESCRIPTION: Write a non-trivial program that uses functions, modules and (if relevant) packages to effectively distribute processing
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-102:00040   
+	KNOWLEDGE TOPIC: Simple data structures                                      
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Using arrays, structs, tuples, slices  and other simple data structures
+	ASSESSMENT DESCRIPTION: Given a written specification, write a non-trivial program that chooses and utilizes appropriate native data structures
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-102:00050   
+	KNOWLEDGE TOPIC: Text files                                                  
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Text files              
+	ASSESSMENT DESCRIPTION: Write a program that reads and parses information from a text file, does some analysis on that data, and writes the results to a file with a different format.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-102:00060   
+	KNOWLEDGE TOPIC: Binary files and data                                       
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Using binary files                  
+	ASSESSMENT DESCRIPTION: Assessment: Using binary files                                                  
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-102:00070   
+	KNOWLEDGE TOPIC: Comparing programming languages                             
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Comparing programming languages     
+	ASSESSMENT DESCRIPTION: Assessment: Comparing programming languages                                     
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

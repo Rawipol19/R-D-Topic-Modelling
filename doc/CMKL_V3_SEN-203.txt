@@ -1,0 +1,28 @@
+Details for Competency SEN-203 (Software Design)
+
+IDENTITY CODE: SE_DESIGN_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+This competency explores tools and techniques for designing software systems that are functionally correct, robust. efficient, usable and maintainable. We will emphasize core software engineering principles such as separation of concerns at all design levels.
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEN-201 - Software Engineering Processes
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-203:00010   
+	KNOWLEDGE TOPIC: Design processes                                            
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Design processes        
+	ASSESSMENT DESCRIPTION: Use tools, notations and processes to create a design for a software system.    
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

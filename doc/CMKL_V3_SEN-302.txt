@@ -1,0 +1,29 @@
+Details for Competency SEN-302 (Designing and Building Mission Critical Software)
+
+IDENTITY CODE: MISSION_CRITICAL_SW_2
+REQUIRED? false
+CREDITS: 2 (Graded)
+DESCRIPTION
+"Mission critical" software is software with extremely high requirements for availability and correctness. Failures in mission critical software are likely to result in death or disasters. Examples include power-grid software, software embedded in medical devices and software used in space technology. Teams developing mission-critical software need to adopt processes that will allow them to meet these more stringent requirements.
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEN-202 - Software Quality Assurance
+   -- SEN-203 - Software Design
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-302:00010   
+	KNOWLEDGE TOPIC: Mission Critical Software Strategies                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Apply strategies and processes appropriate for mission critical software 
+	ASSESSMENT DESCRIPTION: Given a problem description for a mission-critical application, design a detailed set of development processes to maximize safety and minimize risk. Document this design in a 10-15 page paper.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

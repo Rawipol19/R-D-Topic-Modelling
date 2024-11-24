@@ -1,0 +1,68 @@
+Details for Competency HAS-102 (Social Psychology)
+
+IDENTITY CODE: SOCIAL_PSYCH_9
+REQUIRED? false
+CREDITS: 9 (Graded)
+DESCRIPTION
+This course will explore how people's behaviors, feelings, and thoughts are influenced by their social environment. It will start with lectures and readings on the methods social psychologists use to study social behavior. The competency will then cover a range of topics researched by social psychologists, including person perception, prejudice and discrimination, the nature of attitudes and their formation and change, interpersonal attraction, conformity, compliance, altruism, aggression, group behavior, and the application of psychology to issues in health care, law, politics, and the environment. Students will also be introduced to social psychological theories through these readings and lectures.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HAS-102:00010   
+	KNOWLEDGE TOPIC: Critical evaluation of social psychological theories        
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Critical Thinking and Enthusiasm    
+	ASSESSMENT DESCRIPTION: Essays reflecting critical thinking, curiosity, and enthusiasm for the field of social psychology, drawing on course material and personal insights.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: HAS-102:00020   
+	KNOWLEDGE TOPIC: Cross-cultural variations in social behavior                
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Cultural Context Understanding      
+	ASSESSMENT DESCRIPTION:  Essays that demonstrate an understanding of how social psychological theories apply to human behavior across different cultural contexts.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HAS-102:00030   
+	KNOWLEDGE TOPIC: Milgram's obedience study                                   
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Familiarity with Landmark and Contemporary Studies
+	ASSESSMENT DESCRIPTION: Short-answer exams testing knowledge of landmark studies and contemporary research questions in social psychology.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HAS-102:00040   
+	KNOWLEDGE TOPIC: Research design and methodology                             
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Scientific Method Application       
+	ASSESSMENT DESCRIPTION: Essays that require students to explain human behavior using scientific methods and evidence from social psychological research.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HAS-102:00050   
+	KNOWLEDGE TOPIC: Social cognition and perception                             
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understanding of Foundational Theories and Concepts
+	ASSESSMENT DESCRIPTION: Short-answer exams evaluating knowledge and application of foundational theories and concepts of social psychology.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: HAS-102:00060   
+	KNOWLEDGE TOPIC: Social influence and persuasion                             
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Recognition of Social Psychological Processes
+	ASSESSMENT DESCRIPTION: Short-answer exams assessing the ability to describe and distinguish social psychological processes in everyday life.
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

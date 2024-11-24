@@ -1,0 +1,29 @@
+Details for Competency ENI-202 (Business Strategy)
+
+IDENTITY CODE: BUS_STRATEGY_2
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Business strategy encompasses the systematic formulation and execution of plans and initiatives aimed at achieving sustainable competitive advantage and driving long-term organizational success.
+RESPONSIBLE INSTRUCTOR: Sorakrit Phruthanontachai
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- R&D
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: ENI-202:00010   
+	KNOWLEDGE TOPIC: Strategy to develop sustaining a business while continuously finding the new growth strategy.
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand how to develop sustainable business and growth strategies for the firm portfolio.
+	ASSESSMENT DESCRIPTION: Take a quiz, written assignment, presentation that evaluates key distinctions and concepts on these topics.
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

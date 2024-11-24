@@ -1,0 +1,28 @@
+Details for Competency SOF-602 (Self-learning - Semester 2)
+
+IDENTITY CODE: SELF_LEARNING_2_0
+REQUIRED? true
+CREDITS: 0 (Graded)
+DESCRIPTION
+Self-learning involves recognizing that computer engineering and AI are constantly changing, and that one needs to be constantly expanding one's knowledge and skills. Self-learning includes the willingness to seek out information and the ability to apply new learning to current real-world tasks, as well as effectiveness in finding new knowledge and acquiring new skills.
+RESPONSIBLE INSTRUCTOR: Apirujee Rujirek
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SOF-602:00010   
+	KNOWLEDGE TOPIC: Self-Learning                                               
+	ASSESSMENT TYPE: Observational assessment
+	ASSESSMENT TITLE: Assessment: Self-Learning           
+	ASSESSMENT DESCRIPTION: Behavioral evaluation by faculty and self-assessment                            
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

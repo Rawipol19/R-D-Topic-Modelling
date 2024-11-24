@@ -1,0 +1,71 @@
+Details for Competency COM-202 (Instructional Design )
+
+IDENTITY CODE: INSTRUCT_DESIGN_4
+REQUIRED? false
+CREDITS: 4 (Pass/Fail)
+DESCRIPTION
+A significant portion of the factors influencing a course's effectiveness are determined prior to its commencement. Thoughtful planning during the course design phase not only simplifies and enhances the teaching experience but also promotes effective student learning. Following the course planning stage, teaching primarily involves executing the designed curriculum on a daily basis.
+RESPONSIBLE INSTRUCTOR: Apirujee Rujirek
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: COM-202:00010   
+	KNOWLEDGE TOPIC: Designing Your Course                                       
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Designing Your Course   
+	ASSESSMENT DESCRIPTION: Students will analyze a case study of a poorly designed course and identify specific areas where improvements can be made to enhance its effectiveness. They will then propose revised learning objectives for the course, aligning them with the desired outcomes.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: COM-202:00020   
+	KNOWLEDGE TOPIC: Teaching Strategies and Classroom Management                
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Teaching Strategies and Classroom Management
+	ASSESSMENT DESCRIPTION: In groups, students will design a lesson plan for a given topic, incorporating multiple instructional strategies such as lecture, group discussion, and hands-on activities. They will present their lesson plans to the class and receive feedback on the effectiveness and inclusivity of their chosen strategies.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: COM-202:00030   
+	KNOWLEDGE TOPIC: Technology Integration in Education                         
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Technology Integration in Education
+	ASSESSMENT DESCRIPTION: Students will conduct a comparative analysis of two educational technologies, considering factors such as ease of use, accessibility, and alignment with learning objectives. They will present their findings and recommendations to the class, justifying their choice of technology for integration into teaching practices.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: COM-202:00040   
+	KNOWLEDGE TOPIC: Assessment in Teaching and Learning                         
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Assessment in Teaching and Learning
+	ASSESSMENT DESCRIPTION: Working individually, students will develop a comprehensive assessment plan for a hypothetical course, including both formative and summative assessment methods. They will justify their choices based on the course objectives and instructional strategies discussed throughout the module.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: COM-202:00050   
+	KNOWLEDGE TOPIC: Problem-Solving in Teaching                                 
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Problem-Solving in Teaching
+	ASSESSMENT DESCRIPTION: Students will engage in a reflective practice exercise where they identify a teaching challenge they have encountered or anticipate encountering. They will then propose research-based strategies to address this challenge, drawing on literature and best practices in the field of education. Finally, they will reflect on how they plan to implement these strategies in their own teaching contexts.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: COM-202:00060   
+	KNOWLEDGE TOPIC: Design and Teach a mini-competency/ mini-courseworkshop     
+	ASSESSMENT TYPE: Interview/oral exam 
+	ASSESSMENT TITLE: Assessment: Design and Teach a mini-competency/ mini-courseworkshop
+	ASSESSMENT DESCRIPTION: Design and deliver a mini-competency/ mini-course/ workshop for 1 class ( 1 lecture hr + 1 lab hr) it can be in either
+    - WARP Program
+    - AiCE X-Cellence Camp (Oct 19-20)
+    - Learning Odyssey Program (LOP)
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

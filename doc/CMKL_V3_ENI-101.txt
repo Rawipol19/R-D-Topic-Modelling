@@ -1,0 +1,52 @@
+Details for Competency ENI-101 (Create Innovation-driven Enterprise (Path Selection))
+
+IDENTITY CODE: INNOV_PATH_SELECT_4
+REQUIRED? true
+CREDITS: 4 (Graded)
+DESCRIPTION
+Create Innovation-driven Enterprise (Path Selection) equips individuals with the strategic foresight and practical skills necessary to navigate diverse pathways in entrepreneurial ventures, fostering innovation-driven leadership and sustainable growth
+RESPONSIBLE INSTRUCTOR: Dylan Powell
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: ENI-101:00010   
+	KNOWLEDGE TOPIC: Innovation-driven Advantage                                 
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Contexting Innovation-driven Enterprise
+	ASSESSMENT DESCRIPTION: Understand innovation models, sustaining innovation vs. disruptive innovation and how to strategize what to do and not to do so firms can focus on the resource allocation properly.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: ENI-101:00030   
+	KNOWLEDGE TOPIC: Innovation-driven Advantage                                 
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Componentize Innovation-driven Enterprise
+	ASSESSMENT DESCRIPTION: Articulating why innovation is successful or failed while being able to understand how to reduce the odds of failure by adopting systematic innovation approach for their entrepreneurial path.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: ENI-101:00040   
+	KNOWLEDGE TOPIC: Entrepreneurial mindset                                     
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Choose Entreprenuerial Path
+	ASSESSMENT DESCRIPTION: Choose Entreprenuerial Path and Team formation                                  
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: ENI-101:00050   
+	KNOWLEDGE TOPIC: Innovation-driven Advantage                                 
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Innovation-driven Enterprise Strategy
+	ASSESSMENT DESCRIPTION: Understand Innovation Strategy for Startup and Established Firms that student can put into their entrepreneurial path by using tools and framework providing in the class.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

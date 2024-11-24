@@ -1,0 +1,36 @@
+Details for Competency SEC-102 (Data Reduction and Compression)
+
+IDENTITY CODE: DATA_COMPRESS_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+The size of data is the key for efficient communications. You cannot send a video of 10GB to 10,000 users in the network at the same time. In this competency, you will learn how to reduce the amount of data to be properly and efficiently collected, transmitted, and processed, using various compression techniques.
+RESPONSIBLE INSTRUCTOR: Akkarit Sangpetch
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEC-102:00010   
+	KNOWLEDGE TOPIC: Data Reduction and Compression                              
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Data Reduction and Compression
+	ASSESSMENT DESCRIPTION: Complete a hands-on assignment of the technique implementation.                 
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SEC-102:00020   
+	KNOWLEDGE TOPIC: Data Reduction and Compression                              
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Data Reduction and Compression
+	ASSESSMENT DESCRIPTION: Write an essay to describe their relation in Data set                           
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

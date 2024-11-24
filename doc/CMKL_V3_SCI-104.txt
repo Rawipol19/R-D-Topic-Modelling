@@ -1,0 +1,52 @@
+Details for Competency SCI-104 (Quantum Physics)
+
+IDENTITY CODE: QUANTUM_PHYSICS_12
+REQUIRED? false
+CREDITS: 12 (Graded)
+DESCRIPTION
+The Quantum Physics for Engineering Students course provides an introduction to the principles and concepts of quantum mechanics with a focus on applications relevant to engineering. This course covers fundamental topics such as wave-particle duality, quantum states, and the Schrödinger equation. Students will explore the implications of quantum mechanics for modern technology, including semiconductors, nanotechnology, and quantum computing. The course is designed to develop a solid foundation in quantum mechanics, preparing students for advanced study and professional practice in engineering fields that utilize quantum principles.
+RESPONSIBLE INSTRUCTOR: Pakpoom Buabthong
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SCI-104:00010   
+	KNOWLEDGE TOPIC: Double-slit experiment and de Broglie wavelength            
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understanding of Wave-Particle Duality
+	ASSESSMENT DESCRIPTION: Short-answer exams evaluating knowledge and application of wave-particle duality concepts.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: SCI-104:00020   
+	KNOWLEDGE TOPIC: Quantum superposition and wave functions                    
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Comprehension of Quantum States and Superposition
+	ASSESSMENT DESCRIPTION: Short-answer exams testing knowledge of quantum states and superposition principles.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-104:00030   
+	KNOWLEDGE TOPIC: Time-independent Schrödinger equation and potential wells   
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Application of the Schrödinger Equation
+	ASSESSMENT DESCRIPTION: Problem sets requiring the application of the Schrödinger equation to different quantum systems.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: SCI-104:00040   
+	KNOWLEDGE TOPIC: Quantum tunneling and semiconductor devices                 
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Understanding of Quantum Mechanics in Modern Technology
+	ASSESSMENT DESCRIPTION: Essays analyzing the application of quantum mechanics principles in modern technology.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

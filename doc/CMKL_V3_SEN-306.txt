@@ -1,0 +1,28 @@
+Details for Competency SEN-306 (Dataflow Programming)
+
+IDENTITY CODE: DATAFLOW_PROG_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+In computer programming, dataflow programming is a programming paradigm that models a program as a directed graph of the data flowing between operations, thus implementing dataflow principles and architecture.
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEN-107 - Fundamental Data Structures and Algorithms
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-306:00010   
+	KNOWLEDGE TOPIC: Dataflow Programming                                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Applying the dataflow programming paradigm
+	ASSESSMENT DESCRIPTION: Given a written specification of a problem, write a program that uses a dataflow approach to solve that problem.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

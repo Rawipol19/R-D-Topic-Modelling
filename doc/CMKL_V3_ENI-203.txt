@@ -1,0 +1,46 @@
+Details for Competency ENI-203 (Platform Strategy)
+
+IDENTITY CODE: PLATFORM_STRATEGY_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+This competency equips you with a deep understanding of platform businesses, including their functions and core principles. You'll learn to conceptualize, research, analyze, and develop a comprehensive business plan for your own platform. Whether you aspire to create your own platform or build a product strategy, this competency will broaden your business acumen and provide a holistic view of organizational success.
+RESPONSIBLE INSTRUCTOR: Piyamin Trithipcharoenchai
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- R&D
+   -- Soft Skills
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: ENI-203:00010   
+	KNOWLEDGE TOPIC: Steps to building a successful Platform                     
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Understand Platform and Business    
+	ASSESSMENT DESCRIPTION: Take a quiz, written assignment, presentation that evaluates key distinctions and concepts on these topics.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: ENI-203:00020   
+	KNOWLEDGE TOPIC: Steps to building a successful Platform                     
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Apply knowledge to  transform traditional business to Platform business
+	ASSESSMENT DESCRIPTION: Individual assignment / Group assignment                                        
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: ENI-203:00030   
+	KNOWLEDGE TOPIC: Steps to building a successful Platform                     
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Create Platform Strategy            
+	ASSESSMENT DESCRIPTION: Group assignment                                                                
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

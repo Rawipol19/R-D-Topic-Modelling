@@ -1,0 +1,58 @@
+Details for Competency SEN-109 (Modern Systems Programming)
+
+IDENTITY CODE: SYS_PROG_2
+REQUIRED? false
+CREDITS: 2 (Graded)
+DESCRIPTION
+This competency will introduce students to the fundamentals of modern systems programming in a memory safe language (Rust). This lecture/tutorial-based competency will cover basic and unique features of Rust language which can later be used for system-level programming. Topics include:
+- Accessing development ecosystem and toolchain for building, compiling and dependency handling
+- Application of basic control flow and structured data types
+- Utilizing of pattern matching, traits, generics and standard library to handle operations on different data types
+- Safe memory management using smart pointers, borrowing and lifetime concepts
+- Using iterators, modules, testing, error handling and unsafe Rust for system programming
+
+RESPONSIBLE INSTRUCTOR: Akkarit Sangpetch
+PREREQUISITES
+   -- SEN-102 - Introduction to Programming
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-109:00010   
+	KNOWLEDGE TOPIC: Systems programming requirements and constraints            
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Understanding systems programming   
+	ASSESSMENT DESCRIPTION: Given some sample systems code in C, analyze to identify areas of vulnerability 
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: SEN-109:00020   
+	KNOWLEDGE TOPIC: Rust development ecosystem and toolchain                    
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Use the Rust programming tool chain to build, execute, test, etc. a Rust program
+	ASSESSMENT DESCRIPTION: As part of a larger development effort in Rust, use the compiler and other tools effectively to build, test and execute a Rust software system
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-109:00030   
+	KNOWLEDGE TOPIC: Safe memory management                                      
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Apply techniques to manage memory safely
+	ASSESSMENT DESCRIPTION: Develop a non-trivial program in Rust that solves some systems-programming problem, using memory-safe constructions
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-109:00040   
+	KNOWLEDGE TOPIC: Pattern matching,  traits and generics                      
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Apply Rust pattern matching constructions and generics
+	ASSESSMENT DESCRIPTION: As part of a large programming effort in Rust, use pattern matching, traits and generics .
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

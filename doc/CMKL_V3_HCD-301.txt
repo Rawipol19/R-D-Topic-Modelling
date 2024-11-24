@@ -1,0 +1,72 @@
+Details for Competency HCD-301 (Game Engine Fundamentals)
+
+IDENTITY CODE: GAME_ENGINE_8
+REQUIRED? false
+CREDITS: 8 (Graded)
+DESCRIPTION
+This competency will equip you with the fundamental technical knowledge required to build a Gameplay prototype: Environments, Player Navigations, Interactions, 3Cs,...
+
+You will apply your learnings to a personal game prototype, using the Unreal 5 game engine and its core functionalities.
+
+It is advised to complement this course with the courses "Game Design", and "Engineered Arts".
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HCD-301:00010   
+	KNOWLEDGE TOPIC: Unreal 5 Game Engine                                        
+	ASSESSMENT TYPE: Observational assessment
+	ASSESSMENT TITLE: Apply learnings of Unreal 5 Technology
+	ASSESSMENT DESCRIPTION: Instructor will assess Student's competency based on required technical exercices.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: HCD-301:00020   
+	KNOWLEDGE TOPIC: Unreal 5 Game Engine                                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create original Content with Unreal 5 Technology
+	ASSESSMENT DESCRIPTION: An assignment to demonstrate the ability to solve related sophisticated problems.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: HCD-301:00030   
+	KNOWLEDGE TOPIC: In-game Navigation and Interactions                         
+	ASSESSMENT TYPE: Observational assessment
+	ASSESSMENT TITLE: Apply learnings of 3Cs and Interactions  in Unreal 5
+	ASSESSMENT DESCRIPTION: Instructor will assess Student's competency based on required technical exercices.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: HCD-301:00040   
+	KNOWLEDGE TOPIC: In-game Navigation and Interactions                         
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create original 3Cs and Interaction in Unreal 5
+	ASSESSMENT DESCRIPTION: An assignment to demonstrate the ability to solve related sophisticated problems.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: HCD-301:00050   
+	KNOWLEDGE TOPIC: Gameplay Prototyping                                        
+	ASSESSMENT TYPE: Observational assessment
+	ASSESSMENT TITLE: Apply learnings of Prototyping in Unreal 5
+	ASSESSMENT DESCRIPTION: Instructor will assess Student's competency based on required technical exercices.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: HCD-301:00060   
+	KNOWLEDGE TOPIC: Gameplay Prototyping                                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create original Gameplay Prototype with Unreal 5
+	ASSESSMENT DESCRIPTION: An assignment to demonstrate the ability to solve related sophisticated problems.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

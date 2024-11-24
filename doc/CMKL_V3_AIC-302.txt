@@ -1,0 +1,30 @@
+Details for Competency AIC-302 (Probability-based Models)
+
+IDENTITY CODE: PROB_AI_MODELS_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+This competency introduces students to a variety of approaches to learning and decision-making that depend on probabilities. In particular, it considers the construction, use and variations of Bayesian models. 
+RESPONSIBLE INSTRUCTOR: Irving Gomez Mendez
+PREREQUISITES
+   -- MAT-205 - Probability Distributions
+   -- AIC-201 - Supervised Learning and Unsupervised Learning
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: AIC-302:00020   
+	KNOWLEDGE TOPIC: Probability Models                                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: The concept of Probability-based Models
+	ASSESSMENT DESCRIPTION: Use a probability-based technique to model a problem and find a solution        
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

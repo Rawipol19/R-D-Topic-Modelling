@@ -1,0 +1,54 @@
+Details for Competency ENI-302 (Persuasive and Leadership Communication)
+
+IDENTITY CODE: PERSUASIVE_COM_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Persuasive and leadership communication fosters influential dialogue, inspiring others to action through compelling rhetoric and decisive guidance.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+   -- ENI-201 - Strategic Innovation Development
+   -- ENI-202 - Business Strategy
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: ENI-302:00010   
+	KNOWLEDGE TOPIC: Persuasive Communication                                    
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand how to communicate strategically, building persuasive message structure and increase ability to motivate, influece audience to action.
+	ASSESSMENT DESCRIPTION: Given speech test                                                               
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: ENI-302:00020   
+	KNOWLEDGE TOPIC: Communicating with Data                                     
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand how to convey the message and communicate to others.
+	ASSESSMENT DESCRIPTION: Given data and convey the message test                                          
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: ENI-302:00030   
+	KNOWLEDGE TOPIC: Communicating Persuasively by Listening, and through giving and receiving feedback
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand how to be an active and reflective listener.
+	ASSESSMENT DESCRIPTION: Given listening and reflecting message test                                     
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: ENI-302:00040   
+	KNOWLEDGE TOPIC: Communicating Pursuasvily with Presentations                
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: be able to give an effective and persuasive presentation.
+	ASSESSMENT DESCRIPTION: give a presentation test                                                        
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

@@ -1,0 +1,52 @@
+Details for Competency ENI-411 (Game Publishing and Marketing)
+
+IDENTITY CODE: GAME_PUBLISHING_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Game publishing and marketing involve the strategic promotion and distribution of video games to maximize visibility, reach, and sales. Publishers handle various aspects, including funding development, coordinating production, and managing distribution across platforms. Marketing strategies encompass creating compelling trailers, advertisements, and social media campaigns to build anticipation and attract players. Publishers collaborate with developers to ensure games meet market expectations and leverage existing fanbases. Effective marketing identifies target audiences, optimizes visibility on digital storefronts, and cultivates community engagement through events and influencer partnerships. Together, publishing and marketing play critical roles in launching successful games and sustaining long-term player interest.
+RESPONSIBLE INSTRUCTOR: Justin Paulsen
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: ENI-411:00030   
+	KNOWLEDGE TOPIC: Market Analysis Fundamentals                                
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Market Analysis Fundamentals: Market opportunity analysis and su
+	ASSESSMENT DESCRIPTION: Integrate well-sourced statistics and research to support and persuade investors towards a new IP concept.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: ENI-411:00050   
+	KNOWLEDGE TOPIC: Software Monetization                                       
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Modern Monetization: Go-to-market planning for 21st-century game
+	ASSESSMENT DESCRIPTION: Add a compelling monetization section to existing business plans, backed by research and analysis from previous lessons.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: ENI-411:00070   
+	KNOWLEDGE TOPIC: Gaming Entrepreneurship                                     
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Forming a Studio from Scratch: Gaming Entrepreneurship Fundament
+	ASSESSMENT DESCRIPTION: Begin basic conception of the game idea, and translate it into a basic game design document.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: ENI-411:00080   
+	KNOWLEDGE TOPIC: Pitching a Prototype                                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Concept Pitching & Planning         
+	ASSESSMENT DESCRIPTION: Present the business plan and basic design documentation to the class for critique.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

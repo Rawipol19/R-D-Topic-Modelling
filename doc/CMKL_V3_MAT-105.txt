@@ -1,0 +1,76 @@
+Details for Competency MAT-105 (Vector Calculus)
+
+IDENTITY CODE: VECTOR_CALC_6
+REQUIRED? false
+CREDITS: 6 (Graded)
+RESPONSIBLE INSTRUCTOR: Puttha Sakkaplangkul
+PREREQUISITES
+   -- MAT-101 - Calculus - Differentiation
+   -- MAT-102 - Calculus - Basic derivatives
+   -- MAT-103 - Calculus - Integration
+DISTRIBUTION AREAS
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: MAT-105:00010   
+	KNOWLEDGE TOPIC: Surface Integrals                                           
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Surface Integrals       
+	ASSESSMENT DESCRIPTION: Surface Integrals                                                               
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: MAT-105:00020   
+	KNOWLEDGE TOPIC: Volume Integrals                                            
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Volume Integrals        
+	ASSESSMENT DESCRIPTION: Volume Integrals                                                                
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: MAT-105:00030   
+	KNOWLEDGE TOPIC: Theorems of Vector Calculus (Greens, Stokes, and Divergence)
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Theorems of Vector Calculus (Green's, Stokes', and Divergence Th
+	ASSESSMENT DESCRIPTION: Theorems of Vector Calculus (Green's, Stokes', and Divergence Theorems)         
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: MAT-105:00040   
+	KNOWLEDGE TOPIC: Applications of Vector Calculus                             
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Applications of Vector Calculus
+	ASSESSMENT DESCRIPTION: Applications of Vector Calculus                                                 
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: MAT-105:00050   
+	KNOWLEDGE TOPIC: Vector Algebra                                              
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Vector Algebra          
+	ASSESSMENT DESCRIPTION: Vector Algebra                                                                  
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: MAT-105:00060   
+	KNOWLEDGE TOPIC: Differentiation of Vector Functions                         
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Differentiation of Vector Functions
+	ASSESSMENT DESCRIPTION: Differentiation of Vector Functions                                             
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: MAT-105:00070   
+	KNOWLEDGE TOPIC: Line Integrals                                              
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Line Integrals          
+	ASSESSMENT DESCRIPTION: Line Integrals                                                                  
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

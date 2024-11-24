@@ -1,0 +1,89 @@
+Details for Competency SEN-209 (Designing and implementing databases)
+
+IDENTITY CODE: DATABASES_6
+REQUIRED? false
+CREDITS: 6 (Graded)
+DESCRIPTION
+This competency introduces the basic principles of relational databases and techniques for using them in programs. It also includes conceptual modelling for database design and other database paradigms.
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEN-107 - Fundamental Data Structures and Algorithms
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-209:00010   
+	KNOWLEDGE TOPIC: Database System Concepts, Database Architecture             
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: [SEN-209:00010]Understand the concepts of logical and physical databases, query optimization, the 3-schema database architecture
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics.       
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: SEN-209:00020   
+	KNOWLEDGE TOPIC: Relational table structure creation, including SQL DDL      
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: [SEN-209:00020]Understand relational database model and relational database representations
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics. Create SQL tables and try some simple queries.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: SEN-209:00030   
+	KNOWLEDGE TOPIC: Querying a relational database                              
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: [SEN-209:00030]Create and execute SQL queries to retrieve data
+	ASSESSMENT DESCRIPTION: Create and execute SQL queries to retrieve data
+                                
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SEN-209:00040   
+	KNOWLEDGE TOPIC: Data manipulations and transactions in a relational database
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: [SEN-209:00040]Add and modify data in a relational DB using SQL
+	ASSESSMENT DESCRIPTION: Given a database with a known schema, which already contains data, create and execute SQL statements to add new records, modify existing records, and delete records, according to a set of instructions. Test basic transaction operations.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SEN-209:00050   
+	KNOWLEDGE TOPIC: Database operations in software                             
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: [SEN-209:00050]Write a program that queries and modifies a relational database
+	ASSESSMENT DESCRIPTION: Write a program that queries and modifies a relational database
+Given a database with a known schema, which already contains data, write a program to retrieve specific information, add new records, modify existing records, and delete records, according to a set of instructions. 
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SEN-209:00060   
+	KNOWLEDGE TOPIC: Relational database analysis and quality control of the schemas
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: [SEN-209:00060]Database attributes analysis using the normalization technique, 1NF to 5NF
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: SEN-209:00070   
+	KNOWLEDGE TOPIC: Database Design case study                                  
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: [SEN-209:00070]Conceptual Modelling and Database Design
+	ASSESSMENT DESCRIPTION: Given a case study, design a conceptual model and transform it into database structures
+
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SEN-209:00080   
+	KNOWLEDGE TOPIC: Comparing database systems                                  
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: [SEN-209:00080] Introduction to the NoSQL database paradigm
+	ASSESSMENT DESCRIPTION: Write a report on a NoSQL database software and its application
+Given a description of a particular software application, decide what database system you would use. Explain and justify your choice in writing.
+
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

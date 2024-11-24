@@ -1,0 +1,39 @@
+Details for Competency ENI-403 (Biomedical, Bioinformatics and Health)
+
+IDENTITY CODE: BIOMED_APPL_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+OPTION GROUP: Business Application Domains
+
+DESCRIPTION
+The Business Application Domain offers participants an industry domain to choose from to engage in a research project.
+The project will provide the participants with a broad understanding of their selected industry.
+The aim of this competency is to capture the essence of the domain which has been selected. The project is designed to offer the participants an informative understanding of the essential knowledge areas which comprise the industry.
+Over the course of the project, students will develop a Market Analysis Report while engaging in secondary and primary research within the industry.
+At the conclusion of the project, students will have the opportunity to present their findings and recommendations to a sponsor representing a leading industry within the sector.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+   -- ENI-101 - Create Innovation-driven Enterprise (Path Selection)
+   -- ENI-102 - Design Thinking
+   -- URD-101 - Undergraduate R&D Project (1)                                     
+   -- URD-102 - Undergraduate R&D Project (2) 
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- R&D
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: ENI-403:00010   
+	KNOWLEDGE TOPIC: Strategic Level Analysis                                    
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Understand and applying strategic analysis to a real world organisation and industry to gain an understanding of practical business fundamentals.
+	ASSESSMENT DESCRIPTION: Participants will be asked to produce a Market Analysis Report using the research
+they have developed during the project. The research will showcase the identified problem sets present within the industry and propose a solution-based recommendation. 
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

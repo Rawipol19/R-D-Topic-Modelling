@@ -1,0 +1,28 @@
+Details for Competency ENI-201 (Strategic Innovation Development)
+
+IDENTITY CODE: INNOV_DEVEL_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Competency in strategic innovation development involves navigating complex market landscapes, harnessing emerging technologies, and fostering a culture of creativity to drive sustainable growth and competitive advantage.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: ENI-201:00010   
+	KNOWLEDGE TOPIC: Strategic development of firm innovation.                   
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand different types of innovations and examples of how the firm builds and foster the Innovation portfolio. Learn from examples by articulating how innovative firms create a source of differentiation while diversifying the sum of all its parts.
+	ASSESSMENT DESCRIPTION: Take a quiz, written assignment, presentation that evaluates key distinctions and concepts on these topics.
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

@@ -1,0 +1,68 @@
+Details for Competency HCD-403 (Narrative Design)
+
+IDENTITY CODE: NARRATIVE_DESIGN_6
+REQUIRED? false
+CREDITS: 6 (Graded)
+DESCRIPTION
+Digital storytelling, in both gaming and interactive digital media more broadly, requires a thorough understanding of the architecture of a narrative. Narrative allows players, users, and customers to project themselves into an experience, and this is achieved through a carefully designed user experience (UX). This course will cover narrative conception/ideation, storyboarding, narrative design modeling, production tracking, dialogue writing, variable-driven user choices (i.e. interactive design), and user testing.
+RESPONSIBLE INSTRUCTOR: Justin Paulsen
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HCD-403:00010   
+	KNOWLEDGE TOPIC: Narrative Conception                                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Narrative Conception    
+	ASSESSMENT DESCRIPTION: Begin ideating a narrative-based project in digital media (gaming or film)      
+	COMPLEXITY LEVEL:Remember                
+
+
+SKILL CODE: HCD-403:00020   
+	KNOWLEDGE TOPIC: Narrative Conception                                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Narrative Conception    
+	ASSESSMENT DESCRIPTION: Produce a thematically-consistent narrative design                              
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: HCD-403:00030   
+	KNOWLEDGE TOPIC: Narrative Pipeline Integration                              
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Narrative Pipeline Integration
+	ASSESSMENT DESCRIPTION: Demonstrate a knowledge of ludonarrative alignment through a brief presented example
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: HCD-403:00040   
+	KNOWLEDGE TOPIC: Narrative Pipeline Integration                              
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Narrative Pipeline Integration
+	ASSESSMENT DESCRIPTION: Outline the narrative design for the final project, and translate that narrative design into actionable storybeats
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: HCD-403:00050   
+	KNOWLEDGE TOPIC: Narrative Prototyping & Dialogue Writing                    
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Narrative Prototyping & Dialogue Writing
+	ASSESSMENT DESCRIPTION: Write a playable scene(s) using Twine or Articy                                 
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: HCD-403:00060   
+	KNOWLEDGE TOPIC: Narrative Prototyping & Dialogue Writing                    
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Narrative Prototyping & Dialogue Writing
+	ASSESSMENT DESCRIPTION: Publish this scene via .html and present a choice-driven experience to the class
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

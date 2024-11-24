@@ -1,0 +1,44 @@
+Details for Competency SYS-101 (Operating Systems)
+
+IDENTITY CODE: OS_UNIX_4
+REQUIRED? true
+CREDITS: 4 (Graded)
+DESCRIPTION
+This competency provides an overview of operating systems responsibilities & required  mechanisms for multitasking and resource management of a computer system. This competency will focus on the virtualization abstraction and concurrency aspect of operating systems.
+RESPONSIBLE INSTRUCTOR: Akkarit Sangpetch
+PREREQUISITES
+   -- SEN-102 - Introduction to Programming
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SYS-101:00010   
+	KNOWLEDGE TOPIC: Principles of Operating Systems                             
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Implement and Use an OS Shell
+	ASSESSMENT DESCRIPTION: Implement a Linux shell that interacts with file system, processes and signal handling
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SYS-101:00020   
+	KNOWLEDGE TOPIC: Virtualization                                              
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment:Design and Implement a basic OS kernel
+	ASSESSMENT DESCRIPTION: Implement a simplified OS kernel that can manage multiple processes and virtual memory
+	COMPLEXITY LEVEL:Remember                
+
+
+SKILL CODE: SYS-101:00030   
+	KNOWLEDGE TOPIC: Concurrency                                                 
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment:Design and Implement a concurrent network server
+	ASSESSMENT DESCRIPTION: Implement a client-server backend service that demonstrates useful synchronized data structure for network applications
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

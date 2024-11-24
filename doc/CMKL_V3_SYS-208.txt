@@ -1,0 +1,75 @@
+Details for Competency SYS-208 (Digital and Analog Circuit Design)
+
+IDENTITY CODE: CIRCUIT_DESIGN_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+This course introduces the integration of analog and digital systems by creating  Direct Digital Synthesis Function Geneator   
+RESPONSIBLE INSTRUCTOR: Sumek Wisayataksin
+PREREQUISITES
+   -- SYS-102 - Basic Computer Architecture
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SYS-208:00010   
+	KNOWLEDGE TOPIC: DC Analog Circuit                                           
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Analyze the DC analog circuit       
+	ASSESSMENT DESCRIPTION: Take a quiz to evaluate the concept of topics
+                                  
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: SYS-208:00020   
+	KNOWLEDGE TOPIC: AC Analog Circuit                                           
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Analyze the AC analog circuit       
+	ASSESSMENT DESCRIPTION: Take a quiz to evaluate the concept of topics
+                                  
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: SYS-208:00030   
+	KNOWLEDGE TOPIC: Digital Circuit                                             
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Digital Data Interface, SPI         
+	ASSESSMENT DESCRIPTION: Take a exam by creating the program to control peripheral according to the spec.
+
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SYS-208:00040   
+	KNOWLEDGE TOPIC: Analog and Digital Conversion                               
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understand  the analog to digital conversion 
+	ASSESSMENT DESCRIPTION: Take a exam by creating the program to control peripheral according to the spec.
+
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SYS-208:00050   
+	KNOWLEDGE TOPIC: Print Circuit Board Design                                  
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Create the PCB for Electronic system
+	ASSESSMENT DESCRIPTION: Exermine the correctness of the pcb outcome.
+                                   
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SYS-208:00060   
+	KNOWLEDGE TOPIC: Electronic System Design                                    
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Integrate digital and analog circuit into the PCB
+	ASSESSMENT DESCRIPTION: Integrate digital and analog circuit into the PCB
+                              
+	COMPLEXITY LEVEL:Evaluate                
+
+
+
+

@@ -1,0 +1,53 @@
+Details for Competency HAS-103 (Political Studies)
+
+IDENTITY CODE: POLITICS_9
+REQUIRED? false
+CREDITS: 9 (Graded)
+DESCRIPTION
+This competency explores fundamental political concepts such as power, equality, sustainability, and peace in a range of contexts and at a variety of levels.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HAS-103:00010   
+	KNOWLEDGE TOPIC: Classical and contemporary political ideologies             
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understanding of Political Theories and Concepts
+	ASSESSMENT DESCRIPTION: Short-answer exams evaluating knowledge and application of foundational political theories and concepts.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HAS-103:00020   
+	KNOWLEDGE TOPIC: The structure and role of government branches (executive, legisl
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Analysis of Political Institutions and Processes
+	ASSESSMENT DESCRIPTION: Essays that require students to analyze the role and functioning of political institutions and processes.
+
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: HAS-103:00030   
+	KNOWLEDGE TOPIC: Current global political issues and conflicts               
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Critical Evaluation of Political Events and Issues
+	ASSESSMENT DESCRIPTION: Essays analyzing contemporary political events and issues using critical thinking and diverse perspectives.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: HAS-103:00040   
+	KNOWLEDGE TOPIC: Comparative analysis of democratic and authoritarian regimes
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understanding of Comparative Politics and International Relations
+	ASSESSMENT DESCRIPTION: Short-answer exams assessing knowledge of comparative politics and international relations.
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

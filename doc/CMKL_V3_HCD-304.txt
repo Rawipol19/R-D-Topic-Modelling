@@ -1,0 +1,69 @@
+Details for Competency HCD-304 (Character Animation and Motion Capture)
+
+IDENTITY CODE: CHAR_ANIMATION_6
+REQUIRED? false
+CREDITS: 6 (Graded)
+DESCRIPTION
+This competency is designed for AI and Computer Engineering students to explore the technical dimensions of character animation and motion capture. Focusing on hands-on learning, students will gain practical experience with motion capture systems, data processing, and AI applications in animation. The course covers the implementation of pose estimation algorithms, data cleanup techniques, and the integration of motion capture data into animation pipelines, preparing students for advanced work in animation technology and AI-driven tools.
+RESPONSIBLE INSTRUCTOR: Pisut Wisessing
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HCD-304:00010   
+	KNOWLEDGE TOPIC: Computer Animation, Visual Effects, and Games               
+	ASSESSMENT TYPE: Interview/oral exam 
+	ASSESSMENT TITLE: Explain the importance of animation in the entertainment industry
+	ASSESSMENT DESCRIPTION:  Video Essay Project: Students will develop a video essay incorporating case studies and examples to illustrate the role and impact of animation.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HCD-304:00020   
+	KNOWLEDGE TOPIC: Principles of Animation                                     
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create an animation using the principles of animation
+	ASSESSMENT DESCRIPTION:  Animation Project: Create a short animated clip using Blender, incorporating principles such as squash and stretch, timing, and anticipation.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: HCD-304:00030   
+	KNOWLEDGE TOPIC: Digital Character Creation                                  
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Rig simple digital assets for games 
+	ASSESSMENT DESCRIPTION: Rigging Assignment: Using Blender, students will create a functional rig for a 3D model, preparing it for animation within a game environment.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: HCD-304:00040   
+	KNOWLEDGE TOPIC: Motion Capture                                              
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Capture basic performance data from a human actor
+	ASSESSMENT DESCRIPTION: Motion Capture Project: Set up and calibrate motion capture hardware, direct an actor through predefined movements, and record the resulting data for further processing.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: HCD-304:00050   
+	KNOWLEDGE TOPIC: Data in Animation                                           
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Extract, process, and apply animation data to a character
+	ASSESSMENT DESCRIPTION: Data Processing Project: Use software tools to clean and process motion capture data, then retarget it onto a 3D character model to produce a smooth and accurate animation.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: HCD-304:00060   
+	KNOWLEDGE TOPIC: AI in Animation                                             
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Utilize AI tools in an animation production
+	ASSESSMENT DESCRIPTION: AI Integration Project: Implement AI techniques such as machine learning algorithms or AI-based animation software to create or improve animations within a production pipeline.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

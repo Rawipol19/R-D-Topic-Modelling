@@ -1,0 +1,20 @@
+Details for Competency HAS-107 (History of music)
+
+IDENTITY CODE: MUSIC_HISTORY_8
+REQUIRED? false
+CREDITS: 8 (Graded)
+DESCRIPTION
+This course provides a comprehensive exploration of the history of music from ancient times to the contemporary era. Students will engage with foundational music historical theories and methodologies to analyze and compare significant musical movements, styles, and works across different cultures and periods. Topics include the study of musicological methodologies, key movements from the Baroque period to Contemporary Music, musical forms and structures, and non-Western music traditions. Through critical evaluation and comparative analysis, students will gain a deeper understanding of how music has evolved and interacted globally. This course fosters critical thinking and auditory literacy, preparing students to appreciate and engage with music in diverse cultural contexts.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+
+

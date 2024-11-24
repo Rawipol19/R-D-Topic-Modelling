@@ -1,0 +1,44 @@
+Details for Competency SEC-103 (Data Governance)
+
+IDENTITY CODE: DATA_GOVERN_2
+REQUIRED? false
+CREDITS: 2 (Graded)
+DESCRIPTION
+How organizations gather, store, process, and dispose data is a serious concern for end-users. Data governance is a way to set an internal standard for an organization. In this competency, we will go through techniques to adopt principled data governance approaches to managing data object during its life cycle.
+RESPONSIBLE INSTRUCTOR: Akkarit Sangpetch
+PREREQUISITES
+   -- HCD-201 - Ethics in computer engineering
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEC-103:00010   
+	KNOWLEDGE TOPIC: Data governance process, semantics rules and policies       
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Construct a data governance process according to the application's requirement
+	ASSESSMENT DESCRIPTION: Engage with a third party in a data analytics task and construct the governance process that are acceptable to the third party while allowing the task to be completed.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: SEC-103:00020   
+	KNOWLEDGE TOPIC: Data governance process, semantics rules and policies       
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Write semantics rules for data governance  including information extraction, data integration and data cleaning
+	ASSESSMENT DESCRIPTION: Implement a role-based access control or other semantics to control data access for a team or an organization
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEC-103:00030   
+	KNOWLEDGE TOPIC: Data governance process, semantics rules and policies       
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Develop policies and processes to ensure the privacy and security of data
+	ASSESSMENT DESCRIPTION: Develop policies and processes for a data collection project to ensure privacy & security of subjects providing data.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

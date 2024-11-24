@@ -1,0 +1,76 @@
+Details for Competency SCI-105 (Kinematics: describe motion (Physis I))
+
+IDENTITY CODE: KINEMATICS_3
+REQUIRED? false
+CREDITS: 3 (Graded)
+DESCRIPTION
+The Kinematics: Describing Motion course provides an introduction to the fundamental principles and concepts of kinematics, the branch of mechanics that deals with the motion of objects. This course covers topics such as displacement, velocity, acceleration, and the equations of motion. 
+RESPONSIBLE INSTRUCTOR: Chinnapat Rattanasirawit
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SCI-105:00010   
+	KNOWLEDGE TOPIC: Units, Physical Quantities, Vectors,Motion in One Dimension, Motion in 2 or 3 Dimensions
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Evaluation of units, physical quantities and vectors
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-105:00020   
+	KNOWLEDGE TOPIC: Units, Physical Quantities, Vectors,Motion in One Dimension, Motion in 2 or 3 Dimensions
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Units, Physical Quantities and Vectors problem solving
+	ASSESSMENT DESCRIPTION: An assignment to demostrate the ability to solve related sophisticated problems 
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: SCI-105:00030   
+	KNOWLEDGE TOPIC: Units, Physical Quantities, Vectors,Motion in One Dimension, Motion in 2 or 3 Dimensions
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: The concept of motion in one dimension
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-105:00040   
+	KNOWLEDGE TOPIC: Units, Physical Quantities, Vectors,Motion in One Dimension, Motion in 2 or 3 Dimensions
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: The Motion problem solving
+	ASSESSMENT DESCRIPTION: An assignment to demostrate the ability to solve related sophisticated problems.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SCI-105:00050   
+	KNOWLEDGE TOPIC: Units, Physical Quantities, Vectors,Motion in One Dimension, Motion in 2 or 3 Dimensions
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: The circular motion and the motion in 2 or 3 dimensions.
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-105:00060   
+	KNOWLEDGE TOPIC: Units, Physical Quantities, Vectors,Motion in One Dimension, Motion in 2 or 3 Dimensions
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Motion kinematically problem solving
+	ASSESSMENT DESCRIPTION: An assignment to demostrate the ability to solve related sophisticated problems.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SCI-105:00070   
+	KNOWLEDGE TOPIC: Units, Physical Quantities, Vectors,Motion in One Dimension, Motion in 2 or 3 Dimensions
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Analyses projectile motion kinematically
+	ASSESSMENT DESCRIPTION: **Project assignment to demonstrate ability to setup the experiment and to analyze the projectile motion from experimental data.
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

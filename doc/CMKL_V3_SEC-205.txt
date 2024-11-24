@@ -1,0 +1,44 @@
+Details for Competency SEC-205 (Distributed ledger and Blockchain)
+
+IDENTITY CODE: BLOCKCHAIN_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Bitcoin, blockchain technology, and smart contracts represent a trinity of transformative innovations that have reshaped the landscape of finance, technology, and beyond. At the heart of this paradigm shift lies Bitcoin, the pioneering cryptocurrency introduced by an anonymous entity known as Satoshi Nakamoto in a groundbreaking white paper published in 2008. Bitcoin, often hailed as digital gold, operates on a decentralized network facilitated by blockchain technology, a distributed ledger system that records transactions across a network of computers in a secure and transparent manner. Unlike traditional currencies, which are subject to centralized control by governments and financial institutions, Bitcoin enables peer-to-peer transactions without the need for intermediaries, thereby fostering financial autonomy and circumventing the limitations of traditional banking systems. Blockchain technology, the underlying innovation powering Bitcoin, represents a decentralized and immutable ledger system that has transcended its initial application in cryptocurrency to revolutionize various industries, ranging from supply chain management to healthcare and beyond. One of the most promising applications of blockchain technology is the concept of smart contracts, self-executing contracts with the terms of the agreement directly written into code. This competency offers a comprehensive exploration of distributed ledger and blockchain technology. Students will gain insight into the design and development of blockchain systems, delving into their inner workings. Additionally, hands-on lab sessions are incorporated into this competency, providing students with the opportunity to develop their own web 3.0 or decentralized applications (DApps).
+RESPONSIBLE INSTRUCTOR: Charnon Pattiyanon
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEC-205:00010   
+	KNOWLEDGE TOPIC: Blockchain, Distributed Ledger, Bitcoin, and Smart Contracts
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment:Blockchain, Distributed Ledger, Bitcoin, and Smart Contracts
+	ASSESSMENT DESCRIPTION: Given an assignment of sophisticated problems to solve.                         
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SEC-205:00020   
+	KNOWLEDGE TOPIC: Smart Contract Programming with Solidity                    
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment:Smart Contract Programming with Solidity
+	ASSESSMENT DESCRIPTION: Given an assignment of sophisticated problems to develop a program for smart contract and write a development report. 
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEC-205:00030   
+	KNOWLEDGE TOPIC: Blockchain Privacy and Security, and Decentralized Identities
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment:Blockchain Privacy and Security, and Decentralized Identities
+	ASSESSMENT DESCRIPTION: Given an assignment of sophisticated problems to solve.                         
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

@@ -1,0 +1,34 @@
+Details for Competency MAT-101 (Calculus - Differentiation)
+
+IDENTITY CODE: CALC_DIFFERENTIATION_3
+REQUIRED? false
+CREDITS: 3 (Graded)
+RESPONSIBLE INSTRUCTOR: Puttha Sakkaplangkul
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: MAT-101:00010   
+	KNOWLEDGE TOPIC: Differentiation                                             
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: The concept of limits and derivatives
+	ASSESSMENT DESCRIPTION: - Take a quiz that can show and solve the problems in the definition of limits and derivatives - Problem solving in class
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: MAT-101:00030   
+	KNOWLEDGE TOPIC: Differentiation                                             
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: limits and derivatives problem solving
+	ASSESSMENT DESCRIPTION: Take a quiz that can show and solve the problems in the definition of limits and derivatives Problem-solving in class
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

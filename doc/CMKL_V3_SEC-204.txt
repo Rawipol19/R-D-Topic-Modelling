@@ -1,0 +1,46 @@
+Details for Competency SEC-204 (Security Policy and Processes)
+
+IDENTITY CODE: SEC_POLICY_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Security transcends its conventional perception as a mere safeguard for sensitive information within a system. Rather, it embodies a multifaceted paradigm necessitating the establishment of comprehensive organizational frameworks. These frameworks, comprising defined policies and processes, are pivotal in ensuring the continual preservation of data integrity and confidentiality at the highest echelons of security standards. Thus, beyond its technical underpinnings, security emerges as a holistic imperative, binding the responsibilities of administering and utilizing systems with the imperative to fortify the organizational fabric against potential threats and vulnerabilities.
+In this competency, we will explore the fundamental procedures for defining security policies and discuss the essential components they should encompass. Additionally, enforcing these policies requires organizational processes that blend both administrative and technical tasks to maintain adequate security levels. We will examine various security frameworks, such as ISO/IEC 27001 or the NIST Cybersecurity Framework (CSF). By the end of this competency, you should be proficient in analyzing security policies and implementing comprehensive security processes. The skills you acquire will prove invaluable when navigating the security landscape of real enterprises, where security is of paramount concern.
+RESPONSIBLE INSTRUCTOR: Charnon Pattiyanon
+PREREQUISITES
+   -- SEC-201 - Data Privacy, Security and Integrity
+   -- SEN-201 - Software Engineering Processes
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEC-204:00010   
+	KNOWLEDGE TOPIC: Security Policy and IT Governance                           
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment:Security Policy and IT Governance
+	ASSESSMENT DESCRIPTION: Given an assignment of sophisticated problems to solve.                         
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: SEC-204:00020   
+	KNOWLEDGE TOPIC: Security Policy and IT Governance                           
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment:Security Policy and IT Governance
+	ASSESSMENT DESCRIPTION: Given an assignment of sophisticated problems to solve.                         
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEC-204:00030   
+	KNOWLEDGE TOPIC: Security Processes and Frameworks                           
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment:Security Processes and Frameworks
+	ASSESSMENT DESCRIPTION: Given an assignment of sophisticated problems to solve.                         
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

@@ -1,0 +1,42 @@
+Details for Competency SYS-403 (Big Data Computing)
+
+IDENTITY CODE: BIG_DATA_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+RESPONSIBLE INSTRUCTOR: Akkarit Sangpetch
+PREREQUISITES
+   -- MAT-206 - Statistical Inference
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SYS-403:00010   
+	KNOWLEDGE TOPIC: Big Data architecture                                       
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand big data architecture  and its application for potential services.
+	ASSESSMENT DESCRIPTION: Given various use cases (unstructured and structured), describe how or which data architecture that can be used to serve the use cases
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SYS-403:00020   
+	KNOWLEDGE TOPIC: Distributed Queries & Machine learning                      
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Create distributed Queries & Machine learning method for potential services.
+	ASSESSMENT DESCRIPTION: Given a problem, utilize SparkQL or similarly distributed technology to address the problem
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SYS-403:00030   
+	KNOWLEDGE TOPIC: Distributed data pipeline                                   
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Create distributed data pipeline method for potential services.
+	ASSESSMENT DESCRIPTION: Create a data processing pipeline using distributed architecture                
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

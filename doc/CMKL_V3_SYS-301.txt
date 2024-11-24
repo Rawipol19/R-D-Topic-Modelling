@@ -1,0 +1,58 @@
+Details for Competency SYS-301 (Cyber Physical Systems)
+
+IDENTITY CODE: CYBER_PHYS_SYS_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+RESPONSIBLE INSTRUCTOR: Akkarit Sangpetch
+PREREQUISITES
+   -- SYS-102 - Basic Computer Architecture
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SYS-301:00010   
+	KNOWLEDGE TOPIC: Fundamental of Cyber-Physical Systems                       
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Fundamental of Cyber-Physical Systems
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SYS-301:00020   
+	KNOWLEDGE TOPIC: Embedded Systems                                            
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Embedded Systems        
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: SYS-301:00030   
+	KNOWLEDGE TOPIC: Embedded Systems                                            
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Embedded Systems        
+	ASSESSMENT DESCRIPTION: Assign programming assignments to demonstrate the ability of basic programming language
+	COMPLEXITY LEVEL:Remember                
+
+
+SKILL CODE: SYS-301:00040   
+	KNOWLEDGE TOPIC: Control System                                              
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Control System          
+	ASSESSMENT DESCRIPTION: Basic Control Theory, Controller Designs with examples of PID and Kalman Filter Applications 
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SYS-301:00050   
+	KNOWLEDGE TOPIC: Sensors and Actuators                                       
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Sensors and Actuators   
+	ASSESSMENT DESCRIPTION: Assign individual/group projects to demonstrate the ability to design a cyber-physical system model for real applications.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

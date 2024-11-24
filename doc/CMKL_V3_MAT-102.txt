@@ -1,0 +1,34 @@
+Details for Competency MAT-102 (Calculus - Basic derivatives)
+
+IDENTITY CODE: CALC_DERIVATIVES_2
+REQUIRED? false
+CREDITS: 2 (Graded)
+RESPONSIBLE INSTRUCTOR: Puttha Sakkaplangkul
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: MAT-102:00010   
+	KNOWLEDGE TOPIC: Basic derivatives                                           
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: the concept of basic functions
+	ASSESSMENT DESCRIPTION: Take a quiz that can show and solve the problems in the of the basic functions Problem solving in class
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: MAT-102:00020   
+	KNOWLEDGE TOPIC: Basic derivatives                                           
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Basic functions derivatives
+	ASSESSMENT DESCRIPTION: - Take a quiz that can show and solve the problems in the of the basic functions - Problem solving in class
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

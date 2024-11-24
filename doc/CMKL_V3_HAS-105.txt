@@ -1,0 +1,53 @@
+Details for Competency HAS-105 (Global Histories)
+
+IDENTITY CODE: GLOBAL_HISTORIES_9
+REQUIRED? false
+CREDITS: 9 (Graded)
+DESCRIPTION
+This course provides a comprehensive exploration of global historical events, movements, and processes from ancient times to the present. Students will engage with foundational historical theories and methodologies to analyze and compare significant historical phenomena across different regions and periods. Topics include the study of empires and colonialism, revolutions and social movements, and global trade networks and cultural exchanges. Through critical evaluation and comparative analysis, students will gain a deeper understanding of how historical events have shaped the interconnected world we live in today. This course fosters critical thinking and historical awareness, preparing students to engage with complex global historical issues.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HAS-105:00010   
+	KNOWLEDGE TOPIC: Historical Methodology and Interpretation                   
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understanding Historical Theories and Concepts
+	ASSESSMENT DESCRIPTION: Short-answer exams evaluating knowledge and application of foundational historical theories and concepts.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HAS-105:00020   
+	KNOWLEDGE TOPIC: Empires and Colonialism                                     
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Comparative Historical Analysis     
+	ASSESSMENT DESCRIPTION: Essays that require students to conduct comparative analyses of historical events and processes.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: HAS-105:00030   
+	KNOWLEDGE TOPIC: Revolutions and Social Movements                            
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Critical Evaluation of Historical Events and Issues
+	ASSESSMENT DESCRIPTION: Essays analyzing historical events and issues using critical thinking and diverse perspectives.
+
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: HAS-105:00040   
+	KNOWLEDGE TOPIC: Trade Networks and Cultural Exchanges                       
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understanding Global Interconnections and Exchanges
+	ASSESSMENT DESCRIPTION: Short-answer exams assessing knowledge of global interconnections and exchanges.
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

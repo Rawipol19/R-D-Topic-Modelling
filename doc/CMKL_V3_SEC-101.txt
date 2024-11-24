@@ -1,0 +1,38 @@
+Details for Competency SEC-101 (Data and Information Fundamentals)
+
+IDENTITY CODE: DATA_AQUISITION_4
+REQUIRED? true
+CREDITS: 2 (Graded)
+DESCRIPTION
+Data is the most valuable asset in modern information systems. How engineers properly and securely acquire, prepare, transform, and cleanse data objects, based on their characteristics, is a mandatory skill. In this competency, you will learn about data representation and types, how we can acquire data in the required format, and how we can handle data outliners.
+RESPONSIBLE INSTRUCTOR: Akkarit Sangpetch
+PREREQUISITES
+   -- MAT-203 - Descriptive Statistics
+   -- MAT-204 - Introduction to Probability
+   -- MAT-205 - Probability Distributions
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEC-101:00010   
+	KNOWLEDGE TOPIC: Data Acquisition, Preparation, Transformation and Cleaning  
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Data Acquisition, Preparation, Transformation and Cleaning
+	ASSESSMENT DESCRIPTION: Write an essay to describe the concept                                          
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SEC-101:00020   
+	KNOWLEDGE TOPIC: Data Acquisition, Preparation, Transformation and Cleaning  
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Data Acquisition, Preparation, Transformation and Cleaning
+	ASSESSMENT DESCRIPTION: Write an essay to demonstrate the analysis and design skills.                   
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

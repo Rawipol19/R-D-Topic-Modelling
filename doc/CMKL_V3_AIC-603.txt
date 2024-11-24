@@ -1,0 +1,52 @@
+Details for Competency AIC-603 (Autonomous Agents)
+
+IDENTITY CODE: AUTO_AGENTS_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+OPTION GROUP: AI Applications
+
+DESCRIPTION
+Autonomous agent applications involving multiple independent AI models or entities that cooperate to perform some task or solve some problem. Autonomous agents may be embodied as robotic entities or may be software only, depending on the task. This competency introduces the core concepts in an autonomous agent system as well as principles for designing and evaluating them. 
+RESPONSIBLE INSTRUCTOR: Pitikhate Sooraksa
+PREREQUISITES
+   -- MAT-207 - Discrete Mathematics
+   -- AIC-101 - Introduction to Artificial Intelligence
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- R&D
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: AIC-603:00010   
+	KNOWLEDGE TOPIC: Fundemental Concepts                                        
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Fundemental Concepts    
+	ASSESSMENT DESCRIPTION: Create a conceptual map that visually represents the connections between autonomous agent concepts..
+
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: AIC-603:00020   
+	KNOWLEDGE TOPIC: Engineering Analysis and Design                             
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Engineering Analysis and Design
+	ASSESSMENT DESCRIPTION: Designing and implement an autonomous agent system to control the environment in a closed agricultural system. 
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: AIC-603:00030   
+	KNOWLEDGE TOPIC: Performance Evaluation                                      
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Performance Evaluation  
+	ASSESSMENT DESCRIPTION: Select and experiment with a platform that allows creating autonomous agents (i.e. Auto-AGI,
+Camel, Alice, LaMDA 3, Jarvis, BabyAGI or AutoAgents) and write a report on assessing the
+performance of the platform, a framework for generating and coordinating specialized AI agents
+to tackle complex tasks.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+
+

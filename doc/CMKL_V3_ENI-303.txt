@@ -1,0 +1,46 @@
+Details for Competency ENI-303 (Negotiation)
+
+IDENTITY CODE: NEGOTIATION_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Competency in negotiation entails the adept ability to navigate diverse perspectives, cultivate collaborative solutions, and effectively advocate for one's interests while fostering mutual understanding and respect.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+   -- ENI-201 - Strategic Innovation Development
+   -- ENI-202 - Business Strategy
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: ENI-303:00010   
+	KNOWLEDGE TOPIC: Core Negotiation Strategy                                   
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand the principles of influence and bargaining practice.
+	ASSESSMENT DESCRIPTION: Given bargaining test practice.                                                 
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: ENI-303:00020   
+	KNOWLEDGE TOPIC: Psychology of Negotiation                                   
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand the psychology of Negotiation practical tools, try to avoid the mistakes, and recognize and leverage mistakes.
+	ASSESSMENT DESCRIPTION: Given psychology of Negotiation test                                            
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: ENI-303:00030   
+	KNOWLEDGE TOPIC: Investigative Negotiation                                   
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand the approach to “investigative negotiation.”
+	ASSESSMENT DESCRIPTION: Given Investigative Negotiation test                                            
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

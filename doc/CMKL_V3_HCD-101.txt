@@ -1,0 +1,53 @@
+Details for Competency HCD-101 (Visualization)
+
+IDENTITY CODE: VISUALIZATION_4
+REQUIRED? true
+CREDITS: 4 (Graded)
+DESCRIPTION
+Explore the relationship between visual perception and digital presentation of content, with a particular focus on computer systems. This includes visualization techniques to improve the presentation of websites, complex data sets, digital media, and virtual worlds.
+RESPONSIBLE INSTRUCTOR: Hossein Miri
+PREREQUISITES
+   -- SEN-101 - Algorithmic Thinking & Problem Solving
+   -- SEN-102 - Introduction to Programming
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HCD-101:00010   
+	KNOWLEDGE TOPIC: Principles of Human Visual Perception                       
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Summarize the critical characteristics of human vision that affect visualization
+	ASSESSMENT DESCRIPTION: Pick three characteristics of visual perception, then explain how they impact the effectiveness of visualization using computer systems. This can be done orally or in writing.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HCD-101:00020   
+	KNOWLEDGE TOPIC: Storytelling with Data Visualization                        
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Identify the important dimensions in a visualization
+	ASSESSMENT DESCRIPTION: Given an example of a computer system or web site that depends on visualization, identify the most important dimensions used and critique the effectiveness.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: HCD-101:00030   
+	KNOWLEDGE TOPIC: Practical Guidelines for Visualization                      
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Critique effective and ineffective visualizations
+	ASSESSMENT DESCRIPTION: Find three examples of web sites that you think provide effective visualization, and three that are not effective. For each example, describe the factors and decisions by the designer that make the visualization effective or not effective. Refer to the practical guidelines and best practices for telling a story with visualization.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: HCD-101:00040   
+	KNOWLEDGE TOPIC: Visualization Tools and Resources                           
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Design a visualization for a data set or website or API.
+	ASSESSMENT DESCRIPTION: Given a specific data set including some explanation of its contents, design one or more visualizations that effectively communicate the content and relationships in the data. In other words, create at least one of the three visualization designs using D3 for visualizing (1) numerical data, (2) spatial data, and (3) textual data.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

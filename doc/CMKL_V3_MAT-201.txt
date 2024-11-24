@@ -1,0 +1,75 @@
+Details for Competency MAT-201 (Matrices and Linear Transformations (Linear algebra))
+
+IDENTITY CODE: LINEAR_ALG_12
+REQUIRED? true
+CREDITS: 12 (Graded)
+RESPONSIBLE INSTRUCTOR: Pitikhate Sooraksa
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: MAT-201:00010   
+	KNOWLEDGE TOPIC: Vectors and Matrices                                        
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Calculating basic operations for vectors and matrices
+	ASSESSMENT DESCRIPTION: Solve basic vector and matrix equations including additions/subtraction, dot product, matrices multiplication (by block), transpose, etc.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: MAT-201:00020   
+	KNOWLEDGE TOPIC: Linear transformation                                       
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Determining basic matrices of linear transformations
+	ASSESSMENT DESCRIPTION: Given a basic linear transformation (e.g., rotation), design a matrix equivalent to the transformation and vice versa
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: MAT-201:00030   
+	KNOWLEDGE TOPIC: Matrix Factorization                                        
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Applying matrix decomposition to solve linear equations
+	ASSESSMENT DESCRIPTION: Given a 2x2 matrix A, find a limit to A to the n-th power as n approaches infinity
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: MAT-201:00040   
+	KNOWLEDGE TOPIC: Eigenvectors and eigenvalues                                
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Calculating eigenvalues and eigenvectors
+	ASSESSMENT DESCRIPTION: Given a 2x2 and 3x3 matrices, find their eigenvalues and eigenvectors           
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: MAT-201:00050   
+	KNOWLEDGE TOPIC: Rank and nullity of matrices and linear transformation      
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Determining the rank and nullity of a matrix and linear transformation
+	ASSESSMENT DESCRIPTION: Given a matrix or linear transformation, determine its rank                     
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: MAT-201:00060   
+	KNOWLEDGE TOPIC: Solving Linear Equations                                    
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Solving linear equations
+	ASSESSMENT DESCRIPTION: Given a set of linear equations, write them in matrix form. Determine if the solution is unique. If yes, calculate the unique solution.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: MAT-201:00070   
+	KNOWLEDGE TOPIC: Least square minimisation                                   
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Solving least square minimisation method
+	ASSESSMENT DESCRIPTION: Derive the solution to least square minimisation                                
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

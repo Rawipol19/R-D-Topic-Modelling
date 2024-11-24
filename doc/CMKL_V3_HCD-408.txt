@@ -1,0 +1,44 @@
+Details for Competency HCD-408 (Introduction to Spatial Gaming)
+
+IDENTITY CODE: SPATIAL_GAMING_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Virtual reality and augmented reality both pose demanding requirements of game developers, as the full virtual world must be realized seamlessly in 360 degrees. This includes user interactivity and user experience for navigating within this world, including the incorporation of new controller types, motion sensors, and object mapping. This course emphasizes the unique challenges and corresponding solutions presented by such an environment, while pushing the boundaries of what is possible through creative and innovative ideation for this emerging market segment.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+   -- HCD-104 - Immersive Environment (AR/VR/MR/XR)
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HCD-408:00010   
+	KNOWLEDGE TOPIC: Apply basic functionality to a gamified VR/AR environment   
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Apply basic functionality to a gamified VR/AR environment
+	ASSESSMENT DESCRIPTION: Understand how VR/AR will impact design documentation and game development planning
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HCD-408:00020   
+	KNOWLEDGE TOPIC: Apply basic functionality to a gamified VR/AR environment   
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Apply basic functionality to a gamified VR/AR environment
+	ASSESSMENT DESCRIPTION: Apply a theoretical understanding of VR/AR constraints to a prototype or gameplay demo.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: HCD-408:00030   
+	KNOWLEDGE TOPIC: Understand the constraints of VR/AR game design             
+	ASSESSMENT TYPE: Interview/oral exam 
+	ASSESSMENT TITLE: Assessment: Understand the constraints of VR/AR game design
+	ASSESSMENT DESCRIPTION: Evaluate VR/AR game design choices in action, and use feedback to iterate towards optimal design choices.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+
+

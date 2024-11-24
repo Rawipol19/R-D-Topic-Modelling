@@ -1,0 +1,64 @@
+Details for Competency AIC-605 (Geographic Computing)
+
+IDENTITY CODE: GEO_COMP_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+OPTION GROUP: AI Applications
+
+DESCRIPTION
+This competency introduces techniques for representing and manipulating spatial information in computer applications, focusing on vector and raster representations. It compares algorithmic and classical ML approaches in geocomputing with heuristic models and deep learning.
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEN-107 - Fundamental Data Structures and Algorithms
+   -- AIC-101 - Introduction to Artificial Intelligence
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- R&D
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: AIC-605:00010   
+	KNOWLEDGE TOPIC: Geographic Computing                                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Demonstrate the ability to use and reason about locations
+	ASSESSMENT DESCRIPTION: Complete a hands-on exercise using lat/long, map scale and projections          
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: AIC-605:00020   
+	KNOWLEDGE TOPIC: Geographic Computing                                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Apply the principles of vector representation to a problem
+	ASSESSMENT DESCRIPTION: Complete a hands-on programming assignment that involves using vector entities and transforming them to raster entities.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: AIC-605:00030   
+	KNOWLEDGE TOPIC: Geographic Computing                                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Apply the principles of raster representation to a problem
+	ASSESSMENT DESCRIPTION: Complete a program that demonstrates understanding of raster representation, including transforming a raster to a vector representation.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: AIC-605:00040   
+	KNOWLEDGE TOPIC: Geographic Computing                                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Analyze code that implements algorithmic geocomputing techniques
+	ASSESSMENT DESCRIPTION: Given a set of code that does some geocomputing using either Dikjkstra's algorithm (vector) or maximum likelihood classification (raster) plus some guiding questions, analyze and explain the code
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: AIC-605:00050   
+	KNOWLEDGE TOPIC: Geographic Computing                                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Geographic Computing    
+	ASSESSMENT DESCRIPTION: Create either a GA-based multi-criteria routing application (vector), a  travel time prediction application (vector) or a deep-learning based image segmentation/classification application (raster) as a group project. Write a paper explaining how the code works, as a group assignment.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

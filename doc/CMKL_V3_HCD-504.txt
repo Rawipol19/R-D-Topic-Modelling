@@ -1,0 +1,47 @@
+Details for Competency HCD-504 (Psychology for User Interface Design )
+
+IDENTITY CODE: PSYCH_FOR_UI_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Linking an understanding human perception, bias, and behavior to the design principles and strategies of digital production is a key element in modern user-centered design. This course will cover the following key concepts towards integrating core theories in psychology with desirable outcomes in design:
+
+- Understanding tendencies in human perception (visual, auditory, and tactile)
+- Recognizing the key role of attention in design thinking
+- Identifying common cognitive biases with both perception and behavior
+- Designing around emotions (and not simply pragmatism)
+- Employing mechanics to drive human motivation
+- Avoiding cognitive load through understanding information processing
+
+This course drives an understanding of human psychology as it informs design outcomes, while also contributing to more ethical engineering standards.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Math/Science
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HCD-504:00010   
+	KNOWLEDGE TOPIC: User Interface Design                                       
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: User Interface Design   
+	ASSESSMENT DESCRIPTION: Demonstrate an understanding of human psychology within the context of various design choices.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: HCD-504:00020   
+	KNOWLEDGE TOPIC: User Interface Evaluation                                   
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: User Interface Evaluation
+	ASSESSMENT DESCRIPTION: Demonstrate an understanding of bad design choices and the potential implications of these choices upon users
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

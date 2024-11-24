@@ -1,0 +1,55 @@
+Details for Competency HAS-101 (Sociology and Cultural Anthropology)
+
+IDENTITY CODE: ANTHROPOLOGY_9
+REQUIRED? false
+CREDITS: 9 (Graded)
+DESCRIPTION
+This competency provides a comprehensive exploration of sociological and cultural anthropological theories, concepts, and methods. Students will examine key theories explaining social structures, institutions, and behaviors, and apply them to analyze contemporary social issues. Topics include the study of social institutions, cultural diversity, and ethnographic research methods. Through critical evaluation and comparative analysis, students will develop a deeper understanding of how societies function, change, and interact globally. This course fosters critical thinking skills and prepares students to engage with complex social and cultural dynamics in diverse contexts.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HAS-101:00010   
+	KNOWLEDGE TOPIC: Classical and Contemporary Sociological Theories            
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understanding of Sociological Theories and Concepts
+	ASSESSMENT DESCRIPTION: Short-answer exams evaluating knowledge and application of foundational sociological theories and concepts.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HAS-101:00020   
+	KNOWLEDGE TOPIC: Social Institutions                                         
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Analysis of Social Institutions and Processes
+	ASSESSMENT DESCRIPTION: Essays that require students to analyze the role and functioning of social institutions and processes.
+
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: HAS-101:00030   
+	KNOWLEDGE TOPIC: Current Social Issues                                       
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Critical Evaluation of Contemporary Social Issues
+	ASSESSMENT DESCRIPTION: Essays analyzing contemporary social issues using critical thinking and diverse perspectives.
+
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: HAS-101:00040   
+	KNOWLEDGE TOPIC: Cultural Diversity and Ethnographic Research                
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understanding of Cultural Anthropological Concepts and Methods
+	ASSESSMENT DESCRIPTION: Short-answer exams assessing knowledge of cultural anthropological concepts and methods.
+
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

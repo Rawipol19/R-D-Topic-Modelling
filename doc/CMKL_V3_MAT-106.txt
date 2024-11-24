@@ -1,0 +1,74 @@
+Details for Competency MAT-106 (Analytical Geometry)
+
+IDENTITY CODE: ANALY_GEOM_6
+REQUIRED? false
+CREDITS: 6 (Graded)
+RESPONSIBLE INSTRUCTOR: Puttha Sakkaplangkul
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: MAT-106:00010   
+	KNOWLEDGE TOPIC: Intersections and Distances                                 
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Intersections and Distances
+	ASSESSMENT DESCRIPTION: Intersections and Distances                                                     
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: MAT-106:00020   
+	KNOWLEDGE TOPIC: Curves and Surfaces                                         
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Curves and Surfaces     
+	ASSESSMENT DESCRIPTION: Curves and Surfaces                                                             
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: MAT-106:00030   
+	KNOWLEDGE TOPIC: Applications of Analytical Geometry                         
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Applications of Analytical Geometry
+	ASSESSMENT DESCRIPTION: Applications of Analytical Geometry                                             
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: MAT-106:00040   
+	KNOWLEDGE TOPIC: Coordinate Systems and Transformations                      
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Coordinate Systems and Transformations
+	ASSESSMENT DESCRIPTION: Coordinate Systems and Transformations                                          
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: MAT-106:00050   
+	KNOWLEDGE TOPIC: Lines and Line Segments                                     
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Lines and Line Segments 
+	ASSESSMENT DESCRIPTION: Lines and Line Segments                                                         
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: MAT-106:00060   
+	KNOWLEDGE TOPIC: Conic Sections (Circles, Ellipses, Parabolas, and Hyperbolas)
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Conic Sections (Circles, Ellipses, Parabolas, and Hyperbolas)
+	ASSESSMENT DESCRIPTION: Conic Sections (Circles, Ellipses, Parabolas, and Hyperbolas)                   
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: MAT-106:00070   
+	KNOWLEDGE TOPIC: Planes in 3D Space                                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Planes in 3D Space      
+	ASSESSMENT DESCRIPTION: Planes in 3D Space                                                              
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

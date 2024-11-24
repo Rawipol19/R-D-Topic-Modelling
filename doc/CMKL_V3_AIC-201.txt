@@ -1,0 +1,52 @@
+Details for Competency AIC-201 (Supervised Learning and Unsupervised Learning)
+
+IDENTITY CODE: SUP_UNSUP_ML_4
+REQUIRED? true
+CREDITS: 4 (Graded)
+DESCRIPTION
+This competency introduces fundamental machine learning concepts including models, supervised versus unsupervised techniques, training versus testing data, data bias, and so on. Students have the opportunity to build traditional unsupervised versus supervised models on sample data sets as well as to explore basic neural networks.
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- AIC-101 - Introduction to Artificial Intelligence
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: AIC-201:00010   
+	KNOWLEDGE TOPIC: Core ML concepts                                            
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Understanding fundamental ML concepts
+	ASSESSMENT DESCRIPTION: Find and explain an example of machine learning in the literature, discussing and evaluating the example in terms of concepts such as data dimensions, supervised versus unsupervised techniques, etc.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: AIC-201:00020   
+	KNOWLEDGE TOPIC: Unsupervised learning methods                               
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Applying unsupervised learning methods
+	ASSESSMENT DESCRIPTION: Given an unlabeled set of data, use a third party framework like sklearn or Weka to do K-Means clustering. Vary the number of clusters and repeat. Write one to two pages describing and interpreting the results.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: AIC-201:00030   
+	KNOWLEDGE TOPIC: Supervised learning methods                                 
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Applying supervised learning methods
+	ASSESSMENT DESCRIPTION: Given a labeled data set, use a framework like sklearn or Weka to train a decision tree, then test its accuracy. Vary several of the parameters and repeat. Write one to two pages describing and interpreting the results.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: AIC-201:00040   
+	KNOWLEDGE TOPIC: Neural network fundamental concepts                         
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Train and evaluate a simple neural network
+	ASSESSMENT DESCRIPTION: Given a data set for a simple classification problem, train a neural network to perform the classification, then evaluate its performance.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+
+

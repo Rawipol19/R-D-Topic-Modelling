@@ -1,0 +1,53 @@
+Details for Competency SEN-312 (Mobile Application Architectures)
+
+IDENTITY CODE: MOBILE_ARCH-4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+This competency introduces the basic principles of mobile application architecture as well as some strategies for mobile application development, focusing on what makes a mobile app different from and more challenging than a web application.
+RESPONSIBLE INSTRUCTOR: Isara Anantavrasilp
+PREREQUISITES
+   -- SEN-103 - Programming Multi-module Applications
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-312:00010   
+	KNOWLEDGE TOPIC: Fundamental concepts of mobile applications                 
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understanding the fundamental concepts of UML
+	ASSESSMENT DESCRIPTION: Take a quiz to demonstrate understanding of UML diagrams key to mobile development
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SEN-312:00020   
+	KNOWLEDGE TOPIC: Fundamental concepts of mobile applications                 
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Fundamental concepts of mobile applications
+	ASSESSMENT DESCRIPTION: Use UML to design a UI component for a mobile application                       
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-312:00030   
+	KNOWLEDGE TOPIC: Fundamental concepts of mobile applications                 
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Applyi fundamental concepts of mobile applications
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics
+       
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: SEN-312:00040   
+	KNOWLEDGE TOPIC: Basic knowledge on mobile app development                   
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Basic knowledge on mobile app development
+	ASSESSMENT DESCRIPTION: Given a simple problem, develop a React Native app to solve that problem. Run the app on an actual device or simulator
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

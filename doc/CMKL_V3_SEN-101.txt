@@ -1,0 +1,28 @@
+Details for Competency SEN-101 (Algorithmic Thinking & Problem Solving)
+
+IDENTITY CODE: ALGO_THINKING_2
+REQUIRED? true
+CREDITS: 2 (Graded)
+DESCRIPTION
+This competency gives students practice in analyzing a problem, determining a solution and expressing that solution in terms of operations that can be executed by a computer program. It also introduces common notations for expressing algorithms, such as flowcharts and pseud-ocode, as well as analysis strategies like successive refinement. 
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-101:00010   
+	KNOWLEDGE TOPIC: Analysis techniques for program design                      
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Turning verbal specifications into algorithms
+	ASSESSMENT DESCRIPTION: Given a written specification for what a non-trivial program should do, create a detailed set of flowcharts and/or pseudocode that correctly expresses a solution
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

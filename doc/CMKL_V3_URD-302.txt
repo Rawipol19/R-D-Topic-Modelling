@@ -1,0 +1,30 @@
+Details for Competency URD-302 (Undergraduate R&D Project (6)                                     )
+
+IDENTITY CODE: URD_PROJ_6_9
+REQUIRED? false
+CREDITS: 9 (Graded)
+OPTION GROUP: Third Year R\&D Semester 2
+
+DESCRIPTION
+Individual or small group projects that apply Artificial Intelligence and computer engineering techniques to novel problems 
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+   -- URD-301 - Undergraduate R&D Project (5)                                     
+DISTRIBUTION AREAS
+   -- R&D
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: URD-302:00010   
+	KNOWLEDGE TOPIC: AI Deep Tech Research and Development                       
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Apply innovative AI techniques to solve a non-trivial problem
+	ASSESSMENT DESCRIPTION: Working with a research supervisor from academia or industry, create engineering solutions using AI that address non-trivial research problems 
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

@@ -1,0 +1,68 @@
+Details for Competency SEN-107 (Fundamental Data Structures and Algorithms)
+
+IDENTITY CODE: BASIC_DATA_STRUCT_6
+REQUIRED? true
+CREDITS: 6 (Graded)
+DESCRIPTION
+This competency introduces students to lists, queues, stacks, trees, hash tables and graphs, using the C language. It also covers basic concepts of computational complexity and simple algorithms for working with these data structures.
+RESPONSIBLE INSTRUCTOR: Pasin Manurangsi
+PREREQUISITES
+   -- SEN-102 - Introduction to Programming
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-107:00010   
+	KNOWLEDGE TOPIC: Sequential data structures                                  
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Sequential data structures
+	ASSESSMENT DESCRIPTION: Create a program that uses general and special purpose (e.g. queues, stacks) lists to solve a specified problem
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-107:00020   
+	KNOWLEDGE TOPIC: Recursive algorithms                                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Recursive algorithms    
+	ASSESSMENT DESCRIPTION: Design and implement recursive algorithms that operate correctly on the contents of connected data structures such as trees or graphs.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-107:00030   
+	KNOWLEDGE TOPIC: Hierarchical data structures                                
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Hierarchical data structures
+	ASSESSMENT DESCRIPTION: Create a program that implements a sorted binary tree. Use it to search and sort a set of data.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-107:00040   
+	KNOWLEDGE TOPIC: Hierarchical data structures                                
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Hierarchical data structures
+	ASSESSMENT DESCRIPTION: Create a program that builds and uses a tree with an arbitrary branching factor, e.g.. a tree that represents folders and files on a hard disk or an organization chart.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-107:00050   
+	KNOWLEDGE TOPIC: Content-addressable data structure                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Content-addressable data structure
+	ASSESSMENT DESCRIPTION: Write a program that uses hash tables to efficiently access data, using multiple categories of keys.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-107:00060   
+	KNOWLEDGE TOPIC: Graphs                                                      
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Graphs                  
+	ASSESSMENT DESCRIPTION: Write a program that uses graph data structures to represent many-to-many relationships entered from the terminal or read from a file. 
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

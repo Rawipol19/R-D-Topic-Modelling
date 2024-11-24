@@ -1,0 +1,68 @@
+Details for Competency SEC-201 (Data Privacy, Security and Integrity)
+
+IDENTITY CODE: DATA_PRIVACY_4
+REQUIRED? true
+CREDITS: 4 (Graded)
+DESCRIPTION
+Data is the most valuable asset in information systems. Most of the time, data contains personal information that could be harmful to its owner if exposed. In this competency, we will learn various techniques to preserve data privacy, security, and integrity properly and effectively.
+RESPONSIBLE INSTRUCTOR: Charnon Pattiyanon
+PREREQUISITES
+   -- HCD-201 - Ethics in computer engineering
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEC-201:00010   
+	KNOWLEDGE TOPIC: Data and Information                                        
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Analyze the characteristics of data and information
+	ASSESSMENT DESCRIPTION: An assignment to demonstrate an ability to classify personal data and analyze the personal data handling in existing systems against data properties.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: SEC-201:00020   
+	KNOWLEDGE TOPIC: Data and Information                                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Analyze the data and information processing
+	ASSESSMENT DESCRIPTION: An assignment to demonstrate an ability to create a information flow diagram and analyze from data security, 
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEC-201:00030   
+	KNOWLEDGE TOPIC: Data Security                                               
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Evaluate data security in an information system
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates an ability to analyze and create a data security module in a software application.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: SEC-201:00040   
+	KNOWLEDGE TOPIC: Data Integrity                                              
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Evaluate data Integrity in an information system
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates an ability to analyze and create a data integrity module in a software application.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: SEC-201:00050   
+	KNOWLEDGE TOPIC: Data Privacy                                                
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Evaluate data privacy preservation mechanisms in an information system.
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates an ability to analyze and design a data privacy preservation module in an information system.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: SEC-201:00060   
+	KNOWLEDGE TOPIC: Data Privacy                                                
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Analyze the compliance of data privacy laws and regulations.
+	ASSESSMENT DESCRIPTION: An assignment to demonstrate an ability to analyze the compliance of a real-world system with data privacy laws and regulations.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

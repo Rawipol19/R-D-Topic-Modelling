@@ -1,0 +1,28 @@
+Details for Competency SEN-205 (Requirements Analysis and Problem Definition)
+
+IDENTITY CODE: REQ_ANALYSIS_2
+REQUIRED? false
+CREDITS: 2 (Graded)
+DESCRIPTION
+This competency will introduce techniques that software engineers can use to elicit, elaborate and document the requirements for a software system, that is, a description of what should be built and what problems the system should solve. 
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEN-201 - Software Engineering Processes
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-205:00010   
+	KNOWLEDGE TOPIC: Requirements Analysis and Problem Definition                
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Requirements Analysis and Problem Definition
+	ASSESSMENT DESCRIPTION: Create a problem analysis document for a software system                        
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

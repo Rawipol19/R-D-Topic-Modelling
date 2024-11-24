@@ -1,0 +1,58 @@
+Details for Competency HAS-108 (Behavioral Economics)
+
+IDENTITY CODE: BEHAV_ECONOMICS_9
+REQUIRED? false
+CREDITS: 8 (Graded)
+RESPONSIBLE INSTRUCTOR: Buraskorn Torut
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HAS-108:00010   
+	KNOWLEDGE TOPIC: Principles of Economics                                     
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment:Principles of Economics  
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key concepts on these topics                         
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HAS-108:00020   
+	KNOWLEDGE TOPIC: Principles of Economics                                     
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment:Principles of Economics  
+	ASSESSMENT DESCRIPTION: Application based activities                                                    
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: HAS-108:00030   
+	KNOWLEDGE TOPIC: Principles of Economics                                     
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment:Principles of Economics  
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key concepts on these topics                         
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HAS-108:00040   
+	KNOWLEDGE TOPIC: Principles of Economics                                     
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment:Principles of Economics  
+	ASSESSMENT DESCRIPTION: Application based activities                                                    
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: HAS-108:00050   
+	KNOWLEDGE TOPIC: Principles of Economics                                     
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment:Principles of Economics  
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key concepts on these topics                         
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

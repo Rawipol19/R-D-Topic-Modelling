@@ -1,0 +1,28 @@
+Details for Competency URD-101 (Undergraduate R&D Project (1)                                     )
+
+IDENTITY CODE: URD_PROJ_1_9
+REQUIRED? true
+CREDITS: 9 (Graded)
+DESCRIPTION
+URD 101 and URD 102 involve an original, team-based project focused on creating a product or service that could potentially the basis for a product or an open-source offering. 
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- R&D
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: URD-101:00010   
+	KNOWLEDGE TOPIC: Entrepreneurship and Innovation                             
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Demonstrate skills related to creating new products or services
+	ASSESSMENT DESCRIPTION: Working in a team, design and build an innovative system or product. Final results must include deployment strategies and a plan to make the innovation sustainable (e.g. a business plan)
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

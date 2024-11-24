@@ -1,0 +1,64 @@
+Details for Competency AIC-602 (Natural Language Processing (NLP))
+
+IDENTITY CODE: NLP_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+OPTION GROUP: AI Applications
+
+DESCRIPTION
+Natural Language Processing applications use written text and/or speech data to perform linguistic tasks such as question answering, search and conversational interactions. NLP applications can also analyze text content (e.g. comments on an e-commerce site) to draw conclusions about sentiment and other language dimensions.
+RESPONSIBLE INSTRUCTOR: Ekapol Chuangsuwanich
+PREREQUISITES
+   -- MAT-207 - Discrete Mathematics
+   -- AIC-101 - Introduction to Artificial Intelligence
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- R&D
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: AIC-602:00010   
+	KNOWLEDGE TOPIC: NLP Pipepline & Tokenization                                
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Text cleaning and tokenization      
+	ASSESSMENT DESCRIPTION: Assignment on text tokenization                                                 
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: AIC-602:00020   
+	KNOWLEDGE TOPIC: Language Modeling and word representation                   
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Training a language model and be able to analyze the embedding properties
+	ASSESSMENT DESCRIPTION: Assignment on language modeling                                                 
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: AIC-602:00030   
+	KNOWLEDGE TOPIC: Token classification                                        
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Able to perform token classification tasks.
+	ASSESSMENT DESCRIPTION: Assignment on a token classification task                                       
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: AIC-602:00040   
+	KNOWLEDGE TOPIC: Text classification                                         
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Able to perform text classification tasks.
+	ASSESSMENT DESCRIPTION: Assignment on a text classification task                                        
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: AIC-602:00050   
+	KNOWLEDGE TOPIC: Text generation                                             
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Able to perform text generation tasks
+	ASSESSMENT DESCRIPTION: Assignment on a text generation task                                            
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

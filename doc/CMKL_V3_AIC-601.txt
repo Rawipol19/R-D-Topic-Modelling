@@ -1,0 +1,56 @@
+Details for Competency AIC-601 (Recommender System)
+
+IDENTITY CODE: RECOMMENDER_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+OPTION GROUP: AI Applications
+
+DESCRIPTION
+Recommender systems use accumulated data about past choices or preferences to compute a set of alternatives to be offered to a user. Recommender systems lie at the heart of e-commerce platforms, entertainment platforms and social media.
+RESPONSIBLE INSTRUCTOR: Akkarit Sangpetch
+PREREQUISITES
+   -- MAT-207 - Discrete Mathematics
+   -- AIC-201 - Supervised Learning and Unsupervised Learning
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- R&D
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: AIC-601:00010   
+	KNOWLEDGE TOPIC: Basic concepts of recommendation systems                    
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Identify type of inputs required for different recommender systems
+	ASSESSMENT DESCRIPTION: Given different input matrices (Item-Content vs User-Rating), identify the appropriate algorithms or techniques suitable for the input.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: AIC-601:00020   
+	KNOWLEDGE TOPIC: Evaluation of recommendation systems                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Evaluate the quality of a given recommendation system
+	ASSESSMENT DESCRIPTION: Given two distinct recommender systems, evaluate their quality and make recommendation regarding the system selection.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: AIC-601:00030   
+	KNOWLEDGE TOPIC: Content-based filtering                                     
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Implement a recommender system using content-based filtering approach, given product descriptions
+	ASSESSMENT DESCRIPTION: Given a set of product descriptions (e.g. movie synopsis), implement a recommender system based on the similarity of product description
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: AIC-601:00040   
+	KNOWLEDGE TOPIC: Collaborative filtering                                     
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Evaluate the effectiveness of a collaborative filtering-based recommender system using user preference
+	ASSESSMENT DESCRIPTION: Given multiple user rankings of product preference (e.g book review), evaluate the effectiveness of a recommender system based on the product rating and similar user's profile or ratings.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+
+

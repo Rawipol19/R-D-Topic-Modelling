@@ -1,0 +1,29 @@
+Details for Competency SEN-403 (Software Organization Maturity and Continuous Improvement)
+
+IDENTITY CODE: SW_MATURITY_2
+REQUIRED? false
+CREDITS: 2 (Graded)
+DESCRIPTION
+Carnegie Mellon's Software Engineering Institute (SEI) created the CMMI model to evaluate the process maturity of software development organizations and to guide organizations toward higher levels of effectiveness. This competency will explore the key concepts of CMMI as well as the broader goal of continuous improvement, in order to prepare students to lead development efforts. 
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEN-213 - Software Measurement
+   -- SEN-402 - Software Project Management
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-403:00010   
+	KNOWLEDGE TOPIC: Software Organization Maturity and Continuous Improvement   
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Apply the concepts of Software Organization Maturity and Continuous Improvement
+	ASSESSMENT DESCRIPTION: Given a detailed case study of a software development organization, analyze the organization in terms of CMMI principles and provide an evaluation of its process maturity in different process areas. 
+	COMPLEXITY LEVEL:Evaluate                
+
+
+
+

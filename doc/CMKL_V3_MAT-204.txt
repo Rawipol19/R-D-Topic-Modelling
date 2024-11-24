@@ -1,0 +1,35 @@
+Details for Competency MAT-204 (Introduction to Probability)
+
+IDENTITY CODE: PROD_DATA_3
+REQUIRED? true
+CREDITS: 3 (Graded)
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+   -- MAT-203 - Descriptive Statistics
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: MAT-204:00010   
+	KNOWLEDGE TOPIC: Probability Theory                                          
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Determine the probability space     
+	ASSESSMENT DESCRIPTION: Given a random phenomenon determine an appropriate probability space to model it, and use it to calculate the probability of some events of interest.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: MAT-204:00020   
+	KNOWLEDGE TOPIC: Conditional Probability                                     
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Use of Bayes' theorem               
+	ASSESSMENT DESCRIPTION: Given date from a random phenomenon, use Bayes' theorem to calculate the probability of some events of interest.
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

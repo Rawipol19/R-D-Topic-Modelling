@@ -1,0 +1,53 @@
+Details for Competency AIC-401 (Information Retrieval, Extraction, Search and Indexing)
+
+IDENTITY CODE: INFO_EXTRACTION_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+This competency delves into various techniques for extracting information from structured or unstructured data sets, and for building systems that allow this information to be accessed quickly based on content or goals.
+RESPONSIBLE INSTRUCTOR: Akkarit Sangpetch
+PREREQUISITES
+   -- SEN-107 - Fundamental Data Structures and Algorithms
+   -- AIC-101 - Introduction to Artificial Intelligence
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: AIC-401:00010   
+	KNOWLEDGE TOPIC: Indexing and retrieval                                      
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Understand text indexing and retrieval
+	ASSESSMENT DESCRIPTION: Assignment on text indexing and retrieval                                       
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: AIC-401:00020   
+	KNOWLEDGE TOPIC: Document representation                                     
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Understand document representation and similarity measures
+	ASSESSMENT DESCRIPTION: Assignment on document representation and similarity measures                   
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: AIC-401:00030   
+	KNOWLEDGE TOPIC: Ranking algorithms                                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Understand ranking algorithms       
+	ASSESSMENT DESCRIPTION: Assignment on ranking algorithms                                                
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: AIC-401:00040   
+	KNOWLEDGE TOPIC: Advanced retrieval                                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create machine learning-based retrieval system
+	ASSESSMENT DESCRIPTION: Assignment on retrieval system                                                  
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

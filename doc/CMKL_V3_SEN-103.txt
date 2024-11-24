@@ -1,0 +1,44 @@
+Details for Competency SEN-103 (Programming Multi-module Applications)
+
+IDENTITY CODE: MULTIMODULE_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Using the principles of low coupling, high coherence and separation of concerns to design and implement software with multiple functional components, in a variety of scenarios  single executable, multi co-located executables, components distributed across a network.
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEN-102 - Introduction to Programming
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-103:00010   
+	KNOWLEDGE TOPIC: Single executable systems                                   
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Create a simple multi-module, single executable system
+	ASSESSMENT DESCRIPTION: Given a written specification for a software system, create a single executable, multi-module solution in C, Java and/or Python.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-103:00020   
+	KNOWLEDGE TOPIC: Multiple executable systems                                 
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Create a simple software system with multiple communicating executables
+	ASSESSMENT DESCRIPTION: Given a written specification for a software system, create a  multi-module solution that uses communicating components written in multiple languages
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-103:00030   
+	KNOWLEDGE TOPIC: Distributed systems                                         
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Design a distributed multi-component system
+	ASSESSMENT DESCRIPTION: Given a written description of its capabilities, design a web application including its components, interfaces and REST API
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

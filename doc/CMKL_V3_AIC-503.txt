@@ -1,0 +1,38 @@
+Details for Competency AIC-503 (Transformer Networks)
+
+IDENTITY CODE: TRANSFORMER_ML_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+A transformer is a deep learning architecture on the multi-head attention mechanism, which is widely used in modern language processing and other applications that generate novel outputs.
+RESPONSIBLE INSTRUCTOR: Kawisorn Kamtue
+PREREQUISITES
+   -- MAT-207 - Discrete Mathematics
+   -- AIC-201 - Supervised Learning and Unsupervised Learning
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: AIC-503:00010   
+	KNOWLEDGE TOPIC: Encoder Decoder                                             
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Understanding the concept of encoder decoder
+	ASSESSMENT DESCRIPTION: Explain pictorially how encoder and decoder works with specific examples        
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: AIC-503:00020   
+	KNOWLEDGE TOPIC: Attention mechanism                                         
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Attention mechanism     
+	ASSESSMENT DESCRIPTION: Write a simple function that demonstrates the attention mechanism at the core of transformer architectures
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

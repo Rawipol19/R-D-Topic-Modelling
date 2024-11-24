@@ -1,0 +1,46 @@
+Details for Competency AIC-402 (Proximity Measurement and Cluster Analysis)
+
+IDENTITY CODE: CLUSTER_ANALYSIS_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Proximity measures are mathematical techniques that calculate the similarity/dissimilarity of data points. Cluster analysis is a technique to group similar observations into a number of clusters based on the observed values of several variables for each individual.
+RESPONSIBLE INSTRUCTOR: Akkarit Sangpetch
+PREREQUISITES
+   -- MAT-205 - Probability Distributions
+   -- AIC-201 - Supervised Learning and Unsupervised Learning
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: AIC-402:00010   
+	KNOWLEDGE TOPIC: Similarity metrics                                          
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Similarity metrics      
+	ASSESSMENT DESCRIPTION: Given a list of similarity metrics, explain how each one is calculated and summarize its strengths and weaknesses
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: AIC-402:00020   
+	KNOWLEDGE TOPIC: Clustering algorithms                                       
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Clustering algorithms   
+	ASSESSMENT DESCRIPTION: Given a set of data, write program that will cluster that data using two common clustering techniques, e.g. K-Means clustering and hierarchical clustering
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: AIC-402:00030   
+	KNOWLEDGE TOPIC: Applications of similarity and clustering                   
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Applications of similarity and clustering
+	ASSESSMENT DESCRIPTION: Write an essay about a specific application of clustering and how it can be used to solve a real world problem. Include examples plus a discussion of what clustering techniques are most appropriate for this application.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+
+

@@ -1,0 +1,28 @@
+Details for Competency SEN-401 (Agile Development Processes (including DevOps))
+
+IDENTITY CODE: AGILE_SE_2
+REQUIRED? false
+CREDITS: 2 (Graded)
+DESCRIPTION
+Agile Development refers to a software development style which emphasizes self-organization of team work, fluid design, frequent iteration and visibility of status. An agile approach contrasts with more formal and rigid development process paradigms which attempt to fully document the requirements and design of a system before implementation begins. This competency will review several agile paradigms and give students the opportunity to experiment with their practices.  
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEN-201 - Software Engineering Processes
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-401:00010   
+	KNOWLEDGE TOPIC: Agile Development Processes (including DevOps)              
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Understand and apply Agile Development Processes
+	ASSESSMENT DESCRIPTION: Engage in a set of group exercises that use various agile practices, then reflect on the experience and results. 
+	COMPLEXITY LEVEL:Evaluate                
+
+
+
+

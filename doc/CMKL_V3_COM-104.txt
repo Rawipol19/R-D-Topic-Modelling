@@ -1,0 +1,61 @@
+Details for Competency COM-104 (Public Speaking)
+
+IDENTITY CODE: PUBLIC_SPEAKING_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Public Speaking offers practical guidance for preparing and delivering professional presentations, as well as communicating effectively in professional contexts. The course includes activities and assignments such as crafting targeted, strategic messages, writing outlines, designing cohesive visuals, exploring new technologies, and speaking extemporaneously. Students will learn to engage specific audiences using both verbal and nonverbal communication styles that are appropriate for workplace settings. Overall, this course aims to help students build confidence and apply effective public speaking techniques.
+RESPONSIBLE INSTRUCTOR: Gunyootapong Nopakun
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: COM-104:00010   
+	KNOWLEDGE TOPIC: Foundations of Public Speaking                              
+	ASSESSMENT TYPE: Observational assessment
+	ASSESSMENT TITLE: Understanding the role and impact of public speaking
+	ASSESSMENT DESCRIPTION: Audience Analysis Report: Analyze a target audience for a given speech scenario (assessing audience analysis skills).
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: COM-104:00020   
+	KNOWLEDGE TOPIC: Speech Preparation and Structure                            
+	ASSESSMENT TYPE: Interview/oral exam 
+	ASSESSMENT TITLE: Researching and Gathering Information
+	ASSESSMENT DESCRIPTION: Outline Assignment: Create an outline for a given speech topic (assessing structuring and outlining skills).
+Short Speech: Prepare and deliver a 2-3 minute speech focusing on structure (assessing the ability to organize and present information effectively).
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: COM-104:00030   
+	KNOWLEDGE TOPIC: Delivery Techniques and Audience Engagement                 
+	ASSESSMENT TYPE: Interview/oral exam 
+	ASSESSMENT TITLE: Evaluate Delivery Techniques and Audience Engagement
+	ASSESSMENT DESCRIPTION: Voice Exercise: Record and analyze voice modulation practices (assessing voice modulation and clarity).
+Non-Verbal Communication Role-Play: Participate in a role-play focusing on body language and gestures (assessing non-verbal communication skills).
+Interactive Speech: Deliver a speech with planned audience interactions (assessing audience engagement techniques).
+Q&A Session: Handle a Q&A session after the speech, demonstrating engagement and interaction skills (assessing ability to handle audience questions).
+
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: COM-104:00040   
+	KNOWLEDGE TOPIC: Advanced Public Speaking Skills                             
+	ASSESSMENT TYPE: Interview/oral exam 
+	ASSESSMENT TITLE: Deliver Advanced Public Speaking    
+	ASSESSMENT DESCRIPTION: Persuasive Speech Outline: Develop an outline for a persuasive speech (assessing ability to craft persuasive arguments).
+Persuasive Speech Delivery: Deliver a 5-7 minute persuasive speech (assessing persuasive speaking skills).
+Special Occasion Speech: Prepare and deliver a speech for a special occasion (assessing ability to prepare and deliver speeches for specific contexts).
+Self-Evaluation Report: Analyze and report on a recorded speech performance, focusing on areas for improvement (assessing self-evaluation and improvement skills).
+Peer Feedback Session: Provide and receive feedback on speech performances (assessing ability to give and incorporate feedback for continuous improvement).
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

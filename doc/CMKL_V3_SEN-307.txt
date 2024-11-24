@@ -1,0 +1,28 @@
+Details for Competency SEN-307 (Domain-specific programming languages)
+
+IDENTITY CODE: DSL_2
+REQUIRED? false
+CREDITS: 2 (Graded)
+DESCRIPTION
+Domain-specific programming languages are purposely designed to facilitate solving specific types of problems. DSLs can allow individuals who are not professional programmers to directly create their own solutions.
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEN-107 - Fundamental Data Structures and Algorithms
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-307:00010   
+	KNOWLEDGE TOPIC: Domain-specific programming languages                       
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Using domain-specific programming languages
+	ASSESSMENT DESCRIPTION: Given a problem specification in some domain, identify an appropriate DSL and use that DSL to create a problem solution.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

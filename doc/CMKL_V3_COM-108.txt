@@ -1,0 +1,65 @@
+Details for Competency COM-108 (Academic Writing & Research)
+
+IDENTITY CODE: ACADEMIC_WRITING
+REQUIRED? false
+CREDITS: 8 (Graded)
+DESCRIPTION
+This 8-credit competency is designed to prepare students interested in the pursuit of graduate-level education through refining the research, sourcing, writing, and critical thinking skills. This competency emphasizes the basic principles of critical reading and research, logic, rhetoric, grammar, writing, and conceptual defense.
+
+This includes critical evaluation, thesis development, data-driven objective analysis, and the typical structure and expectations of academic publishing. This competency demands a well-sourced and well-structured academic thesis as an outcome, which will be assessed directly by an advisor on a one-to-one basis. The student will also be expected to defend this thesis in front of a small faculty panel. 
+
+This course will include 4 formal lectures every third week, with one-to-one consultation with the professor for the two weeks between lectures. These one-to-one conversations will be used to develop individual theses, conduct academic research around that thesis, outline the general objectives of the academic paper, and finally to write that paper. As this course has substantial one-to-one advising, there are a limited number of seats available.
+RESPONSIBLE INSTRUCTOR: Justin Paulsen
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+   -- R&D
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: COM-108:00010   
+	KNOWLEDGE TOPIC: Logic & Rhetoric                                            
+	ASSESSMENT TYPE: Interview/oral exam 
+	ASSESSMENT TITLE: Develop a Thesis                    
+	ASSESSMENT DESCRIPTION: Students will be graded on their clarity of thought in developing this thesis through one-to-one interviews with their professor/advisor.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: COM-108:00020   
+	KNOWLEDGE TOPIC: Literature reviews including citations and references       
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Academic Research & Literature Review
+	ASSESSMENT DESCRIPTION: The assessment will include an ongoing set of quality references which relate to the thesis and form the literature review component of the research paper.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: COM-108:00030   
+	KNOWLEDGE TOPIC: Organization of a technical or research document            
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Outline a Research Paper            
+	ASSESSMENT DESCRIPTION: Students will create an outline of the paper for approval by their advisor or professor.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: COM-108:00040   
+	KNOWLEDGE TOPIC: Units of written language: clauses, sentences and paragraphs
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Academic Writing for Publication    
+	ASSESSMENT DESCRIPTION: This thesis paper represents the primary graded portion of the course, and will be the final product.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: COM-108:00050   
+	KNOWLEDGE TOPIC: Logic & Rhetoric                                            
+	ASSESSMENT TYPE: Interview/oral exam 
+	ASSESSMENT TITLE: Thesis Defense                      
+	ASSESSMENT DESCRIPTION: This portion is the secondary graded component of the course, and will be a combination of scores provided by the panel.
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

@@ -1,0 +1,100 @@
+Details for Competency SEN-201 (Software Engineering Processes)
+
+IDENTITY CODE: SE_PROCESSES_6
+REQUIRED? true
+CREDITS: 6 (Graded)
+DESCRIPTION
+This competency introduces the underlying goals of software engineering, namely to reduce complexity, increase predictability and improve software quality. It then provides a survey of the most fundamental software engineering processes that teams employ in order to achieve these goals. This is a project based course. Assessment will be based on activities and artifacts generate by each project team.
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEN-107 - Fundamental Data Structures and Algorithms
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-201:00010   
+	KNOWLEDGE TOPIC: Problem definition processes                                
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Interview a stakeholder to create a problem definition for a software system
+	ASSESSMENT DESCRIPTION: Given a general description of a software system to be built, interview a stakeholder (real stakeholder or a professor in that role) to elicit a problem description. Express the problem as a requirements list, a set of use cases, or both.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: SEN-201:00020   
+	KNOWLEDGE TOPIC: Design processes                                            
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Create a high level architecture design for a system
+	ASSESSMENT DESCRIPTION: Given a problem description for a software system, plus other constraints, create an architecture diagram and a corresponding description for that system.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-201:00030   
+	KNOWLEDGE TOPIC: Design processes                                            
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Create a detailed design for a system component
+	ASSESSMENT DESCRIPTION: Given a functional description for one component of a software system, create a detailed design for that component in the form of a sequence diagram plus an activity diagram.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-201:00040   
+	KNOWLEDGE TOPIC: Configuration management                                    
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Use SCM tools to solve common team development problems
+	ASSESSMENT DESCRIPTION: Use a specific SCM (git, CVS, SVN etc.) to solve or avoid the problems in team development of a software system. Summarize standard SCM processes for your team. 
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SEN-201:00050   
+	KNOWLEDGE TOPIC: Software testing                                            
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Software testing        
+	ASSESSMENT DESCRIPTION: Given a code module plus an explanation of what it is supposed to do, create unit tests for that module, using a framework of your choice. Run the unit test suite and fix any defects. Repeat until the unit tests all complete successfully. OR Apply static analysis tools to a code module and use the results to remedy defects.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-201:00060   
+	KNOWLEDGE TOPIC: Software testing                                            
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Software testing        
+	ASSESSMENT DESCRIPTION: Given an actual software system, create a functional test plan you could use to verify that the system performs as specified. Then execute the test plan and document the results.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-201:00070   
+	KNOWLEDGE TOPIC: Deployment and maintenance                                  
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Deployment and maintenance
+	ASSESSMENT DESCRIPTION: Analyze the requirements for deploying a software system, then create a formal deployment plan that will install and configure the system on the target platform(s). Implement and test this plan, modifying if necessary, until the deployment is successful.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-201:00080   
+	KNOWLEDGE TOPIC: Software documentation                                      
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Software documentation  
+	ASSESSMENT DESCRIPTION: Create a set of coding standards for a development team.  Then add appropriate documentation to the code, following best practices, the standards of the language plus the standards for the team..
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-201:00090   
+	KNOWLEDGE TOPIC: Software process paradigms                                  
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Software process paradigms
+	ASSESSMENT DESCRIPTION: Review your team's  software development project and discuss  1) what process paradigm is closest to your processes for the project;  2) what paradigm you would choose if you were starting from scratch and 3) why you think that paradigm is appropriate. 
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: SEN-201:00100   
+	KNOWLEDGE TOPIC: Motivation for software engineering                         
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Motivation for software engineering
+	ASSESSMENT DESCRIPTION: Analyze and critique the development work of your team from the perspective of software engineering objectives and processes. Write an essay that expresses your conclusions.  
+	COMPLEXITY LEVEL:Evaluate                
+
+
+
+

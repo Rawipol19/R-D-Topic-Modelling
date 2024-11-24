@@ -1,0 +1,28 @@
+Details for Competency AIC-101 (Introduction to Artificial Intelligence)
+
+IDENTITY CODE: AI_INTRO_2
+REQUIRED? true
+CREDITS: 2 (Graded)
+DESCRIPTION
+This competency considers the definition of artificial intelligence and provides an overview of AI methods and applications. It also gives students a brief introduction to the history of AI. We discuss the different approaches to AI with reference to the AI Core pillar in AiCE. Finally we conclude by considering the many societal issues raised by the modern proliferation of AI.
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: AIC-101:00010   
+	KNOWLEDGE TOPIC: Characteristics of an AI system or model                    
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Apply knowledge of AI systems and concepts 
+	ASSESSMENT DESCRIPTION: Write a 2-3 page essay answering an assigned question that requires an understanding of AI principles, systems and history.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

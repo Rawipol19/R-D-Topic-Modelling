@@ -1,0 +1,29 @@
+Details for Competency ENI-107 (Entrepreneurial finance)
+
+IDENTITY CODE: ENTREPRENEUR_FINANCE_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Entrepreneurial finance encompasses the skillful navigation of financial strategies tailored to the unique challenges and opportunities of startup ventures, ensuring optimal resource allocation and sustainable growth.
+RESPONSIBLE INSTRUCTOR: Sampan Nettayanun
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: ENI-107:00010   
+	KNOWLEDGE TOPIC: Basic foundation of managing finance for entreprenuer       
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand the basics of financial management from sales projection and create project valuation using FCF and NPV. We will also discuss how startups get investment funding and the different stages of raising funds. Learn from the case study from start to IPO.
+	ASSESSMENT DESCRIPTION: Discussion assignment on how startups get investment funding and the different stages of raising funds. Learn from the case study from start to IPO.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

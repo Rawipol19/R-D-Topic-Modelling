@@ -1,0 +1,74 @@
+Details for Competency HCD-303 (Engineered Arts: AI for Gaming)
+
+IDENTITY CODE: ENG_ARTS_AI_GAME_6
+REQUIRED? false
+CREDITS: 6 (Graded)
+DESCRIPTION
+Game development can incorporate AI from various perspectives:
+AI tools are increasingly refined from procedural content generation, asset creation, NPC behaviors, or interactive simulations to become key components of modern game development practices.
+This course will explore the most popular tools integrated, or not, with Unreal 5.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+   -- HCD-301 - Game Engine Fundamentals
+   -- HCD-302 - Engineered Arts
+   -- HCD-402 - Game Design
+   -- AIC-101 - Introduction to Artificial Intelligence
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HCD-303:00010   
+	KNOWLEDGE TOPIC: AI in Arts                                                  
+	ASSESSMENT TYPE: Observational assessment
+	ASSESSMENT TITLE: Understand and Apply Generative AI Art Tools
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics.       
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: HCD-303:00020   
+	KNOWLEDGE TOPIC: AI in Arts                                                  
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create new Artistic AI Content      
+	ASSESSMENT DESCRIPTION: An assignment to demonstrate the ability to solve related sophisticated problems.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: HCD-303:00030   
+	KNOWLEDGE TOPIC: AI in Videogames                                            
+	ASSESSMENT TYPE: Observational assessment
+	ASSESSMENT TITLE: Understand and criticize Design of AI Agents in Game contexts
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics.       
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: HCD-303:00040   
+	KNOWLEDGE TOPIC: AI in Videogames                                            
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create AI Agents to solve a challenge
+	ASSESSMENT DESCRIPTION: An assignment to demonstrate the ability to solve related sophisticated problems.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: HCD-303:00050   
+	KNOWLEDGE TOPIC: AI for Engineering                                          
+	ASSESSMENT TYPE: Observational assessment
+	ASSESSMENT TITLE: Understand and Apply AI to solve Engineering challenges
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics.       
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: HCD-303:00060   
+	KNOWLEDGE TOPIC: AI for Engineering                                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create an original AI-Engineered solution
+	ASSESSMENT DESCRIPTION: An assignment to demonstrate the ability to solve related sophisticated problems.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

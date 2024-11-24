@@ -1,0 +1,28 @@
+Details for Competency SEN-402 (Software Project Management)
+
+IDENTITY CODE: SW_PROJ_MGMT_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+This competency introduces students to the concepts and tools in "classical" software project management: task breakdowns, task dependencies, critical path method, resource allocation issues and so on. Upon completing the competency, a student will be equipped to plan and manage a small project.
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEN-201 - Software Engineering Processes
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-402:00010   
+	KNOWLEDGE TOPIC: Software Project Management                                 
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Apply software project management techniques and tools
+	ASSESSMENT DESCRIPTION: Given a simulated software development project, develop a project plan, monitor progress and make adjustments as necessary when faced with challenges to the plan.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

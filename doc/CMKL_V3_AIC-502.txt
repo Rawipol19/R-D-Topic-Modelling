@@ -1,0 +1,54 @@
+Details for Competency AIC-502 (Reinforcement Learning)
+
+IDENTITY CODE: REINFORCEMENT_ML_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Reinforcement learning is a branch of machine learning that operates using the principle of rewards for desired behavior. This competency explores the general concepts behind reinforcement learning, as well as several techniques and architectures for building RL systems.
+RESPONSIBLE INSTRUCTOR: Irving Gomez Mendez
+PREREQUISITES
+   -- MAT-207 - Discrete Mathematics
+   -- AIC-201 - Supervised Learning and Unsupervised Learning
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: AIC-502:00010   
+	KNOWLEDGE TOPIC: Core Reinforcement Learning Concepts                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Given a learning example, clearly define it in term of (1) supervised learning and (2) reinforcement learning. Able to identify all important terms and assumptions in RL. Analyzing and evaluating difference results between (1) and (2). Discussing appropriate situations when to use (1) or to use (2)
+	ASSESSMENT DESCRIPTION: Given a learning example, clearly define it in term of (1) supervised learning and (2) reinforcement learning. Able to identify all important terms and assumptions in RL. Analyzing and evaluating difference results between (1) and (2). Discussing appropriate situations when to use (1) or to use (2)
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: AIC-502:00020   
+	KNOWLEDGE TOPIC: Standard Reinforcement Learning Tools                       
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Standard Reinforcement Learning Tools
+	ASSESSMENT DESCRIPTION: Given a problem, apply various RL algorithms on standard tools to solve it using RL
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: AIC-502:00030   
+	KNOWLEDGE TOPIC: Classic Reinforcement Learning Methods                      
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Given a problem and Gym environment, use a Q-learning framework to train a model to solve the problem efficiently . Evaluating the results and lesson learned
+	ASSESSMENT DESCRIPTION: Given a problem and Gym environment, use a Q-learning framework to train a model to solve the problem efficiently . Evaluating the results and lesson learned
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: AIC-502:00040   
+	KNOWLEDGE TOPIC: Deep Reinforcement Learning Concepts                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Deep Reinforcement Learning Concepts
+	ASSESSMENT DESCRIPTION: Given a problem and Gym environment, use a Deep Q-learning framework to train a model to solve the problem efficiently . Evaluate the results and lesson learned
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

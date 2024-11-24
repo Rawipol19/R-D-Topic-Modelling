@@ -1,0 +1,75 @@
+Details for Competency HCD-402 (Game Design)
+
+IDENTITY CODE: GAME_DESIGN_6
+REQUIRED? false
+CREDITS: 6 (Graded)
+DESCRIPTION
+Game Design will equip you with the fundamental game design notions necessary to articulate a Game's overall design or an Interactive Experience.
+
+With a creative mindset and a pragmatic approach, you will experiment with the content of this Design toolbox for your own Game Project.
+You will design Gameplay Loops, 3Cs, Interactions, NPC Archetypes, and other components.
+Practice will focus on communicating your designs simply, visually, and efficiently to various audiences and collaborating disciplines.
+
+It is advised to complement this course with the courses ""Game Engine Fundamentals", and ""Engineered Arts".
+RESPONSIBLE INSTRUCTOR: Lorenzo Avi
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+   -- Soft Skills
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HCD-402:00010   
+	KNOWLEDGE TOPIC: Creative Game Vision                                        
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Creative Vision Design  
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HCD-402:00020   
+	KNOWLEDGE TOPIC: Creative Game Vision                                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Creative Vision Design  
+	ASSESSMENT DESCRIPTION: An assignment to demonstrate the ability to solve related sophisticated problems
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: HCD-402:00030   
+	KNOWLEDGE TOPIC: Feature Design                                              
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understand and criticize the dign of a gameplay feature
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics.       
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HCD-402:00040   
+	KNOWLEDGE TOPIC: Feature Design                                              
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Adapt and create core gameplay loops or features
+	ASSESSMENT DESCRIPTION: An assignment to demonstrate the ability to solve related sophisticated problems.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: HCD-402:00050   
+	KNOWLEDGE TOPIC: Game Progression Design                                     
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understand and criticize the experience timeline of a game
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics.       
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HCD-402:00060   
+	KNOWLEDGE TOPIC: Game Progression Design                                     
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create the experience timeline of a game
+	ASSESSMENT DESCRIPTION: An assignment to demonstrate the ability to solve related sophisticated problems.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

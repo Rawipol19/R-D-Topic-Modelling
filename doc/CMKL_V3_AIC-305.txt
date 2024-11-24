@@ -1,0 +1,45 @@
+Details for Competency AIC-305 (Bio-inspired AI)
+
+IDENTITY CODE: BIO_AI_MODELS_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+This competency examines a variety of algorithms for solving difficult or computationally intractable problems using techniques borrowed from natural processes. It includes a consideration of genetic algorithms and some representative examples of swarm intelligence.
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEN-102 - Introduction to Programming
+   -- AIC-101 - Introduction to Artificial Intelligence
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: AIC-305:00010   
+	KNOWLEDGE TOPIC: Rationale for bio-inspired AI                               
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Rationale for bio-inspired AI
+	ASSESSMENT DESCRIPTION: Write an original two page essay that succinctly explains what bio-inspired algorithms are, when they are likely to be useful, and how they compare to other artificial intelligence approaches. Include specific examples with citations.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: AIC-305:00020   
+	KNOWLEDGE TOPIC: Genetic algorithms                                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Genetic algorithms      
+	ASSESSMENT DESCRIPTION: Given a problem appropriate to a GA approach, design and implement an original program that solves that problem using evolutionary algorithms. 
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: AIC-305:00030   
+	KNOWLEDGE TOPIC: Swarm intelligence                                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Swarm intelligence      
+	ASSESSMENT DESCRIPTION: Given a problem appropriate to a swarm intelligence approach, design, implement and test a program that uses a well-known swarm intelligence algorithm to solve it.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

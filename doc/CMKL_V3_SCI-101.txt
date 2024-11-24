@@ -1,0 +1,52 @@
+Details for Competency SCI-101 (Fundamentals of Biology)
+
+IDENTITY CODE: BIOLOGY_12
+REQUIRED? false
+CREDITS: 12 (Graded)
+DESCRIPTION
+The Fundamentals of Biology course provides an introduction to the essential principles and concepts of biology. This course covers a wide range of topics, from the molecular and cellular basis of life to the interactions of organisms within ecosystems. Students will explore key biological processes, genetic principles, evolutionary theory, and ecological relationships. The course is designed to develop a solid foundation in biology, preparing students for advanced study in the biological sciences.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SCI-101:00010   
+	KNOWLEDGE TOPIC:  Cell structure and function                                
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understanding of Cell Biology       
+	ASSESSMENT DESCRIPTION: Short-answer exams evaluating knowledge and application of cell biology concepts.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-101:00020   
+	KNOWLEDGE TOPIC: Mendelian genetics and inheritance patterns                 
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understand Knowledge of Genetics and Heredity
+	ASSESSMENT DESCRIPTION: Short-answer exams testing knowledge of genetic principles and heredity mechanisms.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-101:00030   
+	KNOWLEDGE TOPIC: Natural selection and adaptation                            
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Understand Comprehension of Evolutionary Biology
+	ASSESSMENT DESCRIPTION: Essays that require students to explain evolutionary concepts and evidence supporting the theory of evolution.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-101:00040   
+	KNOWLEDGE TOPIC: Ecosystems and biodiversity                                 
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Understanding of Ecology and Environmental Biology
+	ASSESSMENT DESCRIPTION: Essays analyzing ecological interactions and environmental issues.              
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

@@ -1,0 +1,28 @@
+Details for Competency SEN-202 (Software Quality Assurance)
+
+IDENTITY CODE: SE_TESTING_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+This competency explores the dimensions of software quality and important practices employed to enhance and measure quality. Topics include various types of testing, static and dynamic code analysis, design and code reviews,  and QA components of Dev/Ops. Students will be expected to create a prototype QA process using modern QA tools.
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEN-201 - Software Engineering Processes
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-202:00010   
+	KNOWLEDGE TOPIC: Software Quality Assurance                                  
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Software Quality Assurance
+	ASSESSMENT DESCRIPTION: Design a set of QA processes and apply to a software development project. Write a paper describing your process framework and evaluate the results.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+
+

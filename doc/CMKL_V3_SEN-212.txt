@@ -1,0 +1,28 @@
+Details for Competency SEN-212 (Software Configuration Management)
+
+IDENTITY CODE: SCM_2
+REQUIRED? false
+CREDITS: 2 (Graded)
+DESCRIPTION
+This competency explores the various scenarios that can arise during software development that require the capabilities provided by an SCM system and considers how different SCM approaches handle these scenarios.
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEN-201 - Software Engineering Processes
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-212:00010   
+	KNOWLEDGE TOPIC: Software Configuration Management                           
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Software Configuration Management
+	ASSESSMENT DESCRIPTION: Apply SCM in a real-world software project                                      
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

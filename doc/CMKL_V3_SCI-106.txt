@@ -1,0 +1,84 @@
+Details for Competency SCI-106 (Dynamics: explain motion (Physics I))
+
+IDENTITY CODE: DYNAMICS_3
+REQUIRED? false
+CREDITS: 3 (Graded)
+DESCRIPTION
+This competency provides an introduction to the fundamental principles and concepts of kinematics, the branch of mechanics that deals with the motion of objects. This course covers topics such as displacement, velocity, acceleration, and the equations of motion. 
+RESPONSIBLE INSTRUCTOR: Chinnapat Rattanasirawit
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SCI-106:00010   
+	KNOWLEDGE TOPIC: Newton’’s Laws of Motion, Applications of Newton’’s Laws, Circular Motion, Gravity
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: The Newton's Laws problems sloving
+	ASSESSMENT DESCRIPTION: Given an assignment of sophisticated problems to solve                          
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: SCI-106:00020   
+	KNOWLEDGE TOPIC: Newton’’s Laws of Motion, Applications of Newton’’s Laws, Circular Motion, Gravity
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: The concept of Newton's Laws of motion
+	ASSESSMENT DESCRIPTION: -Take a quiz that evaluates key distinctions and concepts on these topics       
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-106:00030   
+	KNOWLEDGE TOPIC: Newton’’s Laws of Motion, Applications of Newton’’s Laws, Circular Motion, Gravity
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: The Applications of Newton’’s Laws problem solving
+	ASSESSMENT DESCRIPTION: An assignment to demostrate the ability to solve related sophisticated problems 
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SCI-106:00040   
+	KNOWLEDGE TOPIC: Newton’’s Laws of Motion, Applications of Newton’’s Laws, Circular Motion, Gravity
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Circular Motion problem solving
+	ASSESSMENT DESCRIPTION: An assignment to demostrate the ability to solve related sophisticated problems 
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SCI-106:00050   
+	KNOWLEDGE TOPIC: Newton’’s Laws of Motion, Applications of Newton’’s Laws, Circular Motion, Gravity
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Applying the Newton's Law of Gravitation to solve physics problems
+	ASSESSMENT DESCRIPTION: An assignment to demostrate the ability to solve related sophisticated problems 
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SCI-106:00060   
+	KNOWLEDGE TOPIC: Newton’’s Laws of Motion, Applications of Newton’’s Laws, Circular Motion, Gravity
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: The Applications of Newton’’s Laws
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SCI-106:00070   
+	KNOWLEDGE TOPIC: Newton’’s Laws of Motion, Applications of Newton’’s Laws, Circular Motion, Gravity
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: The involvement of Newton's Law of Gravitation found in real-life
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SCI-106:00080   
+	KNOWLEDGE TOPIC: Newton’’s Laws of Motion, Applications of Newton’’s Laws, Circular Motion, Gravity
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: The concept of Circular Motion
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

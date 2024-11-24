@@ -1,0 +1,28 @@
+Details for Competency SOF-504 (Professionalism - Semester 4)
+
+IDENTITY CODE: PROFESSIONAL_4_0
+REQUIRED? true
+CREDITS: 0 (Graded)
+DESCRIPTION
+Professionalism means demonstrating behavior that is appropriate to a working environment, effective in achieving the goals of one's organization, and consistent with the expectations of one's organization. Acting professionally includes: taking responsibility by making and keeping commitments; complying with organizational norms regarding appropriate action or behavior, for instance, following a dress code or recording one’s working hours; managing time effectively in order to complete committed work; focusing on quality in all work products; demonstrating professional awareness as a representative of the larger community of computer practitioners; interacting with colleagues in an honest, respectful and productive manner.
+RESPONSIBLE INSTRUCTOR: Apirujee Rujirek
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SOF-504:00010   
+	KNOWLEDGE TOPIC: Professionalism                                             
+	ASSESSMENT TYPE: Observational assessment
+	ASSESSMENT TITLE: Assessment: Professionalism         
+	ASSESSMENT DESCRIPTION: Behavioral evaluation by faculty and self-assessment                            
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

@@ -1,0 +1,28 @@
+Details for Competency SEN-213 (Software Measurement)
+
+IDENTITY CODE: SE_METRICS_2
+REQUIRED? false
+CREDITS: 2 (Graded)
+DESCRIPTION
+This competency addresses the problem of measuring attributes of software including level of correctness, performance, usability, complexity, etc. The goal is an empirical, data-driven approach to continuous software improvement.
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEN-201 - Software Engineering Processes
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-213:00010   
+	KNOWLEDGE TOPIC: Software Measurement                                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Apply empirical strategies to improve software development
+	ASSESSMENT DESCRIPTION: Software Measurement                                                            
+	COMPLEXITY LEVEL:Evaluate                
+
+
+
+

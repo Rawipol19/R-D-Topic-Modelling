@@ -1,0 +1,36 @@
+Details for Competency SEC-302 (Robustness of AI Components and Systems)
+
+IDENTITY CODE: ROBUST_AI_SYSTEMS_6
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+AI components and systems are considered robust if they can maintain its performance and stability under different conditions. In this competency, you will explore approaches and techniques to evaluate the robustness of AI components and systems. Also, you will have a chance to learn, apply, and evaluate techniques to ensure robustness in AI components and systems.
+RESPONSIBLE INSTRUCTOR: Orathai Sangpetch
+PREREQUISITES
+   -- SEC-301 - Security Challenges in Modern AI Systems
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEC-302:00010   
+	KNOWLEDGE TOPIC: Model Robustness                                            
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Model Robustness        
+	ASSESSMENT DESCRIPTION: create a model                                                                  
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SEC-302:00020   
+	KNOWLEDGE TOPIC: AI System robustness                                        
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: AI System robustness    
+	ASSESSMENT DESCRIPTION: write an essay to evaluate the system                                           
+	COMPLEXITY LEVEL:Evaluate                
+
+
+
+

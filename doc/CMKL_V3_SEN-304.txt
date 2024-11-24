@@ -1,0 +1,61 @@
+Details for Competency SEN-304 (Object Oriented Design and Programming)
+
+IDENTITY CODE: OO_PROG_6
+REQUIRED? false
+CREDITS: 6 (Graded)
+DESCRIPTION
+Core principles of the object-oriented paradigm including classes and instances, member data and methods, encapsulation, inheritance, polymorphism, separation of concerns, etc. Students will work in pairs to create a UML-based design for a simple object-oriented system, then implement it in Java. Because this is a project-based class, all work must be completed by the end of the semester. It will not be possible to extend this competency.
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEN-107 - Fundamental Data Structures and Algorithms
+   -- SEN-103 - Programming Multi-module Applications
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-304:00010   
+	KNOWLEDGE TOPIC: Discovering classes                                         
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Discovering classes     
+	ASSESSMENT DESCRIPTION: Use a problem specification to define a set of classes. Refine the classes using CRC cards
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: SEN-304:00020   
+	KNOWLEDGE TOPIC: Encapsulation, inheritance and polymorphism                 
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Encapsulation, inheritance and polymorphism
+	ASSESSMENT DESCRIPTION: Revise a set of classes to extract general structural or behavioral characteristics  and to maximize data-hiding
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-304:00030   
+	KNOWLEDGE TOPIC: Design using UML                                            
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Design using UML        
+	ASSESSMENT DESCRIPTION: Create a use case diagram and a class diagram for an OO application. Create sequence diagrams for core interactions.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-304:00040   
+	KNOWLEDGE TOPIC: Design patterns                                             
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Design patterns         
+	ASSESSMENT DESCRIPTION: Analyze an OO design and identify opportunities for applying common design patterns.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SEN-304:00050   
+	KNOWLEDGE TOPIC: Translating an object-oriented model into code              
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Translating an object-oriented model into code
+	ASSESSMENT DESCRIPTION: Implement, test and debug the application represented by a UML design. Update the design diagrams to reflect any changes during implementation.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

@@ -1,0 +1,44 @@
+Details for Competency SYS-207 (Networks)
+
+IDENTITY CODE: NETWORKS_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Network architecture, OSI
+RESPONSIBLE INSTRUCTOR: Akkarit Sangpetch
+PREREQUISITES
+   -- SYS-102 - Basic Computer Architecture
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SYS-207:00010   
+	KNOWLEDGE TOPIC: Protocol stacks                                             
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Implement a network application using the network protocol stacks method for potential services.
+	ASSESSMENT DESCRIPTION: Create a socket-based network application                                       
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SYS-207:00020   
+	KNOWLEDGE TOPIC: Routing algorithms                                          
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand routing algorithms method for potential services.
+	ASSESSMENT DESCRIPTION: Describe and show an example how a particular routing algorithm works           
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SYS-207:00030   
+	KNOWLEDGE TOPIC: Wireless network                                            
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand wireless network and its deployment scenario
+	ASSESSMENT DESCRIPTION: Describe how medium access control can be achieved using wireless network       
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

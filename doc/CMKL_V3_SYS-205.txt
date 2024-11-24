@@ -1,0 +1,55 @@
+Details for Competency SYS-205 (Storage and File Systems Fundamentals)
+
+IDENTITY CODE: FILE_SYSTEMS_2
+REQUIRED? false
+CREDITS: 2 (Graded)
+DESCRIPTION
+Many useful applications (e.g., deep learning, data mining, video editing) require data that usually exceed the capacity of main memory (e.g., SRAM, DRAM) in many computer systems. Without additional storage devices (i.e., secondary storage), computer systems would not support those applications. However, computer systems should also handle those devices efficiently in order to maximize applications' performance while ensuring data integrity according to how users generally use them.
+
+This competency will equip you with skills to understand and be able to apply the knowledge of how computer systems are designed and implemented to interact with persistent storage devices (i.e., hard disk drives, solid state drives) efficiently. This includes device management, basic file system operations, and basic file system designs and implementations.
+RESPONSIBLE INSTRUCTOR: Akkarit Sangpetch
+PREREQUISITES
+   -- SYS-101 - Operating Systems
+   -- SYS-102 - Basic Computer Architecture
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SYS-205:00010   
+	KNOWLEDGE TOPIC: Storage management                                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create a simple device driver       
+	ASSESSMENT DESCRIPTION: Students will implement a simple character device driver based on a given specification.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SYS-205:00020   
+	KNOWLEDGE TOPIC: Storage management                                          
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Analyze impacts of different persistent storage devices to an application
+	ASSESSMENT DESCRIPTION: Students will write essays to demonstrate their understanding.                  
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: SYS-205:00030   
+	KNOWLEDGE TOPIC: File system                                                 
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Apply file system operations in programming
+	ASSESSMENT DESCRIPTION: Given a file format specification. Students must develop a program that reads/write certain parts of the file to compute/store data without using any third-party APIs.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SYS-205:00040   
+	KNOWLEDGE TOPIC: File system                                                 
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create a simple file system         
+	ASSESSMENT DESCRIPTION: Students will implement a simple file system based on a given specification. This includes implementing data structures and common file system operations (e.g., open, read, write, delete, ln).
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

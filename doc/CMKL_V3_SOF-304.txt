@@ -1,0 +1,28 @@
+Details for Competency SOF-304 (Ethics - Semester 4)
+
+IDENTITY CODE: ETHICS_4_0
+REQUIRED? true
+CREDITS: 0 (Graded)
+DESCRIPTION
+“Computing professionals’ actions change the world. To act responsibly, they should reflect upon the wider impacts of their work, consistently supporting the public good.” (Preamble, the ACM Code of Ethics) Note that according to this definition, acting out of awareness of the human and social impacts of computing falls under the soft skill of ethical behavior. Ethics encompasses multiple dimensions: social consciousness, the practice of making choices based on a consideration of what will provide the highest level of social good; honesty, which includes being trustworthy and transparent about reasons, actions and outcomes; fairness, a predisposition to treat all individuals equally and to avoid discrimination; respect for privacy and confidentiality, an active effort to protect information that should be treated as privileged, or that is explicitly identified as not to be disclosed.  
+RESPONSIBLE INSTRUCTOR: Apirujee Rujirek
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SOF-304:00010   
+	KNOWLEDGE TOPIC: Ethics                                                      
+	ASSESSMENT TYPE: Observational assessment
+	ASSESSMENT TITLE: Assessment: Ethics                  
+	ASSESSMENT DESCRIPTION: Behavioral evaluation by faculty and self-assessment                            
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

@@ -1,0 +1,44 @@
+Details for Competency COM-105 (Presentation and Storytelling)
+
+IDENTITY CODE: PRESENT_STORY_8
+REQUIRED? false
+CREDITS: 8 (Graded)
+DESCRIPTION
+The presentation and storytelling competency is designed to equip students with the essential skills needed to craft compelling narratives and deliver them effectively in various contexts. In today's world, the ability to tell a story and present it persuasively is a critical skill, whether in business, education, media, or personal communication. This module provides a comprehensive exploration of the art and science of storytelling and presentation, blending theoretical knowledge with practical application. Over the course of ten weeks, students will delve into the fundamentals of storytelling, advanced narrative techniques, and the delivery skills necessary to engage and persuade an audience.
+RESPONSIBLE INSTRUCTOR: Dylan Powell
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: COM-105:00010   
+	KNOWLEDGE TOPIC: Fundamentals of storytelling                                
+	ASSESSMENT TYPE: Observational assessment
+	ASSESSMENT TITLE: Critical Interpretation             
+	ASSESSMENT DESCRIPTION: The teacher will observe students ability to critically interpret content by evaluating their analysis, questioning techniques, and understanding of context. This includes assessing how they identify underlying themes, connect ideas, and articulate their insights. The teacher will also consider how students engage with different perspectives, apply reasoning, and support their interpretations with evidence. 
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: COM-105:00020   
+	KNOWLEDGE TOPIC: Advanced Storytelling Techniques                            
+	ASSESSMENT TYPE: Peer assessment     
+	ASSESSMENT TITLE: Consolidation of conceptual frame   
+	ASSESSMENT DESCRIPTION: Students will observe each other's performance in a peer assessment by evaluating how well their colleagues apply learned concepts in a practical presentation. They will assess clarity of understanding, accuracy in application, and effectiveness in problem-solving. Constructive feedback will focus on strengths, areas for improvement, and the ability to integrate and apply knowledge. 
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: COM-105:00030   
+	KNOWLEDGE TOPIC: Presentation Skills and Techniques                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Evidencing Integration of Leaning   
+	ASSESSMENT DESCRIPTION: The teacher will assess students ability to create and deliver presentations by evaluating their approach to solving the task, creativity in generating solutions, and application of learned concepts. The assessment will focus on the originality, coherence, and practicality of the content produced, as well as the student's ability to collaborate, iterate, and refine their work based on feedback and challenges encountered.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

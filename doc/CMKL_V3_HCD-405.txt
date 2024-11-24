@@ -1,0 +1,50 @@
+Details for Competency HCD-405 (Sound Design)
+
+IDENTITY CODE: SOUND_DESIGN_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Students will identify, generate, and compose all four of the key audio inputs for a digital media product/game. These include:
+
+MX: Music within gaming operates within unique constraints, including in-game triggers and composing original soundtracks which can play continuously and shift cleanly based on player behavior.
+SFX: Generate all of the required active sounds within a gaming environment (i.e. item collection notification, weapon impacts, etc.).
+Foley: Apply atmospheric and player-centric ambience, such as footfalls and other environmental context.
+VX: Learn the basics of voice acting and locution, as well as how to record and edit dialogue audio based on characterization.
+RESPONSIBLE INSTRUCTOR: Justin Paulsen
+PREREQUISITES
+   -- HCD-403 - Narrative Design
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HCD-405:00010   
+	KNOWLEDGE TOPIC: Sound Design                                                
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Sound Design: Foundations
+	ASSESSMENT DESCRIPTION: Identify different types of sounds, and understand how they are applied and triggered within a virtual environment. 
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HCD-405:00020   
+	KNOWLEDGE TOPIC: Sound Design                                                
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Sound Design: Foundations
+	ASSESSMENT DESCRIPTION: Students will take existing game footage, remove the original audio and create their own audio to replace it. They will demonstrate mastery of all four types of audio.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: HCD-405:00030   
+	KNOWLEDGE TOPIC: Sound Design                                                
+	ASSESSMENT TYPE: Observational assessment
+	ASSESSMENT TITLE: Assessment: Sound Design: Foundations
+	ASSESSMENT DESCRIPTION: Students will demonstrate the capacity to direct sound design choices through careful evaluation and communication.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+
+

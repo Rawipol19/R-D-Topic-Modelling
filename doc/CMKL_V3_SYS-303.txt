@@ -1,0 +1,42 @@
+Details for Competency SYS-303 (Scalable Management of Data and Models)
+
+IDENTITY CODE: SCALABLE_DATA_MODEL_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+RESPONSIBLE INSTRUCTOR: Akkarit Sangpetch
+PREREQUISITES
+   -- SEN-208 - Advanced Data Structures and Algorithms
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SYS-303:00010   
+	KNOWLEDGE TOPIC: Working with Data Models                                    
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Working with different Data Models for given datasets
+	ASSESSMENT DESCRIPTION: Given a sets of diverse data, evaluate appropriate data models to be used       
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: SYS-303:00020   
+	KNOWLEDGE TOPIC: Big data modeling                                           
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand big data modeling method
+	ASSESSMENT DESCRIPTION: Evaluate differences among big data modeling method and its related application 
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SYS-303:00030   
+	KNOWLEDGE TOPIC: Data management systems                                     
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Create data management systems for potential services.
+	ASSESSMENT DESCRIPTION: Implement a data management mechanism to process large amount of data for a given problem
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

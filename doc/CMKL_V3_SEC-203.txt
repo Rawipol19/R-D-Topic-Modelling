@@ -1,0 +1,45 @@
+Details for Competency SEC-203 (Securing System Infrastructure)
+
+IDENTITY CODE: SEC_INFRASTRUCT_6
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+System infrastructure plays a very important role in building an information system. System infrastructure is also another popular attack surface for adversaries. In this competency, we will learn and try various security techniques to secure system infrastructure against different kinds of attacks.
+RESPONSIBLE INSTRUCTOR: Orathai Sangpetch
+PREREQUISITES
+   -- SYS-205 - Storage and File Systems Fundamentals
+   -- SYS-102 - Basic Computer Architecture
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEC-203:00010   
+	KNOWLEDGE TOPIC: Infrastructure security threats                             
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Infrastructure security threats
+	ASSESSMENT DESCRIPTION: write an essay                                                                  
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SEC-203:00020   
+	KNOWLEDGE TOPIC: Best practice for infrastructure security                   
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Best practice for infrastructure security
+	ASSESSMENT DESCRIPTION: write an essay                                                                  
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SEC-203:00030   
+	KNOWLEDGE TOPIC: Infrastructure security solutions                           
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Infrastructure security solutions
+	ASSESSMENT DESCRIPTION: write an essay                                                                  
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

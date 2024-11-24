@@ -1,0 +1,84 @@
+Details for Competency SCI-107 (Energy and Momentum (Physics I))
+
+IDENTITY CODE: ENERGY_MOM_3
+REQUIRED? false
+CREDITS: 3 (Graded)
+DESCRIPTION
+It provides an introduction to the fundamental principles and concepts of energy and momentum in the context of classical mechanics. This course covers topics such as work, kinetic and potential energy, the conservation of energy, linear momentum, and the conservation of momentum.
+RESPONSIBLE INSTRUCTOR: Prathan Buranasiri
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SCI-107:00010   
+	KNOWLEDGE TOPIC: Work & Kinetic Energy,Power & Potential Energy, Energy & Momentum
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: The concept of power, gravitational  potential energy and elastic potential energy
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SCI-107:00020   
+	KNOWLEDGE TOPIC: Work & Kinetic Energy,Power & Potential Energy, Energy & Momentum
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: The concept of momentum,collisions, impulse and the conservation of momentum
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-107:00030   
+	KNOWLEDGE TOPIC: Work & Kinetic Energy,Power & Potential Energy, Energy & Momentum
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: the concept of work and kinetic energy and how they relate to the force
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SCI-107:00040   
+	KNOWLEDGE TOPIC: Work & Kinetic Energy,Power & Potential Energy, Energy & Momentum
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Work and kinetic energy problem solving
+	ASSESSMENT DESCRIPTION: An assignment to demostrate the ability to solve related sophisticated problems.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-107:00050   
+	KNOWLEDGE TOPIC: Work & Kinetic Energy,Power & Potential Energy, Energy & Momentum
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Power, gravitational  potential energy and elastic potential energy problem solving
+	ASSESSMENT DESCRIPTION: An assignment to demostrate the ability to solve related sophisticated problems.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-107:00060   
+	KNOWLEDGE TOPIC: Work & Kinetic Energy,Power & Potential Energy, Energy & Momentum
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Momentum,collisions, impulse and the conservation of momentum problem solving
+	ASSESSMENT DESCRIPTION: An assignment to demostrate the ability to solve related sophisticated problems 
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SCI-107:00070   
+	KNOWLEDGE TOPIC: Work & Kinetic Energy,Power & Potential Energy, Energy & Momentum
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: The conservation force, non conservation force, and conservation of energy
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-107:00080   
+	KNOWLEDGE TOPIC: Work & Kinetic Energy,Power & Potential Energy, Energy & Momentum
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Conservation force, non conservation force, and conservation of energy problem solving
+	ASSESSMENT DESCRIPTION: An assignment to demostrate the ability to solve related sophisticated problems 
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

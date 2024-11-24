@@ -1,0 +1,20 @@
+Details for Competency ENI-410 (E-Sports & Ecosystem Development )
+
+IDENTITY CODE: ESPORTS_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Esports and ecosystem development involve the organised competitive play of video games at a professional level, supported by a robust infrastructure. This ecosystem encompasses players, teams, tournaments, sponsors, broadcasters, and fans. Key elements include organizing leagues, tournaments, and events, cultivating player talent through training and coaching, and building fan engagement through livestreaming and media coverage. Sponsorships, advertising, and merchandise sales drive revenue, while platforms like Twitch and YouTube Gaming provide global reach. Ecosystem development focuses on sustaining growth, enhancing infrastructure, and fostering community participation to elevate esports into a mainstream entertainment industry with a dedicated fanbase and substantial economic impact.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+
+

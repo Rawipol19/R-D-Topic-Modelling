@@ -1,0 +1,29 @@
+Details for Competency SEN-301 (Designing and Building Secure Software)
+
+IDENTITY CODE: SECURE_SW_DESIGN_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+This competency introduces practical techniques for reducing security vulnerabilities during the process of software design. 
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEC-201 - Data Privacy, Security and Integrity
+   -- SEN-203 - Software Design
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-301:00010   
+	KNOWLEDGE TOPIC: Designing and Building Secure Software                      
+	ASSESSMENT TYPE: Observational assessment
+	ASSESSMENT TITLE: Designing and building Secure Software
+	ASSESSMENT DESCRIPTION: Designing and Building Secure Software                                          
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

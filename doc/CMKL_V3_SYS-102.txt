@@ -1,0 +1,52 @@
+Details for Competency SYS-102 (Basic Computer Architecture)
+
+IDENTITY CODE: COMPUTER_ARCH_4
+REQUIRED? true
+CREDITS: 4 (Graded)
+DESCRIPTION
+Creating solutions that combine hardware and software 
+RESPONSIBLE INSTRUCTOR: Akkarit Sangpetch
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SYS-102:00040   
+	KNOWLEDGE TOPIC: Programming interrupt-driven I/O                            
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Interrupt-driven programming        
+	ASSESSMENT DESCRIPTION: Given a problem, design and implement a program for a chosen processor that solves the problem using interrupt service routines to handle events asynchronously
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SYS-102:00060   
+	KNOWLEDGE TOPIC: State machines                                              
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: State machine design                
+	ASSESSMENT DESCRIPTION: Given a problem description, devise a state machine that solves the problem, and implement an equivalent circuit using digital elements through truth table analysis
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SYS-102:00070   
+	KNOWLEDGE TOPIC: Processor architecture                                      
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Computer architecture               
+	ASSESSMENT DESCRIPTION: Given an example set of instructions, design a processor data path that can execute those instructions.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SYS-102:00080   
+	KNOWLEDGE TOPIC: Assembly language programming                               
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assembly Programming                
+	ASSESSMENT DESCRIPTION: Given a problem, design and implement a program in assembly language for a chosen processor that solve the problem
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

@@ -1,0 +1,62 @@
+Details for Competency ENI-407 (Gaming)
+
+IDENTITY CODE: GAMING_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+OPTION GROUP: Business Application Domains
+
+DESCRIPTION
+The Business Application Domain offers participants an industry domain to choose from to engage in a research project.
+The project will provide the participants with a broad understanding of their selected industry.
+The aim of this competency is to capture the essence of the domain which has been selected. The project is designed to offer the participants an informative understanding of the essential knowledge areas which comprise the industry.
+Over the course of the project, students will develop a Market Analysis Report while engaging in secondary and primary research within the industry.
+At the conclusion of the project, students will have the opportunity to present their findings and recommendations to a sponsor representing a leading industry within the sector.
+RESPONSIBLE INSTRUCTOR: Justin Paulsen
+PREREQUISITES
+   -- ENI-101 - Create Innovation-driven Enterprise (Path Selection)
+   -- ENI-102 - Design Thinking
+   -- URD-101 - Undergraduate R&D Project (1)                                     
+   -- URD-102 - Undergraduate R&D Project (2) 
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- R&D
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: ENI-407:00010   
+	KNOWLEDGE TOPIC: Strategic Level Analysis                                    
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: External Strategic Analysis         
+	ASSESSMENT DESCRIPTION: This analysis will take up between 7-10 pages of the broader 25-30 page report due by the end of the semester. It will be graded as if students are entry-level consultants.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: ENI-407:00020   
+	KNOWLEDGE TOPIC: Strategic Level Analysis                                    
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Internal Strategic Analysis         
+	ASSESSMENT DESCRIPTION: This assessment will include the IP concept being worked on, the core competencies at the studio, a SWOT analysis, and a best attempt at identify potential areas of competitive advantage and differentiation in the broader external environment. 5-7 pages should be sufficient.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: ENI-407:00030   
+	KNOWLEDGE TOPIC: Strategic Level Analysis                                    
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Competitor Analysis                 
+	ASSESSMENT DESCRIPTION: This assessment includes a strategic positioning map, a VRIO, and domain-specific assessments of originality and differentiation. 2-3 pages should suffice.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: ENI-407:00040   
+	KNOWLEDGE TOPIC: Strategic Level Analysis                                    
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Marketing Plan & Strategic Recommendations
+	ASSESSMENT DESCRIPTION: This final submission should include not only this part, but the three parts before it. This is the final conclusion of the broader assessment, and an opportunity to improve on previous sections based on professor feedback. This recommendation will be forwarded to the studio being assessed. 
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

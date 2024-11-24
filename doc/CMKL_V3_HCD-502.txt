@@ -1,0 +1,36 @@
+Details for Competency HCD-502 (Interaction Design & Experience Design)
+
+IDENTITY CODE: INTERACT_DESIGN_10
+REQUIRED? false
+CREDITS: 10 (Graded)
+DESCRIPTION
+Designing for user interaction (UI) and optimizing the user experience (UX) is a central pillar in user-centered design thinking, as it pertains to how users will engage with digital content and what that engagement will feel like experientially. This course will identify best practices within both UX and UI, and demonstrate case studies and examples to emphasize how these best practices are used in real-world applications.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+   -- HCD-501 - Accessibility & Universal Design 
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HCD-502:00010   
+	KNOWLEDGE TOPIC: Fundamental Understanding of the Experiential Design Process
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Fundamental Understanding of the Experiential Design Process
+	ASSESSMENT DESCRIPTION: Demonstrate a complete understanding of the role of UX within the design process.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HCD-502:00020   
+	KNOWLEDGE TOPIC: Fundamental Understanding of the Experiential Design Process
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Fundamental Understanding of the Experiential Design Process
+	ASSESSMENT DESCRIPTION: Apply interactive elements to an existing technology and/or user experience     
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

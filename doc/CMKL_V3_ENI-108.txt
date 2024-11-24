@@ -1,0 +1,28 @@
+Details for Competency ENI-108 (CAD Lab)
+
+IDENTITY CODE: CAD_LAB_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+CAD (Computer-Aided Design) engineering involves the use of software to create, modify, analyze, or optimize designs. It is widely used in fields like architecture, automotive, aerospace, and manufacturing. CAD allows engineers and designers to develop precise 2D and 3D models, visualize concepts, and simulate real-world conditions, enabling better decision-making early in the design process. It improves productivity by automating many design tasks, reduces errors, and enhances collaboration across teams. CAD tools also support computer-aided manufacturing (CAM) and product lifecycle management (PLM), ensuring seamless integration from design to production.
+RESPONSIBLE INSTRUCTOR: Dylan Powell
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: ENI-108:00010   
+	KNOWLEDGE TOPIC: Testing and Validation                                      
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Visualising 3D modules              
+	ASSESSMENT DESCRIPTION: Students will create 3D CAD models to enhance their skills and demonstrate their learning. This hands-on approach allows them to apply theoretical knowledge in a practical context, developing technical proficiency and critical thinking while producing tangible evidence of their progress and understanding in CAD engineering.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

@@ -1,0 +1,28 @@
+Details for Competency SOF-703 (Teamwork - Semester 3)
+
+IDENTITY CODE: TEAMWORK_3_0
+REQUIRED? true
+CREDITS: 0 (Graded)
+DESCRIPTION
+Teamwork skills involve behavior and attitudes that enhance both the effectiveness and the morale of groups with whom one works. Aspects of teamwork include: paying attention to the needs and goals of the team; acting with respect and courtesy toward all team members; being open and willing to share information or ideas with team members; showing team spirit, that is, valuing the team as a unit with shared commitments and dedication. 
+RESPONSIBLE INSTRUCTOR: Apirujee Rujirek
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SOF-703:00010   
+	KNOWLEDGE TOPIC: Teamwork                                                    
+	ASSESSMENT TYPE: Observational assessment
+	ASSESSMENT TITLE: Assessment: Teamwork                
+	ASSESSMENT DESCRIPTION: Behavioral evaluation by faculty and self-assessment                            
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

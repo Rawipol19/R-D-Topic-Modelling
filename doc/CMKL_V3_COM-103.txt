@@ -1,0 +1,52 @@
+Details for Competency COM-103 (Graphics and Visual Storytelling)
+
+IDENTITY CODE: VISUAL_STORY_8
+REQUIRED? false
+CREDITS: 8 (Graded)
+DESCRIPTION
+Explore the art of visual storytelling through graphics. This course delves into principles of design, color theory, and narrative composition to create compelling visual narratives. From digital illustration to infographic design, learn to communicate ideas effectively through images, enhancing your ability to engage and inform audiences across various media platforms.
+RESPONSIBLE INSTRUCTOR: Lorenzo Avi
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: COM-103:00010   
+	KNOWLEDGE TOPIC: Foundations of Visual Storytelling                          
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understand the foundations of Graphics and Visual Storytelling
+	ASSESSMENT DESCRIPTION: Multiple-choice questions on the importance of visual storytelling and basic design principles.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: COM-103:00020   
+	KNOWLEDGE TOPIC: Visual Composition and Techniques                           
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Understand the Visual Design Techniques
+	ASSESSMENT DESCRIPTION: Design Project: Create a poster or infographic applying color theory, typography, and layout principles (assessing application of visual design techniques).
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: COM-103:00030   
+	KNOWLEDGE TOPIC: Tools and Software for Visual Storytelling                  
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Create Storytelling with Graphics   
+	ASSESSMENT DESCRIPTION: Infographic Creation: Develop an infographic that tells a story using data and visuals (assessing ability to create effective infographics).
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: COM-103:00040   
+	KNOWLEDGE TOPIC: Advanced Visual Storytelling Techniques                     
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Designing interactive and motion graphics
+	ASSESSMENT DESCRIPTION: Motion Graphic Project: Create a short motion graphic video to tell a story (assessing ability to design motion graphics).
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

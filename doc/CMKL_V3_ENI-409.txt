@@ -1,0 +1,36 @@
+Details for Competency ENI-409 (Game content Monetization and Tokenomics )
+
+IDENTITY CODE: GAME_ECONOMY_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Game content monetisation and tokenomics involve generating revenue from in-game assets and experiences using digital tokens. Monetization strategies include in-app purchases, subscriptions, and advertising. Tokenomics refers to the economic system governing the creation, distribution, and management of digital tokens within a game, often leveraging blockchain technology. These tokens can represent in-game currency, assets, or collectibles that players can buy, sell, or trade. Effective tokenomics ensures a balanced and sustainable economy, incentivizing player engagement and investment. This approach allows developers to create new revenue streams while enhancing player experience through ownership and trading of unique digital assets.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: ENI-409:00020   
+	KNOWLEDGE TOPIC: Games Market Overview: Platforms & Publishers               
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Games Market Overview: Platforms & Publishers
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key concepts                                         
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: ENI-409:00040   
+	KNOWLEDGE TOPIC: Market Analysis Fundamentals                                
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Market Analysis Fundamentals: Market opportunity analysis and su
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key concepts                                         
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

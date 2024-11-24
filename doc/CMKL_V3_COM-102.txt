@@ -1,0 +1,60 @@
+Details for Competency COM-102 (Creative Writing)
+
+IDENTITY CODE: CREATIVE_WRITING_8
+REQUIRED? false
+CREDITS: 8 (Graded)
+DESCRIPTION
+In the Creative Writing competency, students will hone their skills in fiction, poetry, screenwriting, and creative nonfiction. 
+RESPONSIBLE INSTRUCTOR: Justin Paulsen
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: COM-102:00010   
+	KNOWLEDGE TOPIC: Foundations of Creative Writing                             
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understanding the basics of creative writing
+	ASSESSMENT DESCRIPTION: Quiz: Multiple-choice questions on the basics of creative writing (assessing understanding of core concepts).
+Character Sketch Assignment: Create detailed character sketches for two fictional characters (assessing character development skills).
+Inspirational Journal: Maintain a journal of writing prompts and ideas to overcome writer's block (assessing ability to generate ideas).
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: COM-102:00020   
+	KNOWLEDGE TOPIC: Crafting Compelling Narratives                              
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Ability to Craft Compelling Narratives
+	ASSESSMENT DESCRIPTION: Plot Outline Assignment: Create a detailed plot outline for a short story (assessing plot development skills).
+Narrative Voice Exercise: Write a short scene from multiple points of view (assessing ability to use different narrative voices).
+Dialogue Exercise: Write a dialogue-heavy scene between two characters (assessing dialogue writing skills).
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: COM-102:00030   
+	KNOWLEDGE TOPIC: Refining Writing Techniques                                 
+	ASSESSMENT TYPE: Peer assessment     
+	ASSESSMENT TITLE: Creating vivid imagery              
+	ASSESSMENT DESCRIPTION: Show, Don’t Tell Exercise: Rewrite a telling passage to show instead (assessing ability to use descriptive language).
+Imagery Assignment: Write a descriptive paragraph using all five senses (assessing imagery creation skills).
+Peer Review Workshop: Participate in a peer review session to provide and receive feedback (assessing editing and revising skills).
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: COM-102:00040   
+	KNOWLEDGE TOPIC: Advanced Creative Writing Techniques                        
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Developing a Unique Writing Style   
+	ASSESSMENT DESCRIPTION: Genre Writing Assignment: Write a short piece in a genre outside your comfort zone (assessing genre versatility).
+Style Development Exercise: Write a piece focusing on developing a unique style (assessing writing voice development).
+Publication Plan: Create a plan to submit a piece of writing for publication, including potential markets and a cover letter (assessing understanding of the publication process).
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

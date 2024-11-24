@@ -1,0 +1,84 @@
+Details for Competency SCI-110 (Magnetism (Physics II))
+
+IDENTITY CODE: MAGNETISM_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+This course delves into the fundamental principles and applications of magnetism, exploring its role in the natural world and technological applications. Students will start by studying the origins of magnetism, including magnetic fields and the behavior of magnetic materials. The course will cover topics such as the laws governing magnetic fields, electromagnetic induction, and the interaction of magnetic fields with electric currents.
+RESPONSIBLE INSTRUCTOR: Lunchakorn Tannukij
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SCI-110:00010   
+	KNOWLEDGE TOPIC: Magnetic fields & magnetic force                            
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understand general properties of magnetic fields
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics
+       
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-110:00020   
+	KNOWLEDGE TOPIC: Magnetic fields & magnetic force                            
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Apply the concept of magnetic forces to charged particles and electric currents in a magnetic field
+	ASSESSMENT DESCRIPTION: An assignment to demostrate the ability to solve related sophisticated problems.
+
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SCI-110:00030   
+	KNOWLEDGE TOPIC: Sources of magnetic fields                                  
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Apply the concept of Ampére's law to find magnetic fields around magnetic sources
+	ASSESSMENT DESCRIPTION: An assignment to demostrate the ability to solve related sophisticated problems.
+
+
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SCI-110:00040   
+	KNOWLEDGE TOPIC: Electromagnetic induction                                   
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Apply Faraday's law to find induced electricity in a coil
+	ASSESSMENT DESCRIPTION: An assignment to demostrate the ability to solve related sophisticated problems.
+
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SCI-110:00050   
+	KNOWLEDGE TOPIC: Electromagnetic induction                                   
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understand Electricity generation and the involvement of Faraday's law
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics
+       
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-110:00060   
+	KNOWLEDGE TOPIC: Electrodynamics                                             
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understand the brief origin and physical meaning of Maxwell's equations
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics
+       
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-110:00070   
+	KNOWLEDGE TOPIC: Electrodynamics                                             
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Apply the concept of waves in the contect of electromagnetic waves
+	ASSESSMENT DESCRIPTION: An assignment to demostrate the ability to solve related sophisticated problems.
+
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

@@ -1,0 +1,90 @@
+Details for Competency ENI-102 (Design Thinking)
+
+IDENTITY CODE: DESIGN_THINKING_4
+REQUIRED? true
+CREDITS: 4 (Graded)
+DESCRIPTION
+Through hands-on learning, participants will master design thinking for real-world applications. This human-centred approach emphasizes empathy, creativity, and iterative testing. It involves understanding user needs, defining problems, brainstorming ideas, creating prototypes, and refining solutions based on feedback. Encouraging collaboration and diverse perspectives, design thinking fosters continuous improvement, making it invaluable for developing effective, user-friendly solutions in business, education, healthcare, and social impact.
+RESPONSIBLE INSTRUCTOR: Justin Paulsen
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: ENI-102:00010   
+	KNOWLEDGE TOPIC: Concept Definition                                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Inspiration Phase                   
+	ASSESSMENT DESCRIPTION: Develop and present:
+1. 1 or 2 Target Personas
+2. User Journey and Empathy Map Canvas
+3. Customer Profile Canvas, prioritizing the critical Job-to-be-done, pains and gains. At least 3 high-priority jobs must be identified with pains and gains. Pains and Gains must include Functional and Emotional aspects.
+4. Create the Ad-lib statements of your solution based on the Customer Profile Canvas in step 3. 
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: ENI-102:00020   
+	KNOWLEDGE TOPIC: Concept Definition                                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: External Analysis                   
+	ASSESSMENT DESCRIPTION: Conduct a proper strategic analysis of the domain with which your concept will operate. This includes:
+
+- PESTEL analysis 
+- Porter's Five Forces
+- Strategic Positioning Map
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: ENI-102:00030   
+	KNOWLEDGE TOPIC: Ideation                                                    
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Ideation Phase                      
+	ASSESSMENT DESCRIPTION: 1. Develop Value Map for each customer profile and list out solution(s) that can solve pains and create gains;
+2. Prototype Your Solution by creating at least two versions;
+- Use sketch to develop prototyping or software to develop prototype version 1 and review feedback.
+- Upon feedback, adjust prototype to the version 2.
+3. Develop Solution Brochure 
+- To explain your solution features, and how they make gains and/or avoid pains.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: ENI-102:00040   
+	KNOWLEDGE TOPIC: Prototyping                                                 
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Internal Analysis                   
+	ASSESSMENT DESCRIPTION: Conduct a SWOT analysis of the team building the prototype, including how internal strengths and weaknesses may capture value or encounter external threats (from the External Analyses).
+
+Define the competitive advantage being pursued via this prototype, and how it differentiates meaningfully from the competition.
+
+Conduct basic budgetary analysis for the overall cost involved in your project, and anticipate revenue over 3 to 5 years using an NPV.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: ENI-102:00050   
+	KNOWLEDGE TOPIC: Testing                                                     
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Implementation Phase                
+	ASSESSMENT DESCRIPTION: Analyze your R&D project so you can develop the scope of your product and implementation plan.
+
+You will need to submit the deliverables, including:
+1. Functional requirements in the user story format
+2. Non-functional requirements to address quality attributes.
+3. Product development plan
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: ENI-102:00060   
+	KNOWLEDGE TOPIC: Concept Definition                                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Pitching                            
+	ASSESSMENT DESCRIPTION: The final assessment includes the entire concept, ideally delivered within a 10-minute time frame. Focus on demonstrating desirability, feasibility, and viability through the key phases of design thinking discussed throughout the semester. Consult your previous assignments to demonstrate each step, and how the external factors and internal assessment reinforce your position.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

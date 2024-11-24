@@ -1,0 +1,37 @@
+Details for Competency HCD-406 (Virtual Production)
+
+IDENTITY CODE: VIRTUAL_PRODUCTION_6
+REQUIRED? false
+CREDITS: 6 (Graded)
+DESCRIPTION
+There are a variety of roles within the broader field of virtual production, including directing, writing, cinematography, content editing, and technology integration. Students will learn how to manage this wide variety of talent and resources, create feasible project timelines, identify key technological integrations, and manage the budgetary constrains of production. Virtual production aligns technical skills, project management, and creative direction to produce compelling digital content.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HCD-406:00010   
+	KNOWLEDGE TOPIC: Virtual Production: Foundations                             
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Virtual Production: Foundations
+	ASSESSMENT DESCRIPTION: Demonstrate a thorough understanding of the production process, including talent and resources. 
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HCD-406:00020   
+	KNOWLEDGE TOPIC: Virtual Production: Foundations                             
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Virtual Production: Foundations
+	ASSESSMENT DESCRIPTION: Apply project management to existing student projects to demonstrate virtual production mastery.
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

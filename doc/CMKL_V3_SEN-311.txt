@@ -1,0 +1,52 @@
+Details for Competency SEN-311 (Web Architectures)
+
+IDENTITY CODE: WEB_ARCH_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+This competency surveys the core principles and typical components of a web application and considers various architectural patterns that can be used to build an application on the web. 
+RESPONSIBLE INSTRUCTOR: Isara Anantavrasilp
+PREREQUISITES
+   -- SEN-103 - Programming Multi-module Applications
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-311:00010   
+	KNOWLEDGE TOPIC: Fundamental concepts of web-based applications              
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understand fundamental concepts of web-based applications
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: SEN-311:00020   
+	KNOWLEDGE TOPIC: Basic knowledge on web development                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Basic knowledge on web development
+	ASSESSMENT DESCRIPTION: Use HTML, CSS and Javascript, or a front-end framework, to develop a simple UI for a web application.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SEN-311:00030   
+	KNOWLEDGE TOPIC: Basic knowledge on web development                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Basic knowledge on web development
+	ASSESSMENT DESCRIPTION: Given a problem description, create a backend web service that can compute and deliver solutions to that problem.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: SEN-311:00040   
+	KNOWLEDGE TOPIC: Basic knowledge on web development                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Basic knowledge on web development
+	ASSESSMENT DESCRIPTION: Given the front-end and back-end code developed in previous assessments, integrate to create a full web application and demonstrate that it functions correctly.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

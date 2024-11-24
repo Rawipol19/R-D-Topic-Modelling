@@ -1,0 +1,23 @@
+Details for Competency HAS-143 (AI and Computer Engineering for Community Impact IIII)
+
+IDENTITY CODE: AI_COMMUNITY_4_4
+REQUIRED? false
+CREDITS: 4 (Pass/Fail)
+DESCRIPTION
+This competency offers students a unique opportunity to apply their knowledge of AI and computer engineering in real-world community settings. Throughout the time, students will engage in hands-on projects and community service activities designed to address specific needs within local communities. The course emphasizes experiential learning, fostering practical skills, social responsibility, and a deeper understanding of the societal impacts of technology.
+Term: Spring (during Winter Break)
+Location: Varied (local community sites)
+Format: On-site, activities-based, no lecture
+RESPONSIBLE INSTRUCTOR: Apirujee Rujirek
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+
+

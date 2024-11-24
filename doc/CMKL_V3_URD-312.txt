@@ -1,0 +1,28 @@
+Details for Competency URD-312 (Overseas Colleges (2))
+
+IDENTITY CODE: OVERSEAS_2_9
+REQUIRED? false
+CREDITS: 9 (Graded)
+OPTION GROUP: Third Year R\&D Semester 2
+
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+   -- URD-202 - Undergraduate R&D Project (4)
+DISTRIBUTION AREAS
+   -- R&D
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: URD-312:00010   
+	KNOWLEDGE TOPIC: Industrial Internship                                       
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Contribute to the work of an industrial partner
+	ASSESSMENT DESCRIPTION: Perform assigned duties and contribute to the working team on the site of the industrial sponsor
+	COMPLEXITY LEVEL:Evaluate                
+
+
+
+

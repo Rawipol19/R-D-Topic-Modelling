@@ -1,0 +1,56 @@
+Details for Competency AIC-604 (Computer Vision)
+
+IDENTITY CODE: COMPUTER_VISION_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+OPTION GROUP: AI Applications
+
+DESCRIPTION
+This competency introduces concepts and techniques that allow a computer system to analyze and understand visual representations such as images, video, drawings and diagrams. It covers tools and methods for important computer vision tasks including  image transformations, feature descriptors and matching, segmentation, and object detection.
+RESPONSIBLE INSTRUCTOR: Jamie A. O'Reilly
+PREREQUISITES
+   -- MAT-207 - Discrete Mathematics
+   -- AIC-101 - Introduction to Artificial Intelligence
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- R&D
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: AIC-604:00010   
+	KNOWLEDGE TOPIC: Fundamental digital image processing                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Understand and apply a range of fundamental digital image transformations used in computer vision
+	ASSESSMENT DESCRIPTION: Pre-process digital images using basic image transformations for computer vision applications
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: AIC-604:00020   
+	KNOWLEDGE TOPIC: Image segmentation and shape analysis                       
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Apply image segmentation algorithms and evaluate their performance
+	ASSESSMENT DESCRIPTION: Segment digital images and analyze the result                                   
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: AIC-604:00030   
+	KNOWLEDGE TOPIC: Feature matching                                            
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Analyze image features used in matching and tracking algorithms
+	ASSESSMENT DESCRIPTION: Use feature matching and tracking algorithm to track object in moving images    
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: AIC-604:00040   
+	KNOWLEDGE TOPIC: Object detection and tracking                               
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create object detection and tracking algorithm using pre-trained object detection models
+	ASSESSMENT DESCRIPTION: Develop an image processing application that uses object detection              
+	COMPLEXITY LEVEL:Evaluate                
+
+
+
+

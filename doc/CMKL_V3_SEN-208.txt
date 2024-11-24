@@ -1,0 +1,51 @@
+Details for Competency SEN-208 (Advanced Data Structures and Algorithms)
+
+IDENTITY CODE: ADV_DATA_STRUCT_6
+REQUIRED? false
+CREDITS: 6 (Graded)
+RESPONSIBLE INSTRUCTOR: Chutimet Srinilta
+PREREQUISITES
+   -- SEN-107 - Fundamental Data Structures and Algorithms
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-208:00010   
+	KNOWLEDGE TOPIC: Time complexity analysis                                    
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Analyzing asymptotic time complexity of non-recursive and recursive algorithms.
+	ASSESSMENT DESCRIPTION: Given the pseudocode for an algorithm, determine the worst case time complexity and identify the component that contributes mainly to the overall running time. 
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SEN-208:00020   
+	KNOWLEDGE TOPIC: Non-linear data structures                                  
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understanding the behavior of non-linear data structures and their strengths/weaknesses. Creating a solution using appropriate data structure.
+	ASSESSMENT DESCRIPTION: Implement data structures and their basic operations. Choose an appropriate data structure for a given problem.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SEN-208:00030   
+	KNOWLEDGE TOPIC: Networks                                                    
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Creating a solution that appropriately uses network data structures and algorithms.
+	ASSESSMENT DESCRIPTION: Given a problem, design and implement a solution using a network data structure to solve it.
+Trace shortest path and minimum spanning tree algorithms.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SEN-208:00040   
+	KNOWLEDGE TOPIC: Sorting                                                     
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Creating solutions using different sorting algorithms. Comparing their utility and performance.
+	ASSESSMENT DESCRIPTION: Implement two sorting algorithms (one comparison-based algorithm and one divide-and-conquer algorithm). Design the experiments to demonstrate behavior, pros and cons, of the two sorting algorithms.
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

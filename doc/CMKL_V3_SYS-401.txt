@@ -1,0 +1,40 @@
+Details for Competency SYS-401 (Parallel Computing)
+
+IDENTITY CODE: PARALLEL_COMP_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Many potential workloads (e.g., deep learning, rendering, simulation) are large in scale and computations. This requires utilizing the hardware efficiently to maximize performance and reduce power constraints. One way to reduce power constraints is to break large computing units down into multiple small computing units. However, in order to fully utilize those small computing units, the programs should be written systematically with understandings of how each computing units harmonize as well as data movements between/within these units.
+
+This competency introduces how to efficiently utilize parallelism in modern computer systems through programming to improve performance (and implicitly reduce power constraints), including trade-offs involved. This includes parallelism at the instruction and thread levels, as well as, exploiting parallel hardware.
+RESPONSIBLE INSTRUCTOR: Akkarit Sangpetch
+PREREQUISITES
+   -- SYS-101 - Operating Systems
+   -- SYS-102 - Basic Computer Architecture
+   -- SYS-207 - Networks
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SYS-401:00010   
+	KNOWLEDGE TOPIC: Instruction-level parallelism                               
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Write programs that exploit instruction-level and SIMD parallelism
+	ASSESSMENT DESCRIPTION: Students will be giving a task to design a code for a certain operation that maximizes ILP and utilizes SIMD instructions.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: SYS-401:00020   
+	KNOWLEDGE TOPIC: Shared memory parallelism                                   
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Write multithreaded programs and use synchronization properly
+	ASSESSMENT DESCRIPTION: Students must parallelize a given implementation using available thread APIs (e.g., pthread, OpenMP) and do proper synchronization to ensure the correctness of the implementation. Students must also compare their sequential implementation with their parallel implementation in terms of performance.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

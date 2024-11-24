@@ -1,0 +1,45 @@
+Details for Competency SEC-402 (Differential Privacy (DP))
+
+IDENTITY CODE: DIFF_PRIVACY_6
+REQUIRED? false
+CREDITS: 6 (Graded)
+DESCRIPTION
+Differential privacy is a privacy preservation technique that leverages the benefit of small changes to ensure minimal exposure of data characteristics. In this competency, you will explore various technical background behind the differential privacy technique. Also, the application beyond the mathematical foundation will be discussed in detail.
+RESPONSIBLE INSTRUCTOR: Pasin Manurangsi
+PREREQUISITES
+   -- MAT-205 - Probability Distributions
+   -- SEC-301 - Security Challenges in Modern AI Systems
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEC-402:00010   
+	KNOWLEDGE TOPIC: Concepts and definitions                                    
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Understand the concepts of differential privacy and can determine if a given algorithm is differentially private, and understand the utility-privacy tradeoff for Laplace, Gaussian, exponential mechanisms and Randomized Response
+	ASSESSMENT DESCRIPTION: Take a quiz on whether given algorithms are differentially private (and for what parameters) and can compute their utilities
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SEC-402:00020   
+	KNOWLEDGE TOPIC: Properties of DP                                            
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand the concepts of post-processing, composition, group differential privacy and protection against privacy-related attacks
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluate the key concepts of conditional probability, and the Bayes theorem
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SEC-402:00030   
+	KNOWLEDGE TOPIC: Applications in ML                                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Understand the DP-SGD algorithm, its privacy accounting and how to apply it to real datasets
+	ASSESSMENT DESCRIPTION: Build differentially private machine classification models using the DP-SGD algorithms on simple datasets, demonstate the effects on different parameters to its utility
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

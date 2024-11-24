@@ -1,0 +1,51 @@
+Details for Competency HAS-110 (Policy & Sustainable Development)
+
+IDENTITY CODE: SDG_6
+REQUIRED? false
+CREDITS: 6 (Graded)
+RESPONSIBLE INSTRUCTOR: Buraskorn Torut
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HAS-110:00010   
+	KNOWLEDGE TOPIC: Foundations of Policy and Sustainable Development           
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understanding Foundations of Policy and Sustainable Development
+	ASSESSMENT DESCRIPTION: Multiple-choice questions on the SDGs and core public policy theories (assessing understanding of foundational concepts).
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HAS-110:00020   
+	KNOWLEDGE TOPIC: Policy Design and Implementation for Sustainability         
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Designing policies that address sustainability challenges
+	ASSESSMENT DESCRIPTION: Policy Design Proposal: Develop a policy proposal addressing a sustainability issue, incorporating stakeholder engagement and monitoring strategies (assessing policy design skills).
+
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: HAS-110:00030   
+	KNOWLEDGE TOPIC: Economic, Environmental, and Social Dimensions of Sustainability
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Analyzing the economic aspects of environmental sustainability
+	ASSESSMENT DESCRIPTION: Case Study Analysis: Analyze a real-world case where economic, environmental, and social factors were considered in a sustainable development policy (assessing the ability to integrate diverse sustainability dimensions).
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: HAS-110:00040   
+	KNOWLEDGE TOPIC: International Policy and Sustainable Development Governance 
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Understanding the role of international agreements in sustainable development
+	ASSESSMENT DESCRIPTION: International Policy Report: Write a report evaluating the effectiveness of an international agreement (e.g., the Paris Agreement) in advancing sustainability (assessing understanding of international governance and policy coherence).
+	COMPLEXITY LEVEL:Evaluate                
+
+
+
+

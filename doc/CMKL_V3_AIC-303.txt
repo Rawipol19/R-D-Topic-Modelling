@@ -1,0 +1,77 @@
+Details for Competency AIC-303 (Planning and Search Strategies)
+
+IDENTITY CODE: PLANNING_SEARCH_4
+REQUIRED? true
+CREDITS: 4 (Graded)
+DESCRIPTION
+This competency introduces the core AI concept of a solution space and recasts problem solving as the process of searching that space and evaluating potential solutions. 
+RESPONSIBLE INSTRUCTOR: Akkarit Sangpetch
+PREREQUISITES
+   -- SEN-107 - Fundamental Data Structures and Algorithms
+   -- AIC-101 - Introduction to Artificial Intelligence
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: AIC-303:00010   
+	KNOWLEDGE TOPIC: Problem Spaces                                              
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Formulate a problem in terms of searching a solution space
+	ASSESSMENT DESCRIPTION: Given a problem that involves optimizing multiple objectives, show how it can be represented in terms of search and propose a solution method.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: AIC-303:00020   
+	KNOWLEDGE TOPIC: Symbolic Planning and Problem Solving                       
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Apply a symbolic technique to solve a problem
+	ASSESSMENT DESCRIPTION: Install and experiment with modern implementation of Newell’’s & Simon’’s GPS (general-problem-solver) Then create a set of rules to solve a simple specified problem using GPS.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: AIC-303:00030   
+	KNOWLEDGE TOPIC: Bio-inspired Search Algorithms                              
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Create a program that implements a well-known bio-inspired algorithm
+	ASSESSMENT DESCRIPTION: Create a program that uses either Ant Colony Optimization or Genetic Algorithms to solve the problem of finding the ideal restaurant.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: AIC-303:00040   
+	KNOWLEDGE TOPIC: State space search                                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Create a program that can play board game using uninformed search (e.g. chess)
+	ASSESSMENT DESCRIPTION: Implement a simple chess AI using iterative deepening or other uninformed search algorithms to determine the next best move
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: AIC-303:00050   
+	KNOWLEDGE TOPIC: Planning & search consideration for real-world app          
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Describe a sample plan and search consideration for real-world app
+	ASSESSMENT DESCRIPTION: Compile a list of potential problems that can be solved by search               
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: AIC-303:00060   
+	KNOWLEDGE TOPIC: State space search                                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Pathfinding using heuristic search
+	ASSESSMENT DESCRIPTION: Implement a pathfinding algorithm (e.g. using A* or other heuristics search) to navigate a game character to a destination on a map with random obstacles
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: AIC-303:00070   
+	KNOWLEDGE TOPIC: State space search                                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Implement a route planning algorithm for a map application
+	ASSESSMENT DESCRIPTION: Formulating the turn-by-turn navigation problem using planning/search strategies and implement an algorithm to suggest a route given traffic condition and a map
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

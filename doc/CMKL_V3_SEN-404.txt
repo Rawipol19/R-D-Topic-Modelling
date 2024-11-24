@@ -1,0 +1,29 @@
+Details for Competency SEN-404 (Legacy Software Strategies)
+
+IDENTITY CODE: LEGACY_SW_2
+REQUIRED? false
+CREDITS: 2 (Graded)
+DESCRIPTION
+Legacy software is software that uses old or outdated technologies, but which is too important or central to an organization to be discarded. This competency explores strategies for integrating legacy applications with new software while minimizing the negative consequences. 
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEN-201 - Software Engineering Processes
+   -- SEN-103 - Programming Multi-module Applications
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-404:00010   
+	KNOWLEDGE TOPIC: Legacy Software Strategies                                  
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Apply effective legacy software strategies
+	ASSESSMENT DESCRIPTION: Given a case study involving legacy software, propose a plan to successfully develop new applications that interface to or integrate with the legacy software.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+
+

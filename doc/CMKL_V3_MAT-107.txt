@@ -1,0 +1,36 @@
+Details for Competency MAT-107 (Differential Equations and Approximation)
+
+IDENTITY CODE: DIFF_EQUATIONS_12
+REQUIRED? false
+CREDITS: 12 (Graded)
+DESCRIPTION
+Differential equations are ubiquitous in physics, ecology, epidemiology, social sciences, among other sciences, since they can model the evolution of systems over time. We will discuss how to write mathematical models for different phenomena and how to solve such equations.
+
+Differential equations are equations that involve the derivative of a function. To solve them, i.e. to determine the unknown function, we need to manipulate derivatives and compute integrals.
+
+Throughout this competency we will learn how to model different phenomena through differential equations and finding the function that explains such phenomena. However, the solution of some differential equations does not admit a closed expression, but it can be expressed as an infinite series. We will discuss convergence of these series.
+
+When it becomes too complicated to solve analytically the solution of the differential equation, we need to approximate the solution through a numerical method such as the Euler's method, the semi-implicit method, or Runge-Kutta. We will approximate the solution of intricate differential equations and systems of differential equations using numerical methods.
+RESPONSIBLE INSTRUCTOR: Puttha Sakkaplangkul
+PREREQUISITES
+   -- MAT-101 - Calculus - Differentiation
+   -- MAT-102 - Calculus - Basic derivatives
+   -- MAT-103 - Calculus - Integration
+DISTRIBUTION AREAS
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: MAT-107:00010   
+	KNOWLEDGE TOPIC: Differential Equations and Approximation                    
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Differential Equations and Approximation
+	ASSESSMENT DESCRIPTION: Take a quiz on the topic of Differential Equations and Approximation            
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

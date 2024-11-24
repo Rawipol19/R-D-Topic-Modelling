@@ -1,0 +1,53 @@
+Details for Competency HAS-104 (Human Geography)
+
+IDENTITY CODE: HUM_GEOGRAPHY_9
+REQUIRED? false
+CREDITS: 9 (Graded)
+DESCRIPTION
+Explore the dynamic relationship between human societies and the natural environment in this comprehensive Human Geography course. Students will delve into spatial analysis using Geographic Information Systems (GIS), examine cultural and social landscapes, analyze economic globalization, and investigate environmental sustainability challenges. Through interdisciplinary approaches and case studies, students will gain insights into how geographic factors shape societies, economies, and environments globally. This course prepares students to critically assess and address complex geographical issues facing our interconnected world today.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HAS-104:00010   
+	KNOWLEDGE TOPIC: Spatial Patterns and Processes                              
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Spatial Analysis and Geographic Information Systems (GIS)
+	ASSESSMENT DESCRIPTION: Practical exercises and projects applying GIS to analyze geographic data and spatial phenomena.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: HAS-104:00020   
+	KNOWLEDGE TOPIC: Cultural Landscapes and Identity                            
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Cultural and Social Geography       
+	ASSESSMENT DESCRIPTION: Essays and presentations examining cultural landscapes and social geography issues.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HAS-104:00030   
+	KNOWLEDGE TOPIC: Global Economic Systems and Development                     
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Economic Geography and Globalization
+	ASSESSMENT DESCRIPTION: Case studies and research papers on economic geography topics.
+                 
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: HAS-104:00040   
+	KNOWLEDGE TOPIC: Environmental Change and Resilience                         
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Environmental Geography and Sustainability
+	ASSESSMENT DESCRIPTION: Projects and reports evaluating environmental issues and sustainability solutions.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+
+

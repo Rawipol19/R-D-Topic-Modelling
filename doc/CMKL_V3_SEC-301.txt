@@ -1,0 +1,52 @@
+Details for Competency SEC-301 (Security Challenges in Modern AI Systems)
+
+IDENTITY CODE: SEC_AI_SYSTEMS_2
+REQUIRED? true
+CREDITS: 2 (Graded)
+DESCRIPTION
+Currently, AI is a new hype in the community. We cannot deny that AI models and systems are produced and used in the consumer level effectively. However, security in AI systems are also paramount since they learn from data, sometimes personal data. In this competency, we will delve down into various security challenges in AI systems and techniques to investigate the security issues/attacks in AI systems. 
+RESPONSIBLE INSTRUCTOR: Charnon Pattiyanon
+PREREQUISITES
+   -- AIC-201 - Supervised Learning and Unsupervised Learning
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEC-301:00010   
+	KNOWLEDGE TOPIC: AI Security Risks                                           
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Analyze AI security Risks           
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates an ability to analyze AI security risks and apply standard AI security recommendation.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: SEC-301:00020   
+	KNOWLEDGE TOPIC: AI Security Risks                                           
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Analyze AI security threats using analysis techniques
+	ASSESSMENT DESCRIPTION: Write a report to demonstrate an ability to analyze a real-world AI system and model its security threats.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: SEC-301:00030   
+	KNOWLEDGE TOPIC: Adversarial AI                                              
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Analyze AI-specific attack scenarios
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates an ability to analyze and identify AI specific attacks and how to protect them.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: SEC-301:00040   
+	KNOWLEDGE TOPIC: AI Safety                                                   
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Understand AI Safety in academic    
+	ASSESSMENT DESCRIPTION: Write a report to demonstrate an ability to study a current research trend in AI Safety from existing works and identify research gaps.
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

@@ -1,0 +1,35 @@
+Details for Competency MAT-203 (Descriptive Statistics)
+
+IDENTITY CODE: DESC_STATS_2
+REQUIRED? true
+CREDITS: 2 (Graded)
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: MAT-203:00010   
+	KNOWLEDGE TOPIC: Descriptive Statistics                                      
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Compute and interpret descriptive statistics of a sample
+	ASSESSMENT DESCRIPTION: Given a sample of observations compute its descriptive statistics and interpret them.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: MAT-203:00020   
+	KNOWLEDGE TOPIC: Descriptive Statistics                                      
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Visualize variables from a data set 
+	ASSESSMENT DESCRIPTION: Given data set, present relevant variables in the most appropriate way. Taking into consideration data quality and preprocessing. Interpreting the charts.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

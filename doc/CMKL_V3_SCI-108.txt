@@ -1,0 +1,76 @@
+Details for Competency SCI-108 (Thermodynamics (Physics I))
+
+IDENTITY CODE: THERMODYN_3
+REQUIRED? false
+CREDITS: 3 (Graded)
+DESCRIPTION
+Thermodynamics is the study of energy and its transformations. This foundational course explores the principles governing heat, work, and energy transfer within engineering systems. Students will delve into the laws of thermodynamics, including concepts such as entropy, temperature, and the relationships between different forms of energy
+RESPONSIBLE INSTRUCTOR: Lunchakorn Tannukij
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SCI-108:00010   
+	KNOWLEDGE TOPIC: Thermal Properties of Matter, 1st Law and 2nd of Thermodynamics, Entropy, Introduction to Information Theory
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand components involved in the 1st law of thermodynamics
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-108:00020   
+	KNOWLEDGE TOPIC: Thermal Properties of Matter, 1st Law and 2nd of Thermodynamics, Entropy, Introduction to Information Theory
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Apply the concepts of ideal gas to simplified gas systems in nature
+	ASSESSMENT DESCRIPTION: An assignment to demostrate the ability to solve related sophisticated problems 
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SCI-108:00030   
+	KNOWLEDGE TOPIC: Thermal Properties of Matter, 1st Law and 2nd of Thermodynamics, Entropy, Introduction to Information Theory
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand the origin and consequences of 2nd law of thermodynamics
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-108:00040   
+	KNOWLEDGE TOPIC: Thermal Properties of Matter, 1st Law and 2nd of Thermodynamics, Entropy, Introduction to Information Theory
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand the involvement of the 1st law in thermal systems found in real-life
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-108:00050   
+	KNOWLEDGE TOPIC: Thermal Properties of Matter, 1st Law and 2nd of Thermodynamics, Entropy, Introduction to Information Theory
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand the concept of entropy
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-108:00060   
+	KNOWLEDGE TOPIC: Thermal Properties of Matter, 1st Law and 2nd of Thermodynamics, Entropy, Introduction to Information Theory
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Apply the basic usages of entropy in information theory
+	ASSESSMENT DESCRIPTION: An assignment to demostrate the ability to solve related sophisticated problems 
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SCI-108:00070   
+	KNOWLEDGE TOPIC: Thermal Properties of Matter, 1st Law and 2nd of Thermodynamics, Entropy, Introduction to Information Theory
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: The concept of phase changes (heat capacitie, latent heat)
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

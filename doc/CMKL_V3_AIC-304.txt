@@ -1,0 +1,62 @@
+Details for Competency AIC-304 (Neural Networks and Deep Learning)
+
+IDENTITY CODE: DEEP_LEARNING_4
+REQUIRED? true
+CREDITS: 4 (Graded)
+DESCRIPTION
+This competency introduces the core concepts behind so called "deep learning" models, which use a series of many layers to extract features and patterns from a set of input data. The main focus is on convolutional neural networks, important for computer vision and related classification tasks. 
+RESPONSIBLE INSTRUCTOR: Kawisorn Kamtue
+PREREQUISITES
+   -- AIC-201 - Supervised Learning and Unsupervised Learning
+   -- MAT-207 - Discrete Mathematics
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: AIC-304:00010   
+	KNOWLEDGE TOPIC: Neural network history and core concepts                    
+	ASSESSMENT TYPE: Interview/oral exam 
+	ASSESSMENT TITLE: Assessment: Explaining the core concept underlying neural networks and discuss why they work
+	ASSESSMENT DESCRIPTION: Oral quiz  answer the instructor's questions about the meaning and importance of core neural network concepts
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: AIC-304:00020   
+	KNOWLEDGE TOPIC: Convolutional layers                                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Understand the mathematics behind convolutional layer
+	ASSESSMENT DESCRIPTION: Determine the output of convolution between an image and a filter               
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: AIC-304:00030   
+	KNOWLEDGE TOPIC: Pooling layers                                              
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Applying pooling layer to an image/features
+	ASSESSMENT DESCRIPTION: Determine the output of pooling layer to an image                               
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: AIC-304:00040   
+	KNOWLEDGE TOPIC: Back-propagation                                            
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Back-propagation        
+	ASSESSMENT DESCRIPTION: Write a program that demonstrates back-propagation by calculating new weights for a set of neurons in a neural network, given current weights plus measures of error.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: AIC-304:00050   
+	KNOWLEDGE TOPIC: Deep learning overview                                      
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Describe, compare and contrast  the important types of deep neural network used in modern ML
+	ASSESSMENT DESCRIPTION: Write a paper at least three pages long that summarizes the main categories of deep neural networks currently used in ML, explaining their similarities and differences and mentioning their common areas of application.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

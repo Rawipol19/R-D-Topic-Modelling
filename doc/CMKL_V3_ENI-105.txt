@@ -1,0 +1,116 @@
+Details for Competency ENI-105 (Startup from Idea to Impact)
+
+IDENTITY CODE: IDEA_TO_IMPACT_12
+REQUIRED? false
+CREDITS: 6 (Graded)
+DESCRIPTION
+The Startup from Idea to Impact equips students with the essential skills and knowledge needed to navigate every stage of the startup journey, from concept inception to making a meaningful impact in the market.
+RESPONSIBLE INSTRUCTOR: Sorakrit Phruthanontachai
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: ENI-105:00010   
+	KNOWLEDGE TOPIC: How do you scale your business?                             
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Estimate the Total Addressable Market (TAM) Size for Follow-on Markets
+	ASSESSMENT DESCRIPTION: This will help team see the magnitude of the revenue potential, which will motivate team to focus on winning the Beachhead Market quickly and effectively so you can branch out into these other markets. Also it forces team to realize that they are doing business not just for the beachhead market but for broader impact.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: ENI-105:00020   
+	KNOWLEDGE TOPIC: How do you design and build your product?                   
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Identify key assumptions
+	ASSESSMENT DESCRIPTION: While you have tested many key assumptions throughout the 24 Steps, now you have all the elements of the marketing analysis plan, so now it is time to survey the full landscape and identify those key assumptions that are crucial to the overall plan before you begin to make the heavy investments in product development and the supporting infrastructure.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: ENI-105:00030   
+	KNOWLEDGE TOPIC: How do you make money of your product?                      
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Design a Business Model 
+	ASSESSMENT DESCRIPTION: The selection of a value extraction business model can dramatically reduce Cost of Customer Acquisition (COCA), increase Lifetime Value of an Acquired Customer (LTV), and provide team with a competitive advantage. All the information team analyzed will be used for making an informed decision.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: ENI-105:00040   
+	KNOWLEDGE TOPIC: What can you do for your customer?                          
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Define your core        
+	ASSESSMENT DESCRIPTION: Determine the single thing that team will do better than anyone else and very difficult to copy.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: ENI-105:00050   
+	KNOWLEDGE TOPIC: Who is your customer?                                       
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Market Segmentation and Select Beachhead Market
+	ASSESSMENT DESCRIPTION: Understand  and apply how to do develop market segmentation and select beachhead market for products/services
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: ENI-105:00060   
+	KNOWLEDGE TOPIC: How does your customers acquire your product?               
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Determine the Customer's Decision-Making Unit (DMU) and map the Process to Acquire a Paying Customers
+	ASSESSMENT DESCRIPTION: Analyze all stakeholders who are involved in making the decision to purchase your product - including influencers. Also, determine how the members of DMU make a decision to buy your product.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: ENI-105:00070   
+	KNOWLEDGE TOPIC: What can you do for your customer?                          
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Chart your competitive position
+	ASSESSMENT DESCRIPTION: Analyze your product vs customer's alternative options, through the lens of customer's top 2 priorities.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: ENI-105:00080   
+	KNOWLEDGE TOPIC: Who is your customer?                                       
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Build End-user Profile and Persona
+	ASSESSMENT DESCRIPTION: Understand and apply how to build end-user profile and various personas to focus who the product and service will be served
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: ENI-105:00090   
+	KNOWLEDGE TOPIC: How do you design and build your product?                   
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Test key assumptions    
+	ASSESSMENT DESCRIPTION: This scientific approach will allow you to understand which assumptions are valid, which ones are not, and which ones you can’’t know for sure yet. As a result, you’’ll have time to make adjustments to your planning while the cost and time to do so is much less than it will be in the very near future when you launch the product development process.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: ENI-105:00100   
+	KNOWLEDGE TOPIC: How do you scale your business?                             
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Develop a product plan  
+	ASSESSMENT DESCRIPTION: Putting together a broader plan for your product allows your team to have a solid foundation stepping out from the 24 Steps into a more dedicated incremental product development cycle. You will continually refine the work you have done in this workbook, even though there are no more formal steps to be followed in this methodology beyond Step 24. At this point, if all of the steps have been completed, you have successfully launched your product.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: ENI-105:00110   
+	KNOWLEDGE TOPIC: How do you make money of your product?                      
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Set Pricing Framework   
+	ASSESSMENT DESCRIPTION: Small changes in pricing can have a dramatic impact on profitability. Students will gain a basic understanding of pricing their products that is acceptable to customers and to them that can make a sustainable business.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: ENI-105:00120   
+	KNOWLEDGE TOPIC: How does your customers acquire your product?               
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Map the Sales Process to Acquire a Customer
+	ASSESSMENT DESCRIPTION: Visually show how you will create and fulfill demand for your product over the short term, the medium term, and the long term.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

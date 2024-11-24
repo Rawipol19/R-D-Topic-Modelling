@@ -1,0 +1,28 @@
+Details for Competency URD-202 (Undergraduate R&D Project (4))
+
+IDENTITY CODE: URD_PROJ_4_9
+REQUIRED? true
+CREDITS: 9 (Graded)
+DESCRIPTION
+In URD-201 and URD-202, student teams work with external stakeholders from organizations that are dedicated to solving societal problems. These could be non-profits, non-governmental organizations, or corporate-social-responsibility units within for-profit companies. URD-201 and URD-202 challenge student teams not only to design and build a solution to the stakeholders' problem but to do so considering practical constraints (including financial, technical and knowledge-oriented) faced by the stakeholder organizations.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+   -- URD-201 - Undergraduate R&D project (3)
+DISTRIBUTION AREAS
+   -- R&D
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: URD-202:00010   
+	KNOWLEDGE TOPIC: AI and Computer Engineering for Society                     
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Demonstrate skills related to solving societal problems while considering the constraints faced by real world stakeholders
+	ASSESSMENT DESCRIPTION: Design, build and deploy a sustainable solution to some problem that affects society and impacts the quality of human life.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

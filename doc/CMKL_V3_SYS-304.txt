@@ -1,0 +1,34 @@
+Details for Competency SYS-304 (Scalable Algorithms and Infrastructure)
+
+IDENTITY CODE: SCALABLE_ALGO_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+RESPONSIBLE INSTRUCTOR: Akkarit Sangpetch
+PREREQUISITES
+   -- SEN-208 - Advanced Data Structures and Algorithms
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SYS-304:00030   
+	KNOWLEDGE TOPIC: Fundamental Workflow to ML Operation                        
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Design a scalable environment to for developing applications or AI solutions
+	ASSESSMENT DESCRIPTION: Given an example scenario of developing an AI solution, comes up with a process of development and potential architectural design to contain a solution
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SYS-304:00050   
+	KNOWLEDGE TOPIC: Application for ML Model Serving a Web Application          
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Create and deploy a website that serves the ML model
+	ASSESSMENT DESCRIPTION: Develop and deploy a website that will be able to contain the ML model, with a consideration (design) for CI/CD through the process
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

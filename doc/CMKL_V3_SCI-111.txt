@@ -1,0 +1,92 @@
+Details for Competency SCI-111 (Light and Optics (Physics II))
+
+IDENTITY CODE: OPTICS_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+This course explores the fundamental principles of light and optics, providing a comprehensive understanding of how light behaves and interacts with matter. Students will delve into topics such as geometrical optics, wave optics, polarization, diffraction, interference, and optical instruments. Through theoretical study and practical experiments, learners will investigate the properties of light, including reflection, refraction, dispersion, and the formation of images by lenses and mirrors.
+RESPONSIBLE INSTRUCTOR: Chinnapat Rattanasirawit
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SCI-111:00010   
+	KNOWLEDGE TOPIC: The nature of light, Reflection of light                    
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understand the concept of nature of light 
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics
+       
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-111:00020   
+	KNOWLEDGE TOPIC: The nature of light, Reflection of light                    
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understand the concept of light reflection
+	ASSESSMENT DESCRIPTION: Given an assignment of sophisticated problems to solve. 
+                       
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-111:00030   
+	KNOWLEDGE TOPIC: Refraction and  Snell's Law                                 
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understand the concept of refraction and Snell's Law.
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics
+       
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-111:00040   
+	KNOWLEDGE TOPIC: Refraction and  Snell's Law                                 
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Applying the knowledge of refraction and Snell's law to solve physics problems.
+	ASSESSMENT DESCRIPTION: An assignment to demostrate the ability to solve related sophisticated problems.
+
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SCI-111:00050   
+	KNOWLEDGE TOPIC: Image formation by lens and mirrors                         
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understand the concept of Image formation by lens and mirrors
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics
+       
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-111:00060   
+	KNOWLEDGE TOPIC: Image formation by lens and mirrors                         
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Apply the knowledge of image formation by lens and mirrors to solve physics problems
+	ASSESSMENT DESCRIPTION: An assignment to demostrate the ability to solve related sophisticated problems.
+
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SCI-111:00070   
+	KNOWLEDGE TOPIC: Diffraction and Interference of light waves                 
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understand the concept of diffraction and interference
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics
+       
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-111:00080   
+	KNOWLEDGE TOPIC: Diffraction and Interference of light waves                 
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Applying the knowledge of diffraction and interference to solve physics problems.
+	ASSESSMENT DESCRIPTION: An assignment to demostrate the ability to solve related sophisticated problems.
+
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

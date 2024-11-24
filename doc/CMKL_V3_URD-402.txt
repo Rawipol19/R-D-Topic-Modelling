@@ -1,0 +1,28 @@
+Details for Competency URD-402 (Honors Undergraduate Research Thesis (2)                                     )
+
+IDENTITY CODE: HONORS_THESIS_2_12
+REQUIRED? false
+CREDITS: 12 (Graded)
+DESCRIPTION
+The undergraduate research thesis competency requires students to engage in independent, original research that addresses some documented problem in the computing or engineering literature. After performing a thorough literature review, students will do theoretical, experimental or prototype development work that is expected to produce some new knowledge or insights about the problem. The primary deliverable is a formal document comparable to a master's thesis. Publication in a peer-reviewed journal or conference proceedings may be accepted as an alternative deliverable if approved by the student's research supervisor.  Students interested in the honors thesis must register fro both URD-401 and URD-402.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+   -- URD-401 - Honors Undergraduate Research Thesis (1)                                     
+DISTRIBUTION AREAS
+   -- R&D
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: URD-402:00010   
+	KNOWLEDGE TOPIC: Undergraduate Honors Thesis                                 
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Contribute original knowledge to the computing or engineering literature
+	ASSESSMENT DESCRIPTION: Create theoretical or practical contributions to the solution of some significant computing or engineering problem and document the contributions in a thesis.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

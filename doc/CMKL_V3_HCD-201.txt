@@ -1,0 +1,45 @@
+Details for Competency HCD-201 (Ethics in computer engineering)
+
+IDENTITY CODE: ETHICS_CE_2
+REQUIRED? true
+CREDITS: 2 (Graded)
+DESCRIPTION
+Computer engineering and AI offer incredible capabilities to both individuals and institutions, but with great capabilities come great responsibilities. Ethics in computer engineering covers a wide range of topics, including privacy, automation & employment, big data collection and analysis, safety, and best practices in design. This includes a commitment to the ACM Code of Ethics and Professional Conduct.
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HCD-201:00010   
+	KNOWLEDGE TOPIC: Ethical principles for computing professionals              
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Apply the ACM code of professional ethics to real-world scenarios
+	ASSESSMENT DESCRIPTION: Given a case study, analyze the content, alternatives and possible outcomes based on the principles in the ACM code
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: HCD-201:00020   
+	KNOWLEDGE TOPIC: Ethical principles for computing professionals              
+	ASSESSMENT TYPE: Interview/oral exam 
+	ASSESSMENT TITLE: Assessment: Ethical principles for computing professionals
+	ASSESSMENT DESCRIPTION: Use real-world computer engineering examples to identify and debate ethical concerns.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HCD-201:00030   
+	KNOWLEDGE TOPIC: Ethical principles for computing professionals              
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Ethical principles for computing professionals
+	ASSESSMENT DESCRIPTION: Apply an ethical audit to existing student projects.                            
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

@@ -1,0 +1,53 @@
+Details for Competency AIC-504 (Simulation)
+
+IDENTITY CODE: SIMULATION_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+This competency explores various methods for building an executable model that mimics the behavior of some real world system. We consider different types of models: deterministic versus stochastic, monolithic versus agent-based, classical versus AI-powered (based on deep learning models). Students will learn how to analyze real-world systems, choose appropriate simulation techniques and build simulation models using those techniques.
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: AIC-504:00010   
+	KNOWLEDGE TOPIC: Mathematical and stochastic simulations                     
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create a simple stochastic simulation
+	ASSESSMENT DESCRIPTION: Given the description of a system, model it using stochastic simulation techniques then describe its behavior
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: AIC-504:00020   
+	KNOWLEDGE TOPIC: Agent-based simulations                                     
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create an agent-based simulation    
+	ASSESSMENT DESCRIPTION: Given a description of a system or problem with multiple independent entities (for instance, traffic, epidemic contacts), create an agent-based simulation then describe its behavior
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: AIC-504:00030   
+	KNOWLEDGE TOPIC: Digital twins                                               
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Understand and apply the concept of digital twins
+	ASSESSMENT DESCRIPTION: Find a detailed description in the literature of a digital twin. Analyze this system from the perspective of simulation, highlighting both the benefits and the issues raised.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: AIC-504:00040   
+	KNOWLEDGE TOPIC: AI and simulation                                           
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Design a simulation that uses AI techniques
+	ASSESSMENT DESCRIPTION: Create a design document that explains how you would build an AI-based simulation to model some specific system. This skill involves not only figuring out the issues and steps in building the AI-based simulation, but also the ability to recognize when a particular problem or real-world system would benefit from an AI-based simulation approach.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

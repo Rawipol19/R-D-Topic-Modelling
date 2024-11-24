@@ -1,0 +1,28 @@
+Details for Competency SOF-402 (Proactiveness - Semester 2)
+
+IDENTITY CODE: PROACTIVE_2_0
+REQUIRED? true
+CREDITS: 0 (Graded)
+DESCRIPTION
+Proactiveness is a forward-looking attitude that anticipates possible problems or tasks. Proactive individuals act in anticipation of future needs rather than waiting passively to respond to situations as they arise. Proactiveness includes a service orientation, that is, a tendency to offer help or to take on responsibilities when there is a perceived need, and a focus on continuous improvement, that is, a constant awareness that every situation or process, no matter how successful, can be made better. 
+RESPONSIBLE INSTRUCTOR: Apirujee Rujirek
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SOF-402:00010   
+	KNOWLEDGE TOPIC: Proactiveness                                               
+	ASSESSMENT TYPE: Observational assessment
+	ASSESSMENT TITLE: Assessment: Proactiveness           
+	ASSESSMENT DESCRIPTION: Behavioral evaluation by faculty and self-assessment                            
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

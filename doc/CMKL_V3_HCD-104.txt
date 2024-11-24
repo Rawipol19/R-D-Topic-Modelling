@@ -1,0 +1,85 @@
+Details for Competency HCD-104 (Immersive Environment (AR/VR/MR/XR))
+
+IDENTITY CODE: IMMERSIVE_ENV_6
+REQUIRED? false
+CREDITS: 6 (Graded)
+DESCRIPTION
+Immersive environments are simulations in which computer-generated imagery and other stimuli are combined with the experience of the real world, to engage the senses of users through real-time 3D graphics, audio, and interaction. Depending on the amount of real/physical versus simulated/generated material, the results can be labeled as Virtual Reality (VR), Augmented Reality (AR), or Mixed Reality (MR). There is also Extended Reality (XR) that is a collective/umbrella term for various forms of immersive environments. This is a competency in both the theory and practice of immersive environments that are used in a variety of settings, including training, education, healthcare, entertainment, online collaboration and scientific visualization. You will have the opportunity to learn about the basics and key concepts of immersive environments and how to get started creating content and designing interfaces and developing interactions, followed by deployment on headsets and mobile devices.
+RESPONSIBLE INSTRUCTOR: Hossein Miri
+PREREQUISITES
+   -- SEN-101 - Algorithmic Thinking & Problem Solving
+   -- SEN-102 - Introduction to Programming
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HCD-104:00010   
+	KNOWLEDGE TOPIC: History, Context, Technology, Applications                  
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Know what constitutes an immersive environment and why they have been created throughout history
+	ASSESSMENT DESCRIPTION: Write an essay (max 3000 words) that summarizes your understanding of what immersive environments are and why they were created, i.e., what constitutes an immersive environment and why they have been created throughout history.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HCD-104:00020   
+	KNOWLEDGE TOPIC: History, Context, Technology, Applications                  
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Identify what their application areas are and how they are used today in terms of technology and implementation
+	ASSESSMENT DESCRIPTION: Write an essay (max 3000 words) that highlights some of the most common application areas of immersive environments as well as which one you believe is the most worthwhile with the greatest societal impact, including your logic and reasoning for your choice. In other words, identify the most common application areas of immersive environments and state (with your logic and reasoning) which one you believe is the worthiest of all with the highest social impact.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: HCD-104:00030   
+	KNOWLEDGE TOPIC: Presence, Immersion, Depth Perception, 3D Vision            
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand presence and immersion and know the difference between the two
+	ASSESSMENT DESCRIPTION: Write an essay (max 1000 words) that outlines your understanding of the key concepts of presence and immersion, i.e., what presence and immersion are, and what the difference between the two is.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: HCD-104:00040   
+	KNOWLEDGE TOPIC: Presence, Immersion, Depth Perception, 3D Vision            
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Remember what cues enable depth perception and how that leads to immersion
+	ASSESSMENT DESCRIPTION: Write an essay (max 2000 words) that lays out your understanding of the key concepts of depth perception leading to the experience of immersion, as well as the source of depth information, i.e., visual, oculomotor, monocular, binocular, etc.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: HCD-104:00050   
+	KNOWLEDGE TOPIC: Interfaces, Actions, Interactions, Input/output             
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Create an interactive immersive environment in a game engine (e.g., Unity) containing game objects, 3D models, and an animated character that uses physics and AI path-finding (e.g., Unity NavMeshAgent) to move towards a destination point specified by the user's mouse click.
+	ASSESSMENT DESCRIPTION: Create an interactive immersive environment in a game engine (e.g., Unity) including game objects, lights, textures, animations, basic physics interactions (jumping, collision, etc) that has at least one 3D model imported from Blender as .fbx file as well as a character imported from Mixamo and then via scripting and NavMeshAgent, get your character to move towards a destination point when you click somewhere in the scene. You will be quizzed on how you set up the project and how you wrote the NavMeshAgent script.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: HCD-104:00060   
+	KNOWLEDGE TOPIC: Content Creation and Game development with Unity            
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Using Unity to create immersive environments and games
+	ASSESSMENT DESCRIPTION: Using Unity to create immersive environments and games                          
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: HCD-104:00070   
+	KNOWLEDGE TOPIC: 3D Modelling, Character Animation, Physics, Cinematography  
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Using 3D modelling software, implementing physics, and special effects
+	ASSESSMENT DESCRIPTION: Using 3D modelling software, implementing physics, and special effects          
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: HCD-104:00080   
+	KNOWLEDGE TOPIC: Virtual Humans, Digital Characters, Embodied Conversational Agents
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Virtual Humans, Digital Characters, Embodied Conversational Agents
+	ASSESSMENT DESCRIPTION: Create Charactor                                                                
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

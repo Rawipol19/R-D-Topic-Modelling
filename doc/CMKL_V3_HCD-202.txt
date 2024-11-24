@@ -1,0 +1,50 @@
+Details for Competency HCD-202 (Ethical Principles for AI (Fairness, Accountability, Transparency, Ethics))
+
+IDENTITY CODE: ETHICAL_AI_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Use the FATE model of ethical AI principles to assess AI applications as they pertain to real-world products and services. This includes:
+
+Fairness: AI design should maintain and objective and unbiased perspective in both input data and output behaviors.
+Accountability: AI must consistently demonstrate complete responsibility, alongside methods to enforce this through auditing.
+Transparency: How AI generates decision and/or behaviors must be clear and demonstrable to any and all involved parties.
+Ethics: AI must respect human dignity, privacy, and autonomy at all stages of development and usage.
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- HCD-201 - Ethics in computer engineering
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HCD-202:00010   
+	KNOWLEDGE TOPIC: Bias in AI systems                                          
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Recognizing and preventing bias in AI systems
+	ASSESSMENT DESCRIPTION: Given a description of an AI project, identify possible sources and types of bias and recommend ways to reduce or eliminate it.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: HCD-202:00020   
+	KNOWLEDGE TOPIC: Transparency in AI systems                                  
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Recognizing and promoting transparency
+	ASSESSMENT DESCRIPTION: Given a description of an AI project, identify and explain areas where it may be lacking in transparency, and recommend ways to improve it.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: HCD-202:00030   
+	KNOWLEDGE TOPIC: Accountability for AI systems                               
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Analyzing issues related to accountability
+	ASSESSMENT DESCRIPTION: Find three articles from the popular press where accountability for AI system behavior is an issue. For each one, provide your recommendation about who should be responsible or accountable for damage doen.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

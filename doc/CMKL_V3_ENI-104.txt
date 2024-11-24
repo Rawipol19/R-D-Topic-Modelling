@@ -1,0 +1,28 @@
+Details for Competency ENI-104 (Intellectual Property)
+
+IDENTITY CODE: INTELLECTUAL_PROPERTY_2
+REQUIRED? false
+CREDITS: 2 (Graded)
+DESCRIPTION
+Intellectual property competency involves a comprehensive understanding and adept application of legal frameworks, strategic management, and innovative approaches to safeguard and leverage creations, fostering creativity and economic growth.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: ENI-104:00010   
+	KNOWLEDGE TOPIC: Understanding intellectual property                         
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understanding the key elements of intellectual property 
+	ASSESSMENT DESCRIPTION: demonstrating understanding of using contextually based applications            
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

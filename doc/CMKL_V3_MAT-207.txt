@@ -1,0 +1,54 @@
+Details for Competency MAT-207 (Discrete Mathematics)
+
+IDENTITY CODE: DISCRETE_MATH_12
+REQUIRED? true
+CREDITS: 12 (Graded)
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+   -- MAT-203 - Descriptive Statistics
+   -- MAT-204 - Introduction to Probability
+   -- MAT-205 - Probability Distributions
+   -- MAT-206 - Statistical Inference
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: MAT-207:00010   
+	KNOWLEDGE TOPIC: Mathematical representation of common computing problems    
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Recognize mathematical principles that are appropriate for modeling and solving computing problems
+	ASSESSMENT DESCRIPTION: Given a text description of a typical computing problem, determine a mathematical approach that could be used to solve this problem
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: MAT-207:00020   
+	KNOWLEDGE TOPIC: Mathematical representation of common computing problems    
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Express a common computing problem in mathematical terms and notation  build a mathematical model for solving the problem.
+	ASSESSMENT DESCRIPTION: Given a text description of a common computing problem, create a formal description of that problem using mathematical notation.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: MAT-207:00030   
+	KNOWLEDGE TOPIC: Mathematical processes for solving computing problems       
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Solve a common computing problem using mathematical processes.
+	ASSESSMENT DESCRIPTION: Given a formal, mathematical model of a common computing problem, use well known mathematical processes to solve that problem.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: MAT-207:00040   
+	KNOWLEDGE TOPIC: Formal representations for mathematical models in computing 
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Equations, proofs and other formal representations for solving computing problems
+	ASSESSMENT DESCRIPTION: Use Equations, proofs and other formal representations for solving computing problems
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

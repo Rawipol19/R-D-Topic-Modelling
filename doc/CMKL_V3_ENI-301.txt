@@ -1,0 +1,46 @@
+Details for Competency ENI-301 (Inclusive Leadership)
+
+IDENTITY CODE: LEADERSHIP_2
+REQUIRED? false
+CREDITS: 2 (Graded)
+DESCRIPTION
+Inclusive leadership fosters an environment where diverse perspectives are not only welcomed but actively sought, resulting in a cohesive and innovative team culture.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+   -- ENI-202 - Business Strategy
+   -- ENI-201 - Strategic Innovation Development
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: ENI-301:00010   
+	KNOWLEDGE TOPIC: Introduction to Strategic Leadership Communication and Negotiation
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand why Negotiation is an important matter for their career either within the corporates or their own startup ventures.
+	ASSESSMENT DESCRIPTION: Given short role play                                                           
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: ENI-301:00020   
+	KNOWLEDGE TOPIC: Introduction to Inclusive Leadership                        
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Students will finish this class with the fundamentals of how to lead, and communicate with diverse teams more effectively.
+	ASSESSMENT DESCRIPTION: Given leadership test                                                           
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: ENI-301:00030   
+	KNOWLEDGE TOPIC: Putting it all together                                     
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand being the future leader who can communicate strategically and effectively while being able to deliver persuasive and systematic negotiation.
+	ASSESSMENT DESCRIPTION: Given communication strategical and deliver persuasive negotiation test         
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

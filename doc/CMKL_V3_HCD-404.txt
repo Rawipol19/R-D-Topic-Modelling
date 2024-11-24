@@ -1,0 +1,49 @@
+Details for Competency HCD-404 (Application of Game Engine & Project Prototyping)
+
+IDENTITY CODE: GAME_PROTO_6
+REQUIRED? false
+CREDITS: 6 (Graded)
+DESCRIPTION
+Application of Game Engine and Project Prototyping is a special course dedicated to pushing the limit of Design, Tech, and Artistic execution of one of your current Game/Experience/Capstone prototypes. 
+This is a predominantly a lab-based competency.
+The prerequisites for this course are the "Game Design", and "Game Engine Fundamentals" courses.
+
+Your Prototype will be on Unreal 5.
+RESPONSIBLE INSTRUCTOR: Lorenzo Avi
+PREREQUISITES
+   -- HCD-402 - Game Design
+   -- HCD-301 - Game Engine Fundamentals
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HCD-404:00010   
+	KNOWLEDGE TOPIC: Game Prototyping                                            
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Game Prototyping        
+	ASSESSMENT DESCRIPTION: Students will produce a design document.                                        
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: HCD-404:00020   
+	KNOWLEDGE TOPIC: Game Prototyping                                            
+	ASSESSMENT TYPE: Peer assessment     
+	ASSESSMENT TITLE: Assessment: Game Prototyping        
+	ASSESSMENT DESCRIPTION: Demonstrate strong teamwork and a clear project plan.                           
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: HCD-404:00030   
+	KNOWLEDGE TOPIC: Game Prototyping                                            
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Game Prototyping        
+	ASSESSMENT DESCRIPTION: Students will be assessed on their teamwork, as well as their ability to maintain and present a singular design vision through a prototype.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

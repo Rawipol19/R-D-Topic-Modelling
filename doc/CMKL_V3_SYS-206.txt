@@ -1,0 +1,34 @@
+Details for Competency SYS-206 (Computer Design  Processor Architectures and Digital Design )
+
+IDENTITY CODE: DIGITAL_DESIGN_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+RESPONSIBLE INSTRUCTOR: Akkarit Sangpetch
+PREREQUISITES
+   -- SYS-102 - Basic Computer Architecture
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SYS-206:00010   
+	KNOWLEDGE TOPIC: Digital Circuit                                             
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Analyze and create hardware circuit design
+	ASSESSMENT DESCRIPTION: Hands-on problem assignment to design a hardware system of interest.            
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: SYS-206:00020   
+	KNOWLEDGE TOPIC: Electronic System Design                                    
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create a hardware design circuit using HDLs
+	ASSESSMENT DESCRIPTION: Hands-on group project to create a hardware application by using a FPGA board with the HDL programming.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

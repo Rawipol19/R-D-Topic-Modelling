@@ -1,0 +1,54 @@
+Details for Competency HCD-501 (Accessibility & Universal Design )
+
+IDENTITY CODE: ACCESSIBILITY_2
+REQUIRED? true
+CREDITS: 2 (Graded)
+DESCRIPTION
+Understanding the broad diversity of users within a digital media offering, and customizing the UX/UI design to accommodate this variance within the user base, is a critical component of modern design thinking. This course will apply principles and best practices to create user interfaces that are usable by individuals who have disabilities including perceptual, cognitive or motor deficits.
+RESPONSIBLE INSTRUCTOR: Justin Paulsen
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HCD-501:00010   
+	KNOWLEDGE TOPIC: Basics of Design & Accessibility                            
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Explain what accessibility means and why it is important
+	ASSESSMENT DESCRIPTION: This assessment will document the following:
+1. What is presently inaccessible about the concept or project;
+2. How a thorough universal design analysis identifies gaps in accessibility; and,
+3. Possible methods of interventions to iterate towards broader product usage.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HCD-501:00020   
+	KNOWLEDGE TOPIC: Fundmentals of Universal Design (UD)                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Apply accessibility principles and guidelines in real systems
+	ASSESSMENT DESCRIPTION: This means taking the outcome of the first assignment, and beginning a full-scale universal design overhaul. Focus on integrating assistive technology, alongside deliberate design decisions which elegantly circumvent potential or existing gaps in universal accessibility. As a small piece of advice - clever design is often as effective (or more effective) than complex technological integrations and tangible assistive technologies. Great designers employ creativity towards elegance in accessible design.
+
+The optimal deliverable here is a prioritized list of interventions, alongside resource requirements, timelines, and justifications for each one. Demonstrate through examples what good design would look like in the suggested overhauled version.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: HCD-501:00030   
+	KNOWLEDGE TOPIC: UD and Real-World Applications                              
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Demonstrate the Value Proposition of Universal Design
+	ASSESSMENT DESCRIPTION: The ideal demonstration of mastery includes:
+
+A quantitative and qualitative assessment of the opportunity cost of NOT designing with the broadest possible accessibility;
+A clear and intuitive description of gaps, alongside actionable design iterations to resolve them; and,
+A defensible business case incorporating the ethical burden, financial cost, and legal risks of inaccessible design choices.
+You will have a maximum of ten minutes to make your case. These three assessments combined will represent an overall group grade for this project and course.
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

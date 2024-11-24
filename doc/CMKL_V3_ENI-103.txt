@@ -1,0 +1,68 @@
+Details for Competency ENI-103 (Product Development                                 )
+
+IDENTITY CODE: PRODUCT_DEVELOPMENT_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Product development competency entails the strategic integration of market research, design thinking, agile methodologies, and cross-functional collaboration to efficiently conceptualize, iterate, and deliver innovative solutions that meet both customer needs and business objectives.
+RESPONSIBLE INSTRUCTOR: Sorakrit Phruthanontachai
+PREREQUISITES
+   -- ENI-102 - Design Thinking
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: ENI-103:00010   
+	KNOWLEDGE TOPIC: Business Case Development                                   
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessing if the product has a real financial use case 
+	ASSESSMENT DESCRIPTION: Demonstrating the viability of the concepts using meaningful data and insights  
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: ENI-103:00020   
+	KNOWLEDGE TOPIC: Development                                                 
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Crafting and refining the product offering to meet user needs
+	ASSESSMENT DESCRIPTION: demonstrating functionality and concept feasibility                             
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: ENI-103:00030   
+	KNOWLEDGE TOPIC: Scoping                                                     
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Initial definition and assessment of the concept 
+	ASSESSMENT DESCRIPTION: defined scope, limitation and assumptions with a clear direction for development 
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: ENI-103:00040   
+	KNOWLEDGE TOPIC: Launch                                                      
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Planning product launch             
+	ASSESSMENT DESCRIPTION: evidencing a credible strategy for market penetration                           
+	COMPLEXITY LEVEL:Evaluate                
+
+
+SKILL CODE: ENI-103:00050   
+	KNOWLEDGE TOPIC: Post-Launch Review                                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Designing processes for reviewing product performance 
+	ASSESSMENT DESCRIPTION: demonstrate meaningful mechanisms for performance evaluation                    
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: ENI-103:00060   
+	KNOWLEDGE TOPIC: Testing and Validation                                      
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Refining product-market fit         
+	ASSESSMENT DESCRIPTION: Present compelling evidence for the desirability of the offering                
+	COMPLEXITY LEVEL:Evaluate                
+
+
+
+

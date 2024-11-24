@@ -1,0 +1,72 @@
+Details for Competency HCD-302 (Engineered Arts)
+
+IDENTITY CODE: ENG_ARTS_6
+REQUIRED? false
+CREDITS: 6 (Graded)
+DESCRIPTION
+Engineered Arts will enable you to unleash your digital creative talents leveraging the power of key development software used in the contemporary Game and Interactive Industry to create content: 3D Modeling, Procedural texturing, basic Animations, Lighting, Sound, and FX.
+You will apply your learnings to a personal project.
+
+It is advised to complement this course with the courses "Game Engine Tech", and "Game Design".
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+   -- HCD-501 - Accessibility & Universal Design 
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HCD-302:00010   
+	KNOWLEDGE TOPIC: 3D Modelling and Texturing                                  
+	ASSESSMENT TYPE: Observational assessment
+	ASSESSMENT TITLE: Apply learnings of 3D Modeling      
+	ASSESSMENT DESCRIPTION: Instructor will assess Student's competency based on required technical exercices.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: HCD-302:00020   
+	KNOWLEDGE TOPIC: 3D Modelling and Texturing                                  
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create original 3D assets and Environments
+	ASSESSMENT DESCRIPTION: An assignment to demonstrate the ability to solve related sophisticated problems.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: HCD-302:00030   
+	KNOWLEDGE TOPIC: Artistic Execution                                          
+	ASSESSMENT TYPE: Observational assessment
+	ASSESSMENT TITLE: Apply learnings of Design and Art theory
+	ASSESSMENT DESCRIPTION: Instructor will assess student's competency based on required technical exercices.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: HCD-302:00040   
+	KNOWLEDGE TOPIC: Artistic Execution                                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create original and consistent Interactive Environments
+	ASSESSMENT DESCRIPTION: An assignment to demonstrate the ability to solve related sophisticated problems.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: HCD-302:00050   
+	KNOWLEDGE TOPIC: Tech and Art Synergy                                        
+	ASSESSMENT TYPE: Observational assessment
+	ASSESSMENT TITLE: Apply Creative and Technical learnings
+	ASSESSMENT DESCRIPTION: Instructor will assess student's competency based on required technical exercices.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: HCD-302:00060   
+	KNOWLEDGE TOPIC: Tech and Art Synergy                                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create consistent Creative and Technical combinations
+	ASSESSMENT DESCRIPTION: An assignment to demonstrate the ability to solve related sophisticated problems.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

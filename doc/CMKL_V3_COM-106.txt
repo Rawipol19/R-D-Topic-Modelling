@@ -1,0 +1,64 @@
+Details for Competency COM-106 (Project Management)
+
+IDENTITY CODE: PROJ_MGMT_10
+REQUIRED? false
+CREDITS: 10 (Graded)
+DESCRIPTION
+Explore the fundamentals of effective project management in our comprehensive competency. Learn essential skills including planning, scheduling, budgeting, and team leadership to successfully execute projects on time and within budget.
+RESPONSIBLE INSTRUCTOR: Paisarn Sonthikorn
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: COM-106:00010   
+	KNOWLEDGE TOPIC: Project preparation                                         
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Understand the definition of project and project management, and the life cycle of project management
+	ASSESSMENT DESCRIPTION: Create a context model, stakeholder map, and power-interest matrix              
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: COM-106:00020   
+	KNOWLEDGE TOPIC: Project preparation                                         
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Understand different types of project organizations such as, functional organization, weak/balanced/strong matrix organization, project organization and composite organization
+	ASSESSMENT DESCRIPTION: Create a context model, stakeholder map, and power-interest matrix
+
+            
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: COM-106:00030   
+	KNOWLEDGE TOPIC: Project preparation                                         
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Understand elements that constitute a coherent project and analyze stakeholders
+	ASSESSMENT DESCRIPTION: Create a context model, stakeholder map, and power-interest matrix
+
+            
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: COM-106:00040   
+	KNOWLEDGE TOPIC: Project planning                                            
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Systematically plan a project of interest
+	ASSESSMENT DESCRIPTION: Systematically plan a project of interest                                       
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: COM-106:00050   
+	KNOWLEDGE TOPIC: Project execution                                           
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Understand an integrated control system for project execution (including closure)
+	ASSESSMENT DESCRIPTION: Conduct a short study (no more than three pages) on details and its application of a tool/technique/technology for project execution of interest
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

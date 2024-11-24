@@ -1,0 +1,28 @@
+Details for Competency SEN-305 (Functional Programming)
+
+IDENTITY CODE: FUNC_PROG_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+Functional programming is a paradigm of building computer programs using expressions and functions without mutating state and data. By respecting these restrictions, functional programming aims to write code that is clearer to understand and more bug resistant.
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEN-107 - Fundamental Data Structures and Algorithms
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-305:00010   
+	KNOWLEDGE TOPIC: Functional Programming                                      
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Use Functional Programming          
+	ASSESSMENT DESCRIPTION: Given a problem specification, use a functional programming approach to implement a solution. This can be done using a pure functional language like Haskell, or by applying the functional programming capabilities in Python or JavaScript.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

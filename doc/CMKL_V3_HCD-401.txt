@@ -1,0 +1,75 @@
+Details for Competency HCD-401 (Game Development)
+
+IDENTITY CODE: GAME_DEV_6
+REQUIRED? false
+CREDITS: 6 (Graded)
+DESCRIPTION
+Game Development will bring you on a journey across the full development cycle of a Game, from Inception to Live-Ops.
+With a Design-centric approach, we will break down the Production pipeline that is the current standard in both Industrial HD (AAA) and functional Studio-sized game development organizations.
+
+With a Design-centric approach, this course will equip you with the means to create and structure the production of a Game Design Project.
+Practice will focus on applying and adapting Production methodologies to current Student's projects.
+
+It is advised to complement this course with the courses ""Game Engine Fundamentals", and ""Engineered Arts".
+RESPONSIBLE INSTRUCTOR: Lorenzo Avi
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HCD-401:00010   
+	KNOWLEDGE TOPIC: Game Development Cycle                                      
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Game Development Cycle  
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HCD-401:00020   
+	KNOWLEDGE TOPIC: Game Development Cycle                                      
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Game Development Cycle  
+	ASSESSMENT DESCRIPTION: An assignment to demonstrate the ability to solve related sophisticated problems
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: HCD-401:00030   
+	KNOWLEDGE TOPIC: Game Development Roles and Responsibilities                 
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Game Development Roles and Responsibilities
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HCD-401:00040   
+	KNOWLEDGE TOPIC: Game Development Roles and Responsibilities                 
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Game Development Roles and Responsibilities
+	ASSESSMENT DESCRIPTION: An assignment to demonstrate the ability to solve related sophisticated problems
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: HCD-401:00050   
+	KNOWLEDGE TOPIC: Production Methodologies                                    
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Production Methodologies
+	ASSESSMENT DESCRIPTION: Take a quiz that evaluates key distinctions and concepts on these topics        
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: HCD-401:00060   
+	KNOWLEDGE TOPIC: Production Methodologies                                    
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Production Methodologies
+	ASSESSMENT DESCRIPTION: An assignment to demonstrate the ability to solve related sophisticated problems
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

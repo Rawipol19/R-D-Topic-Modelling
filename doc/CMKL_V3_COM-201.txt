@@ -1,0 +1,37 @@
+Details for Competency COM-201 (Improvisational Acting)
+
+IDENTITY CODE: IMPROV_ACTING_12
+REQUIRED? false
+CREDITS: 12 (Graded)
+RESPONSIBLE INSTRUCTOR: Peevara Kitchumnongpan
+PREREQUISITES
+   -- URD-101 - Undergraduate R&D Project (1)                                     
+   -- URD-102 - Undergraduate R&D Project (2) 
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: COM-201:00010   
+	KNOWLEDGE TOPIC: Voice & Actions & Language                                  
+	ASSESSMENT TYPE: Interview/oral exam 
+	ASSESSMENT TITLE: Monologue Acting Fundamental        
+	ASSESSMENT DESCRIPTION: Each student will be assigned or approved a monologue from a play or film.
+
+This assignment will be performed in front of other students and instructor in class. 
+
+A feedback session will be given to student prior to the performance assignment. 
+
+An Uta Hagen 6 steps notes must be submitted along side your scene
+
+An annotated script must summited 
+
+Your performance will be filmed for grading and feedback purpose 
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

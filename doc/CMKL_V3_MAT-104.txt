@@ -1,0 +1,34 @@
+Details for Competency MAT-104 (Calculus - Optimization)
+
+IDENTITY CODE: CALC_OPTIMIZATION_3
+REQUIRED? false
+CREDITS: 3 (Graded)
+RESPONSIBLE INSTRUCTOR: Puttha Sakkaplangkul
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: MAT-104:00010   
+	KNOWLEDGE TOPIC: Optimization                                                
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: The concept of optimization methods
+	ASSESSMENT DESCRIPTION: Take a quiz that can show and solve the problems in the optimization methods Problem solving in class
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: MAT-104:00020   
+	KNOWLEDGE TOPIC: Optimization                                                
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Optimizations to its applications problem solving
+	ASSESSMENT DESCRIPTION: - Take a quiz that can show and solve the problems in the optimization methods - Problem solving in class
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

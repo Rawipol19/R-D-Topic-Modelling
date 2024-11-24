@@ -1,0 +1,34 @@
+Details for Competency SYS-202 (Real Time Operating Systems)
+
+IDENTITY CODE: RT_OS_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+RESPONSIBLE INSTRUCTOR: Akkarit Sangpetch
+PREREQUISITES
+   -- SYS-101 - Operating Systems
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SYS-202:00010   
+	KNOWLEDGE TOPIC: Real Time Operating Systems                                 
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Apply Memory, Task, and Threading Management in RTOS
+	ASSESSMENT DESCRIPTION: Hands-on assignment to install RTOS on the prepared environment by using CLI and tools.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: SYS-202:00020   
+	KNOWLEDGE TOPIC: Real Time Operating Systems                                 
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Create real-time programs to run on RTOS
+	ASSESSMENT DESCRIPTION: Hand-on assignment to program an application to run on RTOS.                    
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

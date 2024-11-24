@@ -1,0 +1,28 @@
+Details for Competency SEN-214 (Software Maintenance and Evolution)
+
+IDENTITY CODE: SE_MAINTENANCE_2
+REQUIRED? false
+CREDITS: 2 (Graded)
+DESCRIPTION
+This competency identifies software engineering processes that facilitate the orderly evolution and maintenance of existing software systems, including continuous integration and continuous deployment (CI/CD), documentation, and regression testing. 
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEN-201 - Software Engineering Processes
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-214:00010   
+	KNOWLEDGE TOPIC: Software Maintenance and Evolution                          
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Apply techniques for software maintenance and evolution
+	ASSESSMENT DESCRIPTION: Given a real-world software project, identify and implement strategies and tools to make it more maintainable. 
+	COMPLEXITY LEVEL:Apply                   
+
+
+
+

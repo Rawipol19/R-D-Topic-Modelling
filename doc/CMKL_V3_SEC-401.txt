@@ -1,0 +1,37 @@
+Details for Competency SEC-401 (Privacy Attacks)
+
+IDENTITY CODE: PRIVACY_ATTACKS_2
+REQUIRED? false
+CREDITS: 2 (Graded)
+DESCRIPTION
+Privacy becomes a main target for exploiting personal data. Privacy attacks aim to make use of personal data to cause any harmful activities to its owner. In this competency, you will learn about various privacy attacks, including de-anonymization attacks, membership inference attacks, etc.
+RESPONSIBLE INSTRUCTOR: Pasin Manurangsi
+PREREQUISITES
+   -- MAT-102 - Calculus - Basic derivatives
+   -- MAT-201 - Matrices and Linear Transformations (Linear algebra)
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEC-401:00010   
+	KNOWLEDGE TOPIC: Attacks on Anonymized Data                                  
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Understand the concepts and applications of de-anonymization attacks, reconstruction attacks  and can apply the attacks in simple settings
+	ASSESSMENT DESCRIPTION: Take a quiz on the topic, Assignment  write a program to perform reconstruction attacks on a given aggregated data
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SEC-401:00020   
+	KNOWLEDGE TOPIC: Attacks on Machine Learning Models                          
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Assessment: Understand the concepts of membership inference attacks, model inversion attacks, secret sharer
+	ASSESSMENT DESCRIPTION: Take a quiz on the topic.                                                       
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

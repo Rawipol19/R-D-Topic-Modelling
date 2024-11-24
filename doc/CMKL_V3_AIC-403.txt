@@ -1,0 +1,86 @@
+Details for Competency AIC-403 (Classification and Regression)
+
+IDENTITY CODE: CLASS_REGRESS_6
+REQUIRED? false
+CREDITS: 4 (Graded)
+DESCRIPTION
+In this class, students will learn about classification and regression which are the main pillars of data science. While this course covers well-known state-of-the-art algorithms and their concepts, it is heavily focused on the real-world applications of classification and regression. Some of the covered algorithms are XGBoost, Random Forest, ARIMA, and YOLO (but not limited to).  There are short writing assignments and a final project at the end. Lab sessions will be conducted in Python, scikit-learn, and TensorFlow.
+RESPONSIBLE INSTRUCTOR: Boonyarit Changaival
+PREREQUISITES
+   -- MAT-207 - Discrete Mathematics
+   -- AIC-201 - Supervised Learning and Unsupervised Learning
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: AIC-403:00010   
+	KNOWLEDGE TOPIC: Applied Machine Learning                                    
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: the concept of machine learning
+	ASSESSMENT DESCRIPTION: Understand and able to distinguish situations where  machine learning is needed and when other approaches can be used. Writing assignment  1-2 pages of an example classification problem and methods to solve it.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: AIC-403:00020   
+	KNOWLEDGE TOPIC: Classification                                              
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: analyze and implement classification algorithms
+	ASSESSMENT DESCRIPTION: Able to analyze and implement classification algorithms to be used in given contexts and able to select suitable performance metrics along with the algorithms. Writing assignment  1-2 pages of an example classification problem and methods to solve it.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: AIC-403:00030   
+	KNOWLEDGE TOPIC: Regression                                                  
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Able to analyze and implement regression algorithms
+	ASSESSMENT DESCRIPTION: Able to analyze and implement regression algorithms to be used in given contexts and able to select suitable performance metrics along with the algorithms.  Writing assignment  1-2 pages of an example regression problem and methods to solve it.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: AIC-403:00040   
+	KNOWLEDGE TOPIC: K-Nearest Neighbours                                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Use K-NN as a classifier
+	ASSESSMENT DESCRIPTION: Given a labelled data and input queries, determine the classes of the output    
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: AIC-403:00050   
+	KNOWLEDGE TOPIC: Decision Tree                                               
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Use a decision tree as a classifier
+	ASSESSMENT DESCRIPTION: Given a labelled data, design a decision tree for classification                
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: AIC-403:00060   
+	KNOWLEDGE TOPIC: SVM                                                         
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Use SVM as a classifier 
+	ASSESSMENT DESCRIPTION: Given data points of two classes, draw a decision boundary by SVM that separates the two classes
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: AIC-403:00070   
+	KNOWLEDGE TOPIC: Classification and Regression                               
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Evaluation the Classification and Regression concept
+	ASSESSMENT DESCRIPTION: Project assigment  A report of 5-10 pages on the results of the study and a presentation. Able to do further research and use foundation learning in this course to understand others state-of-the-art or novel algorithms.
+	COMPLEXITY LEVEL:Create                  
+
+
+SKILL CODE: AIC-403:00080   
+	KNOWLEDGE TOPIC: Classification and Regression                               
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Able to communicate reseach methodology and outcomes to audiences.
+	ASSESSMENT DESCRIPTION: Project assigment  A report of 5-10 pages on the results of the study and a presentation.
+	COMPLEXITY LEVEL:Create                  
+
+
+
+

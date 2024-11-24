@@ -1,0 +1,43 @@
+Details for Competency MAT-206 (Statistical Inference)
+
+IDENTITY CODE: INFER_STATS_3
+REQUIRED? true
+CREDITS: 4 (Graded)
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+   -- MAT-205 - Probability Distributions
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: MAT-206:00010   
+	KNOWLEDGE TOPIC: Estimation                                                  
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Punctual, interval and regional estimation
+	ASSESSMENT DESCRIPTION: Given a sample from a Normal distribution compute: punctual estimators for its mean and variance; maximum likelihood of the parameters, and confidence intervals and regions for a specified significance level. Also compute a prediction interval for a future observation.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: MAT-206:00020   
+	KNOWLEDGE TOPIC: Hypothesis Test                                             
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Hypothesis testing for mean, variance, and ANOVA
+	ASSESSMENT DESCRIPTION: Given data from different populations, if the appropriate assumptions are satisfied, perform hypothesis tests on the mean, and variance. Also perform an ANOVA to determine if the means can be considered equal.
+	COMPLEXITY LEVEL:Apply                   
+
+
+SKILL CODE: MAT-206:00030   
+	KNOWLEDGE TOPIC: Linear Regression                                           
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Adjust and analyze a linear regression model
+	ASSESSMENT DESCRIPTION: Given a variable of interest and covariates, perform and analyze a linear regression. Including the analysis of the assumptions and the creation of appropriate plots and figures.
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

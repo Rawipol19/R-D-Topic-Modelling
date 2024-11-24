@@ -1,0 +1,52 @@
+Details for Competency SCI-102 (Fundamentals of Chemistry)
+
+IDENTITY CODE: CHEMISTRY_12
+REQUIRED? false
+CREDITS: 12 (Graded)
+DESCRIPTION
+The Fundamentals of Chemistry course provides an introduction to the essential principles and concepts of chemistry. This course covers a wide range of topics, from the atomic and molecular structure to chemical reactions and their applications. Students will explore key chemical principles, the behavior of gases, solutions, and thermodynamics. The course is designed to develop a solid foundation in chemistry, preparing students for advanced study in the chemical sciences.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SCI-102:00010   
+	KNOWLEDGE TOPIC: Electron configuration and periodic trends                  
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Understanding of Atomic and Molecular Structure
+	ASSESSMENT DESCRIPTION: Short-answer exams evaluating knowledge and application of atomic and molecular structure concepts.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-102:00020   
+	KNOWLEDGE TOPIC: Balancing chemical equations and reaction types             
+	ASSESSMENT TYPE: Quiz or exam        
+	ASSESSMENT TITLE: Knowledge of Chemical Reactions and Stoichiometry
+	ASSESSMENT DESCRIPTION: Short-answer exams testing knowledge of chemical reaction principles and stoichiometry.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-102:00030   
+	KNOWLEDGE TOPIC: Ideal gas law and kinetic molecular theory                  
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Comprehension of States of Matter and Gas Laws
+	ASSESSMENT DESCRIPTION: Essays that require students to explain states of matter and gas law concepts.  
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: SCI-102:00040   
+	KNOWLEDGE TOPIC: Enthalpy, entropy, and Gibbs free energy                    
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Understanding of Thermodynamics and Chemical Equilibria
+	ASSESSMENT DESCRIPTION: Essays analyzing thermodynamic concepts and chemical equilibria.                
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

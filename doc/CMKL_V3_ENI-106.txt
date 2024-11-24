@@ -1,0 +1,52 @@
+Details for Competency ENI-106 (Building Effective Teams to drive Innovation)
+
+IDENTITY CODE: EFFECTIVE_TEAMS_2
+REQUIRED? false
+CREDITS: 2 (Graded)
+DESCRIPTION
+Building Effective Teams is crucial for driving innovation as it fosters collaboration, diversity of thought, and a culture of creativity and experimentation.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: ENI-106:00010   
+	KNOWLEDGE TOPIC: Why do the Good Teams fail and then the Great Firms?        
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand and articulate from case studies and why the good teams fail and so impact the great firms.
+	ASSESSMENT DESCRIPTION: Take a quiz, written assignment, presentation that evaluates key distinctions and concepts on these topics.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: ENI-106:00020   
+	KNOWLEDGE TOPIC: The innovator DNA                                           
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand the DNA of the innovator. Students will start to think further on how to make a good composition of all these DNA in the team
+	ASSESSMENT DESCRIPTION: Take a quiz, writtent assignnment, presentation that evaluates key distinctions and concepts on these topics.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: ENI-106:00030   
+	KNOWLEDGE TOPIC: Distributed Leadership                                      
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand what is essential to having interdisciplinary, distributed leadership in the age of innovation-driven.
+	ASSESSMENT DESCRIPTION: Take a quiz, writtent assignnment, presentation that evaluates key distinctions and concepts on these topics.
+	COMPLEXITY LEVEL:Understand              
+
+
+SKILL CODE: ENI-106:00040   
+	KNOWLEDGE TOPIC: Structure the team and make it work.                        
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: Understand the practical components that fundamentally begin from the strategic objectives, structure, process, incentive, and culture to achieve the ultimate goals.
+	ASSESSMENT DESCRIPTION: Take a quiz, written assignment, presentation that evaluates key distinctions and concepts on these topics.
+	COMPLEXITY LEVEL:Understand              
+
+
+
+

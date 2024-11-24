@@ -1,0 +1,28 @@
+Details for Competency SEN-405 (Open Source Software)
+
+IDENTITY CODE: OPENSOURCE_SW_2
+REQUIRED? false
+CREDITS: 2 (Graded)
+DESCRIPTION
+Open Source Software is software that is developed by a community of volunteers and made available, with its source code, for free. OSS has become very important to support continued advances in computing. Thus the quality of OSS is critically important. However, OSS development processes are distinctly different from those followed in formally constituted development teams. 
+RESPONSIBLE INSTRUCTOR: Sally Goldin
+PREREQUISITES
+   -- SEN-201 - Software Engineering Processes
+DISTRIBUTION AREAS
+   -- Core Technical
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: SEN-405:00010   
+	KNOWLEDGE TOPIC: Open Source Software                                        
+	ASSESSMENT TYPE: Hands-on problem    
+	ASSESSMENT TITLE: Assessment: Open Source Software    
+	ASSESSMENT DESCRIPTION: Identify an open source project that interests you and join the development community. Contribute at least one code change. Then write an essay describing and analyzing the process of interacting with the OSS developers.
+	COMPLEXITY LEVEL:Evaluate                
+
+
+
+

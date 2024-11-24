@@ -1,0 +1,29 @@
+Details for Competency MAT-202 (Signal Processing and Data Domains)
+
+IDENTITY CODE: DATA_DOMAINS_4
+REQUIRED? false
+CREDITS: 4 (Graded)
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+   -- MAT-102 - Calculus - Basic derivatives
+   -- MAT-101 - Calculus - Differentiation
+   -- MAT-103 - Calculus - Integration
+DISTRIBUTION AREAS
+   -- Core Technical
+   -- Math/Science
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: MAT-202:00010   
+	KNOWLEDGE TOPIC: Data Domains | Time/Frequency Domain                        
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Assessment: The concept of Data Domains
+	ASSESSMENT DESCRIPTION: Analyst the concept of Data Domains                                             
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+

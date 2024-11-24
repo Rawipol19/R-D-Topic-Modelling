@@ -1,0 +1,53 @@
+Details for Competency HAS-106 (History of Visual Arts)
+
+IDENTITY CODE: ART_HISTORY_8
+REQUIRED? false
+CREDITS: 8 (Graded)
+DESCRIPTION
+Have you ever felt that you liked an artwork but couldn't explain why? Do you have questions about art that you were always afraid to ask? This course is conceived to give students the tools to feel at home when visiting a museum and talk about art in social, business and academic settings. It is organized over two semesters, but students can take only one of the two courses. Cultural History of the Visual Arts covers the period from the 1500s to the 2000s and features masterpieces and lesser known works in Western and Non-Western art, organized chronologically and by theme. Some of the topics we will study include the controversy surrounding Leonardo's and Michelangelo's works, the role of censorship in the arts, the development of perspective experiments and visual theories from Antiquity onward, the concept of landscape and the status of the artist in the Ming dynasty, the impact of colonialism and post-colonial identity in South American Art, the rediscovery of Pompeii and Herculaneum and the Egyptian craze in the 1800s, the world of Opera and ballet, and the Impressionists' ideas of what an artwork should be.  Some of the topics we will study include the invention of a modern ways of seeing in Japanese art; the impact of science, film and photography on the Impressionists; the myth of the artist as a savage, a fool, and a prophet; the creation of ideal homes for common (and uncommon) people; the meaning of the avant-garde; and the many ways in which artists and politicians experiment with art and architecture in order to control our minds and emotions. The course also includes museum visits that will be organized taking in consideration the students' schedule. No prerequisite required and open to students from all disciplines.
+RESPONSIBLE INSTRUCTOR: UNSPECIFIED
+PREREQUISITES
+None
+DISTRIBUTION AREAS
+   -- Humanities and Social Sciences
+
+
++++ SKILLS AND ASSESSMENTS +++
+
+
+
+SKILL CODE: HAS-106:00010   
+	KNOWLEDGE TOPIC: Visual Arts from the 1500s to the 1700s: Renaissance and Baroque
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Analyzing major works by Leonardo, Michelangelo, and their controversies
+	ASSESSMENT DESCRIPTION: Perspective Analysis: Students will select a Renaissance painting and write an essay analyzing its use of perspective, citing the development of visual theories from Antiquity onward (assessing visual theory comprehension and analytical skills).
+
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: HAS-106:00020   
+	KNOWLEDGE TOPIC: Art and Colonialism: 18th and 19th Century Western and Non-Weste
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Understanding how the rediscovery of ancient civilizations influenced European art and culture
+	ASSESSMENT DESCRIPTION: Comparative Landscape Essay: Students will compare Western and Non-Western depictions of landscapes, analyzing differences in technique, symbolism, and cultural significance (assessing ability to compare and evaluate art across cultures).
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: HAS-106:00030   
+	KNOWLEDGE TOPIC: Visual Arts in the 19th and 20th Centuries: Modernism and Beyond
+	ASSESSMENT TYPE: Observational assessment
+	ASSESSMENT TITLE: Understanding the influence of science, film, and photography on Impressionist art
+	ASSESSMENT DESCRIPTION: Impressionist Art Critique: Students will visit a museum or analyze an online collection featuring Impressionist works, writing a critique that explains how science, film, and photography influenced the visual techniques used (assessing analytical skills and art criticism).
+	COMPLEXITY LEVEL:Analyze                 
+
+
+SKILL CODE: HAS-106:00040   
+	KNOWLEDGE TOPIC: Contemporary Visual Arts: Politics, Emotion, and Identity   
+	ASSESSMENT TYPE: Imported assessment 
+	ASSESSMENT TITLE: Understanding how political forces use art and architecture to influence society
+	ASSESSMENT DESCRIPTION: Political Art Analysis: Students will select a contemporary work of art or architectural piece associated with a political regime and write an analysis on how the work is used to control emotions or influence public perception (assessing ability to interpret art in political contexts).
+	COMPLEXITY LEVEL:Analyze                 
+
+
+
+
